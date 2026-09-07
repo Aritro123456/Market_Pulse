@@ -1,6 +1,52 @@
 # MarketPulse
 
-Technology-stock and financial-news research dashboard built with Python and Streamlit.
+MarketPulse is a technology-equity research platform that combines historical Yahoo Finance prices, Alpaca IEX snapshots, Alpha Vantage financial news and FinBERT sentiment. It helps researchers inspect market regimes, momentum signals, news events, risk and historical strategy performance across 20 technology companies.
+
+**[Open the live website](https://aritro123456.github.io/Market_Pulse/)** · **[Launch the dashboard](https://aritro123456.github.io/Market_Pulse/terminal.html)**
+
+> The GitHub Pages demo uses the embedded historical research snapshot. Run the local Python server to enable the Alpaca IEX endpoint; API credentials are never exposed in the browser or repository.
+
+## Product preview
+
+### Landing page
+
+The recruiter-facing landing page introduces the research problem, data sources and dashboard capabilities.
+
+![MarketPulse landing page](docs/screenshots/landing-hero.png)
+
+![MarketPulse feature overview](docs/screenshots/landing-features.png)
+
+### Global technology overview
+
+The interactive headquarters map opens company-specific research, while the overview combines a rotating price chart, watchlist, market heatmap, signals and portfolio risk indicators.
+
+![Global technology headquarters map](docs/screenshots/dashboard-world-map.png)
+
+![Market overview with price chart, signals and heatmap](docs/screenshots/dashboard-overview.png)
+
+### Market data and news intelligence
+
+The market table combines Alpaca IEX snapshots with Yahoo Finance daily history and derived indicators. The news archive presents source imagery, article summaries, relevance scores and FinBERT sentiment.
+
+![Live and historical technology-equity table](docs/screenshots/markets-live-table.png)
+
+![Financial news intelligence and FinBERT sentiment](docs/screenshots/news-intelligence.png)
+
+### Company research lab
+
+Each company has its own coverage summary, strategy risk/return comparison, annual validation results and event-response visualization.
+
+![Company-specific quantitative research lab](docs/screenshots/company-research.png)
+
+## Main capabilities
+
+- Twenty technology equities with more than 50,000 daily market observations.
+- Company-level price charts, returns, moving averages, momentum, volatility, RSI and MACD.
+- Financial-news ingestion with relevance filtering, caching and rate-limit handling.
+- FinBERT sentiment, daily aggregation and categorized company-news events.
+- Momentum, sentiment-plus-momentum and adaptive-risk backtests with transaction costs.
+- Walk-forward evaluation, information coefficients, significance tests, drawdowns and bootstrap risk analysis.
+- Interactive landing page and research terminal with company-specific navigation.
 
 ## Setup
 
