@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+scikit-learn
+scipy
+plotly
+requests
+transformers
+torch
+alpaca-py
+python-dotenv

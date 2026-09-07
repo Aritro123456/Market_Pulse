@@ -1,0 +1,540 @@
+Ticker,EventDate,EventType,Headline,Sentiment,NewsCount,CAR_Minus5_Plus5
+AAPL,2022-01-03,Strong Negative,Apple becomes first $3 trillion company,-0.1495367647265194,6,0.020152191337299497
+AAPL,2022-01-04,Strong Negative,"Apple becomes first company to hit $3 trillion market value, then slips",-0.1526008616984371,5,0.015466399275022595
+AAPL,2022-01-05,Strong Negative,$20 Billion In 2022: Google Pays Apple For Not Launching Its Own Search Engine?,-0.423058710143481,3,0.015203251102487794
+AAPL,2022-01-06,Strong Positive,"Trump’s social media app to launch in February, App Store listing says",0.336159939083104,3,0.0205400583023416
+AAPL,2022-01-10,Strong Negative,T-Mobile begins blocking iPhone users from enabling iCloud Private Relay in the US [U],-0.5757676556969601,2,0.0263090594131826
+AAPL,2022-01-11,Strong Positive,Two companies show where our UWB future is heading,0.3423328094889046,3,0.0008901192013413984
+AAPL,2022-01-12,Strong Negative,"Best Buy Co. Inc. stock falls Wednesday, underperforms market",-1.0,1,0.003252436431738599
+AAPL,2022-01-18,Strong Negative,Child Labor and the Human Rights Violations Embedded in Producing Technology,-0.2859485184006442,4,0.020618915885176503
+AAPL,2022-01-19,Strong Negative,Fubo Integrates FanView For Multiview Users on Apple TV,-0.3130964662594936,3,0.022162328239800605
+AAPL,2022-01-20,Strong Positive,Rate Hikes Might Bring Quality ETFs Into Focus,1.0,1,0.027527744285626904
+AAPL,2022-01-24,Strong Positive,Warren Buffett has nearly caught up with Cathie Wood after the tech-stock guru vastly outperformed him in 2020,0.3520155474636683,3,0.055491124608475204
+AAPL,2022-01-26,Strong Positive,"How the ‘world's first’ AI-managed ETF stacks up, almost five years later",0.4696890229888444,2,0.0417452436461015
+AAPL,2022-01-28,Strong Positive,Apple Posts Highest-Ever Quarterly Earnings in Sign It Tamed Supply Crisis,0.3948332125801758,3,0.0586750269680594
+AAPL,2022-02-01,Strong Positive,LGD and BOE Competing with SDC for Larger Share of iPhone Business,0.3408435947137885,4,0.0641953825329426
+AAPL,2022-02-03,Strong Negative,Judge dismisses lawsuit over Apple iPhone water resistance claims,-0.1378423832675201,6,0.03753378984947679
+AAPL,2022-02-04,Strong Positive,"Apple, Broadcom win new trial in $1.1 bln Caltech patent case",0.4382876085403875,4,0.0419098931205231
+AAPL,2022-02-07,Strong Positive,Tim Cook Reaffirms Commitment to Being Carbon Neutral,0.23136255637332,4,0.003684931796352104
+AAPL,2022-02-09,Strong Negative,Apple vs. the World,-0.2876418551461165,4,0.014466527679823597
+AAPL,2022-02-11,Strong Positive,Apple Just Quietly Introduced a Feature to Your iPhone That Is Going to Upend This $1.7 Trillion Industry,0.4093389721012648,5,0.0022471017590372944
+AAPL,2022-02-17,Strong Negative,Apple defeats copyright lawsuit over racially diverse emoji,-0.2489991672903205,5,-0.009086372801145104
+AAPL,2022-02-18,Strong Negative,Trump’s Truth Social Is Poised to Join a Crowded Field (Published 2022),-0.1830351779110918,5,-0.0094606603557836
+AAPL,2022-02-22,Strong Positive,Kraft Heinz taps Google for multiyear transformation push,1.0,1,-0.017280546925208702
+AAPL,2022-02-24,Strong Negative,Apple Al Maryah Island opens Friday in the heart of Abu Dhabi,-0.4321706024742135,2,0.0003594986489991979
+AAPL,2022-03-01,Strong Negative,Apple Halts Product Sales in Russia After Ukraine Invasion,-1.0,2,-0.006809072083526001
+AAPL,2022-03-02,Strong Negative,"Apple to host spring event next week, low-cost 5G iPhone in focus",-0.2282776276713106,5,-4.140276250760074e-05
+AAPL,2022-03-03,Strong Negative,Ikea and the owner of T.J. Maxx are the latest retailers to halt Russia operations.,-0.4697683663372375,4,-0.0158738887254796
+AAPL,2022-03-04,Strong Negative,Ukraine war tests whether marketers can address crisis meaningfully,-0.3810476338751676,5,-0.0021201299502241998
+AAPL,2022-03-07,Strong Negative,EPAM Shares Continue to Fall on Ukraine Crisis & Russia Exit,-1.0,1,-0.006935798459660997
+AAPL,2022-03-11,Strong Negative,"Autodesk Inc. stock falls Friday, underperforms market",-0.3453360885429734,3,-0.0403529083405393
+AAPL,2022-03-14,Strong Negative,TSMC’s largest customer makes up 26% of revenue,-0.3822298597097451,2,-0.025118724691281395
+AAPL,2022-03-15,Strong Positive,Apple’s Impact Accelerator unlocks new opportunities for US businesses to speed environmental progress,0.3087369786320049,4,-0.0371342558554759
+AAPL,2022-03-16,Strong Negative,Apple Pay has arrived in Argentina: how to pay with the iPhone and what are its advantages?,-0.1914231709961006,4,-0.0075015484433338005
+AAPL,2022-03-21,Strong Negative,U.S. charges former Apple buyer with defrauding more than $10 million from company,-0.6288386670381007,2,0.007334909691106995
+AAPL,2022-03-25,Strong Positive,How big U.S. companies are creating a brand new abortion benefit,0.2611369271210616,3,0.031230413383096702
+AAPL,2022-03-28,Strong Negative,"Apple to cut iPhone, AirPods output, Nikkei reports",-1.0,2,0.033884328764642806
+AAPL,2022-03-30,Strong Positive,WA Police phone capabilities expanded to add support for Apple CarPlay,0.5626801988552755,2,0.027940861271001
+AAPL,2022-03-31,Strong Negative,Apple reportedly seeks alternative flash memory chip suppliers,-0.2204827865502916,4,0.0047622282764544985
+AAPL,2022-04-06,Strong Negative,"BlackBerry plans to settle lawsuit over BlackBerry 10, avoid U.S. trial",-1.0,1,0.0202289855053624
+AAPL,2022-04-07,Strong Negative,Warren Buffett made about $650 million on HP after stake was revealed,-0.1926897010278248,5,0.008711485228334499
+AAPL,2022-04-08,Strong Positive,"Survey finds 87% of US teenagers own an iPhone, Apple's AirPods remain immensely popular",0.4212184586352943,3,0.011994037342594795
+AAPL,2022-04-13,Strong Positive,This Chip Maker Supplies Tesla and Apple. Its Stock Could Get a Boost as Shortages Continue.,0.3175579987195073,3,0.0266223760101977
+AAPL,2022-04-14,Strong Positive,Apple helps suppliers rapidly accelerate renewable energy use around the world,0.6180672172821483,2,0.021726393092940298
+AAPL,2022-04-18,Strong Negative,"Why we may not get a Garmin Vivoactive 5: rumours, leaks, expectations",-0.4923148525316146,2,0.0161915360516895
+AAPL,2022-04-19,Strong Negative,Spotify review: The most popular music service needs to fix some serious issues,-0.6352356020942408,3,0.0145382498068987
+AAPL,2022-04-20,Strong Negative,"Netflix shares slide after it loses 200,000 subscribers",-1.0,2,0.016128135186042503
+AAPL,2022-04-21,Strong Positive,Apple Spends Record High on Lobbying Amid Pressure from Congress,0.2288710975662208,2,0.010019810918202006
+AAPL,2022-04-25,Strong Negative,Apple plans Cary office project to fill seven-story tower,-0.1663990169859364,5,0.014789804021180998
+AAPL,2022-04-29,Strong Negative,Apple Sales Top Estimates on Strong iPhone and Services Demand,-0.2594087218103814,6,0.022815164958972397
+AAPL,2022-05-02,Strong Negative,Apple lawsuit says 'stealth' startup Rivos poached engineers to steal secrets,-0.7350014681654327,3,0.030388179385807394
+AAPL,2022-05-05,Strong Negative,Tech sell-off pushes Nasdaq to steepest drop since June 2020,-0.39566765658991,3,-0.006400877320207006
+AAPL,2022-05-09,Strong Negative,Vietnam 'darling' of global electronics giants,-0.2158431186779293,4,-0.028658364723255808
+AAPL,2022-05-10,Strong Negative,How Citizens Financial used an iPhone plan to create a nationwide digital bank,-0.6588338066075929,3,-0.014407268422442712
+AAPL,2022-05-12,Strong Positive,A customer-centric approach: the key to the innovation paradox,0.351040298160728,3,-0.05677062792757741
+AAPL,2022-05-19,Strong Positive,"SEI Enhanced U.S. Large Cap Value Factor ETF ETF Price, Holdings, & News (BATS:SEIV)",0.4947339172152006,2,-0.0428145736155046
+AAPL,2022-05-20,Strong Negative,International Business Machines Corp. stock underperforms Friday when compared to competitors,-0.3739461976908071,3,-0.010167480353826502
+AAPL,2022-05-26,Strong Positive,"Newport plant critical to easing microchip shortage, says boss",0.351828064625348,3,-0.017417505388262096
+AAPL,2022-05-27,Strong Negative,Apple can't dodge rival app store Cydia's antitrust lawsuit,-0.319839882513698,4,0.0037625068639850047
+AAPL,2022-05-31,Strong Negative,"Apple Inc. stock falls Tuesday, underperforms market",-1.0,1,0.007867569000776203
+AAPL,2022-06-06,Strong Positive,WWDC22 highlights,0.4,5,-0.0024721041851287
+AAPL,2022-06-09,Strong Negative,"Dow dives 800 points, S&P 500 posts worst week since January after inflation hits 40-year high",-0.5039513064764679,2,-0.013726876457048799
+AAPL,2022-06-10,Strong Negative,"Palo Alto Networks Appoints Channel Leader for EMEA, LATAM",-0.4815053896083248,4,-0.0037787644104555988
+AAPL,2022-06-13,Strong Positive,Grassroots mojo and 4 other reasons Starbucks workers have been so successful unionizing,1.0,2,0.016288335962611707
+AAPL,2022-06-30,Strong Negative,Apple hikes Japan price of iPhone by nearly a fifth,-0.2849844080552535,4,0.032056115782799904
+AMD,2022-01-04,Strong Positive,AMD Presents Latest High-Performance Computing Technologies in 2022 Product Premiere Livestream,0.3333333333333333,3,-0.0675981780399391
+AMD,2022-01-07,Strong Positive,"CES 2022: HP shows off Elite Dragonfly G3, Dragonfly Chromebook and lots more new hardware",1.0,1,-0.0018512328961376966
+AMD,2022-01-10,Strong Positive,Hesai Technology showcased new automotive-grade hybrid solid-state Lidar AT128,0.6615897445178929,3,-0.010752751305978199
+AMD,2022-01-11,Strong Positive,Stellar December gives TSMC record year,0.5649056697962577,2,-0.06194298872254159
+AMD,2022-01-26,Strong Positive,Intel scores major win as court scraps $1.2 bln EU antitrust fine,0.5306797229598483,2,-0.05695404985126237
+AMD,2022-02-01,Strong Negative,Infographic: Highlights of Advanced Micro Devices’ (AMD) Q4 results,-0.4856652328727808,2,0.08752230646593791
+AMD,2022-02-02,Strong Positive,AMD's stellar report fuels chip stock rally,0.6364861888861874,2,0.1255193993258872
+AMD,2022-02-04,Strong Positive,Texas Instruments plans to invest billions in semiconductor chips to combat shortage,0.3457121860914828,3,0.09187563632376101
+AMD,2022-02-16,Strong Positive,AMD Radeon ProRender for Rhino,0.2736785821711756,3,-0.030072768431942003
+AMD,2022-02-17,Strong Positive,Inside Pat Gelsinger’s audacious $43.5B plan to revive Intel,1.0,1,-0.022257058175865832
+AMD,2022-02-18,Strong Negative,The Processor Chip Industry Is Another Ugly Capitalist Oligopoly,-0.3110564372910507,3,0.024258657651962796
+AMD,2022-02-22,Strong Negative,"AMD CPU Shipments in Japan Sink to 25% of Total, Intel Achieves 74%",-0.5829635886772148,2,0.03084775310520499
+AMD,2022-02-28,Strong Negative,"Semiconductor sales to Russia banned, but that shouldn’t hurt Intel, AMD and other chip makers",-0.5135883316181195,2,-0.01689937048369801
+AMD,2022-03-03,Strong Negative,Nvidia hackers allegedly attempting to blackmail company into open-sourcing GPU drivers,-0.5049948900959873,2,-0.02622555632940051
+AMD,2022-03-07,Strong Negative,EPAM Shares Continue to Fall on Ukraine Crisis & Russia Exit,-1.0,1,-0.07768515394742372
+AMD,2022-03-08,Strong Positive,AMD Radeon™ PRO W6600X GPU for Mac Pro Unleashes New Creative Possibilities for Design and Content Creation Professionals,0.3769649340500367,5,-0.05566496941160784
+AMD,2022-03-11,Strong Positive,"Micron CEO says chip shortage improving, but could last into 2023",1.0,1,-0.007673131350360102
+AMD,2022-03-15,Strong Positive,"AMD Launches the Ultimate Gaming Processor, Brings Enthusiast Performance to an Expanded Lineup of Ryzen Desktop Processors",1.0,2,0.018173876252465984
+AMD,2022-03-17,Strong Positive,Introducing AMD Software: Adrenalin Edition 2022 Release and AMD FidelityFX Super Resolution 2.0 – Delivering High-Performance and Visually Stunning Gaming Experiences,1.0,1,0.01483107491556419
+AMD,2022-03-18,Strong Negative,When the world runs low on neon gas,-0.3390736367470769,3,0.03875795325872089
+AMD,2022-03-21,Strong Positive,3rd Gen AMD EPYC Processors with AMD 3D V-Cache Technology Deliver Outstanding Leadership Performance in Technical Computing Workloads,1.0,1,0.027693541944754187
+AMD,2022-03-22,Strong Positive,"Keynote Wrap-Up: Turning Data Centers into ‘AI Factories,’ NVIDIA CEO Intros Hopper Architecture, H100 GPU, New Supercomputers, Software",0.3069545892600414,3,0.03570684175218869
+AMD,2022-03-23,Strong Positive,10 Servers With AMD EPYC Milan-X New Server CPUs,0.2893762832163949,3,-0.0236632912261042
+AMD,2022-03-24,Strong Negative,"Possible Nvidia, Intel GPU Alliance Could Frustrate Rivals AMD, TSMC",-0.5248658241318884,2,-0.1122998169756971
+AMD,2022-04-05,Strong Positive,"AMD Stock Up 2%, Advanced Micro Devices Acquires Pensando for $2B",0.4216388427194356,3,-0.15654117675910348
+AMD,2022-04-06,Strong Negative,AMD CEO Lisa Su says chipmaker is 'doubling down on data centers' with $1.9B Pensando deal,-0.2304898149281794,2,-0.15676536688080658
+AMD,2022-04-11,Strong Positive,SK hynix Accelerates DRAM Design with Cadence Spectre FX Simulator,1.0,1,-0.0630156263198282
+AMD,2022-04-12,Strong Negative,"The end of one-chip wonders: Why Nvidia, Intel and AMD's valuations have experienced massive upheaval",-0.1582854565916298,3,-0.0794928527871084
+AMD,2022-04-19,Strong Positive,Synopsys Introduces Industry's Highest Performance Neural Processor IP,0.5110791336561181,2,-0.06986650460579048
+AMD,2022-04-20,Strong Positive,Latest Oracle Exadata servers ascend to the cloud,0.4984897632575626,2,-0.059320601764697396
+AMD,2022-05-06,Strong Negative,Pave the Way for Next Wireless Breakthroughs,-0.4873655761255083,2,0.1543490125531758
+AMD,2022-05-09,Strong Negative,WD Announces WD Black SN850X and P40 Game Drive,-0.617390900893079,3,0.15765208840101383
+AMD,2022-05-10,Strong Positive,AMD Announces Three New Radeon RX 6000 Series Graphics Cards and First Games Adding Support for AMD FidelityFX Super Resolution 2.0,0.5772272274437038,4,0.185262713317465
+AMD,2022-05-23,Strong Positive,"AMD Showcases Industry-Leading Gaming, Commercial, and Mainstream PC Technologies at COMPUTEX 2022",0.3452659549124094,3,0.054602539854875495
+AMD,2022-06-01,Strong Positive,Best semiconductor ETFs in the UK 2023,1.0,1,0.0272497264870168
+AMD,2022-06-06,Strong Positive,ASML engineer who fled charges of stealing chip tech is living comfortably in China as CEO of XTAL Inc.,0.3482397276801988,3,-0.0380976232941928
+AMD,2022-06-09,Strong Positive,AMD unveils roadmap for next-gen Ryzen chips and Zen 5 architecture,0.5,2,-0.0819296678428582
+AMD,2022-06-13,Strong Negative,"AMD Reveals Roadmap for Zen 4-based laptop CPU, Zen 5, RDNA 3, and RDNA 4",-0.5,2,-0.14831010583269438
+AMD,2022-06-14,Strong Positive,Who's growing faster than Nvidia and AMD? Rising datacenter star Marvell,0.4058962494892468,2,-0.1378830447137235
+AMD,2022-06-17,Strong Negative,"With Funding Stalled, Chip Makers Warn Congress the U.S. Is Lagging",-1.0,1,-0.10894930766200882
+AMD,2022-06-24,Strong Positive,"Chinese DPU chip firm gains funds, unicorn status ...",1.0,1,-0.1853556314462919
+AMD,2022-06-29,Strong Negative,Chip manufacturers press for federal funding as bill flails in Congress,-0.3379389752446747,3,-0.09823687720703489
+AMD,2026-08-26,Strong Positive,AMD Accelerates Kodiak AI’s New Autonomous Driving Platform with EPYC Processors,0.2563525442220956,12,-0.043556005337969494
+AMZN,2022-01-03,Strong Positive,Smart Water for a Smarter Home: Moen Leads the Way with Industry's First Whole-Home Connected Water Product Suite,1.0,1,-0.014434778558525905
+AMZN,2022-01-06,Strong Positive,Marin Software Announces Amazon DSP Integration to Expand Amazon Advertising Solutions,0.507786947114175,4,0.013121072738931296
+AMZN,2022-01-07,Strong Negative,Google loses Sonos smart speakers patent fight,-1.0,1,0.012930621353726194
+AMZN,2022-01-10,Strong Negative,Amazon Delivery Drivers Sprint After Rolling Delivery Vans,-0.1828244528816067,5,0.0231471334627097
+AMZN,2022-01-12,Strong Negative,Tuvalu: Strikes deal with GoDaddy to manage .tv - ABC Pacific,-0.3293557946037598,3,-0.007537175977884298
+AMZN,2022-01-13,Strong Positive,What’s Changed: 2021 Gartner Magic Quadrant for Cloud Database Management Systems,0.3332587466953053,6,-0.051137861005386795
+AMZN,2022-01-14,Strong Negative,"Thieves cover Union Pacific Railroad train tracks in Los Angeles with stolen cargo and packages, interrupting deliveries",-0.3505397928823235,3,-0.036380769695184
+AMZN,2022-01-18,Strong Negative,Amazon reimagines in-store shopping with Amazon Style,-0.0249522723136269,5,-0.0512779754870731
+AMZN,2022-01-20,Strong Positive,Amazon to open its first in-person clothing store. What we know about the new Amazon Style.,0.2389879099739323,4,-0.0438404257712302
+AMZN,2022-01-24,Strong Positive,"UIP, Churchill Living acquire 300-unit apartment tower across from Amazon HQ2",0.4692188784787817,4,-0.03318350375272399
+AMZN,2022-01-25,Strong Negative,Amazon Has Stopped Paying Some Workers to Quit,-1.0,3,-0.028665239052861582
+AMZN,2022-01-26,Strong Positive,"Warehouse Giant Prologis to Offer More Peripheral Services, CFO Says",0.2866920980841284,4,-0.04566511798157
+AMZN,2022-01-27,Strong Negative,11 Undervalued Mega-Cap Stocks to Consider,-0.1543937020855659,6,-0.07775497896995469
+AMZN,2022-01-28,Strong Positive,3 reasons why Amazon should spend billions to buy Kohl's: analyst,0.4005552304705162,2,0.06163284304851413
+AMZN,2022-01-31,Strong Positive,Univision cerró acuerdo con Televisa para una nueva plataforma de streaming,0.3310966064902475,3,0.10332787148090224
+AMZN,2022-02-03,Strong Positive,Amazon to Raise Price of Prime Membership,0.4562977479345249,10,0.10659982993925102
+AMZN,2022-02-04,Strong Positive,"Amazon notches up sunny sales, despite client shift to 'multicloud',",0.4355255923257398,7,0.08683118128598122
+AMZN,2022-02-07,Strong Positive,"Amazon hiking base salary cap to $350,000 for corporate, tech workers",0.2628597732378395,6,0.09809848156431802
+AMZN,2022-02-08,Strong Positive,"Amazon expanding healthcare service to 20 more cities, lands Silicon Labs, Whole Foods Market as customers",0.2354932457106177,7,0.07500789720771352
+AMZN,2022-02-11,Strong Negative,"Soros Cut Stake in Big Tech Stocks Before Selloff, Added Peloton",-0.0324694184285818,7,0.13702235110868444
+AMZN,2022-02-14,Strong Negative,Stanley Druckenmiller Buys Chevron as Family Offices Reveal Stock Picks,-0.0330420343991405,8,0.0085687518975899
+AMZN,2022-02-15,Strong Negative,"Amazon, Walmart and JPMorgan Chase among companies relaxing employee mask mandates",-0.1224491642866128,11,-0.011494424456651199
+AMZN,2022-02-16,Strong Negative,"Mindy Kaling, Amazon Publishing, and Amazon Studios Announce Mindy’s Book Studio and First-Look Deal, a New Home for Dynamic Storytelling",-0.3576522488924114,3,-0.010790073740924399
+AMZN,2022-02-17,Strong Positive,Radware Acquiring SecurityDAM for $30 Million to Accelerate Cloud Security Services,1.0,3,0.012339026977454098
+AMZN,2022-02-18,Strong Positive,Samsung SDS joins hands with Amazon for global cloud business,0.348514652777027,4,-0.0011766970014661978
+AMZN,2022-02-22,Strong Negative,Tractor Supply Co. stock underperforms Tuesday when compared to competitors,-0.5085546605836416,4,0.002558516187848298
+AMZN,2022-02-25,Strong Positive,Amazon’s India Partner Samara Capital Plans $500 Million Fund,0.4236000589580771,2,-0.0271919581317197
+AMZN,2022-03-01,Strong Positive,File your taxes on time with H&R Block Deluxe and State for $33,0.3205655676538791,3,-0.058426752775047996
+AMZN,2022-03-02,Strong Negative,"Amazon Closing All Bookstores, Shops to Focus on Grocery Sector",-0.1025617759502273,6,-0.0647142028973198
+AMZN,2022-03-03,Strong Negative,Amazon to close Green Hills store amid nationwide move,-0.3488780604891758,4,0.010656854793341504
+AMZN,2022-03-08,Strong Negative,"Starbucks, Coca-Cola, PepsiCo suspend operations in Russia; Amazon suspends web services sign-ups",-0.6210217387745506,5,0.016467817949973797
+AMZN,2022-03-17,Strong Negative,Amazon closes $8.5bn deal to buy MGM movie studio,-0.1053355175137612,8,0.09073131504030629
+AMZN,2022-03-21,Strong Positive,Amazon to open new Prince George’s delivery station — built for it from the ground up,0.5094128024097263,5,0.031392515202640296
+AMZN,2022-03-22,Strong Positive,Sources: Amazon snaps up more industrial space in Gaston County,0.6089652847560675,7,0.022127753296170807
+AMZN,2022-03-28,Strong Negative,Amazon Stock Rally Erases Losses for the Year,-0.7800396311711408,4,-0.007360678264839694
+AMZN,2022-03-29,Strong Positive,AWS for Games,0.412800741909081,2,-0.014923456217531196
+AMZN,2022-03-30,Strong Positive,Palo Alto Networks teams with Amazon to bring next-gen firewall service to AWS,0.291031336860883,8,-0.026898079799205603
+AMZN,2022-03-31,Strong Negative,Amazon renews Prime credit card tie-up with JPMorgan Chase after flirting with American Express,-0.1561184597642839,4,-0.040784956425068804
+AMZN,2022-04-01,Strong Negative,"Amazon workers in New York City vote to unionize, a first for the company",-0.193205167465409,6,-0.027123534592008905
+AMZN,2022-04-05,Strong Negative,Oculus VisionTech Launches in AWS Marketplace,-0.223887355141821,4,-0.0408917232376905
+AMZN,2022-04-06,Strong Positive,Global Video Streaming Market to Boost in Coming Years –,0.3935290412684503,3,-0.014405001398437502
+AMZN,2022-04-07,Strong Positive,"UFC, Formula 1 and WWE could be the next acquisition targets for streaming giants",0.3295762859305863,3,-0.009435390862683302
+AMZN,2022-04-12,Strong Negative,Etsy Sellers Strike as Site Ramps Up to Battle Amazon,-0.1423615336385961,8,-0.008573255205895403
+AMZN,2022-04-13,Strong Positive,"IMDb TV will be renamed Amazon Freevee, says Amazon",0.2801394383688,3,-0.021620288221029505
+AMZN,2022-04-18,Strong Positive,National Landing poised to pass Capital Riverfront as fastest-growing neighborhood,0.4399486189568079,5,-0.0038599904845422056
+AMZN,2022-04-19,Strong Negative,RCD Is a Way to Spread Consumer Discretionary Bets,-0.192313854100377,10,-0.004778407587440504
+AMZN,2022-04-21,Strong Negative,Amazon launches $1B fund to invest in supply chain technology companies,-0.1234148441831144,8,-0.005397214080380804
+AMZN,2022-04-22,Strong Positive,Walmart expanding its India sourcing to $10 billion by 2027,0.3695329183286998,3,-0.112090282752148
+AMZN,2022-04-25,Strong Negative,Reliance abandons plans to buy Indian retailer amid challenges,-0.0339858361767527,11,-0.1252425256180813
+AMZN,2022-04-29,Strong Negative,Amazon’s biggest drop since 2006 caps dismal month for tech,-0.334751595583623,16,-0.1670155813647057
+AMZN,2022-05-02,Strong Negative,Woman says Amazon.com fired her because she got 'long COVID' - lawsuit,-0.4461740735807588,4,-0.1795992058224462
+AMZN,2022-05-05,Strong Negative,Tech sell-off pushes Nasdaq to steepest drop since June 2020,-0.2036777298193681,9,-0.1598322854694438
+AMZN,2022-05-06,Strong Negative,Amazon fires managers at its pro-union New York City warehouse,-0.2626301463690331,5,-0.15063504139002523
+AMZN,2022-05-10,Strong Negative,Prologis offers to buy Duke Realty in $23.7 billion deal as warehouse demand soars,-0.1844812065524667,4,-0.033230835064090136
+AMZN,2022-05-11,Strong Negative,Rackspace CEO’s comments fuel speculation about another sale of tech company,-0.2522374563313649,8,-0.052655139150612124
+AMZN,2022-05-12,Strong Negative,"Starbucks Baristas Are Unionizing, and Even Howard Schultz Can’t Make Them Stop",-0.1136739791252494,10,-0.025037365318950424
+AMZN,2022-05-13,Strong Negative,"Exclusive: Maker of Walmart, Amazon store-brand baby formulas sees shortages through rest of 2022",-0.2659606062628322,4,0.005851525417404288
+AMZN,2022-05-17,Strong Negative,"Amazon’s unpaid time off practices violate USERRA, class-action suit claims",-0.796643333576089,4,-0.006903565465850907
+AMZN,2022-05-18,Strong Negative,"Amazon, Kong Studios Opening Offices In Santa Monica",-0.205800756341017,8,0.01630258689072659
+AMZN,2022-05-19,Strong Negative,FedEx expands pilot of self-driving trucks,-0.204692656295516,5,0.0312642567675885
+AMZN,2022-05-23,Strong Positive,Amazon (AMZN) Announces New Fire 7 Tablets,0.3922374584469227,8,0.044509424436989894
+AMZN,2022-05-25,Strong Positive,Our verdict on the Garmin Instinct 2S GPS smartwatch,0.4994628595316913,2,0.0612657494233808
+AMZN,2022-05-26,Strong Positive,Hyperion looks to slower growth for a helping hand,0.2288460272154671,5,0.0845716264225511
+AMZN,2022-06-01,Strong Positive,Quantrepreneurs: Wall Street Quants Who Left Trading to Build Startups,0.2419865150800174,4,0.07462805468999702
+AMZN,2022-06-03,Strong Negative,Amazon consumer CEO Dave Clark resigns,-0.2006658896883418,6,0.038390488821128506
+AMZN,2022-06-07,Strong Negative,"With shares of Kansas City’s Cerner turned over, sale to Oracle will close Wednesday",-0.1951006528695956,5,-0.0011645196274845913
+AMZN,2022-06-08,Strong Negative,Amazon Sued Over 'Bait-And-Switch' Whole Foods Fee,-0.5951129337586177,5,-0.020369823794423092
+AMZN,2022-06-13,Strong Negative,"Drones will start delivering Amazon packages this year, company says",-0.0408905414461998,9,-0.031361400195906095
+AMZN,2022-06-23,Strong Negative,Here’s how much the Jif peanut butter recall could cost parent company JM Smucker,-1.0,1,0.022890766506771902
+AMZN,2022-06-24,Strong Positive,Seattle Pride’s Biggest Sponsors Also Give Big to Homophobic Politicians,0.4908215942037984,4,0.020413524149027706
+AMZN,2022-06-28,Strong Positive,Kroger's automated grocery delivery warehouse opens in Pleasant Prairie,0.3213197168863876,3,0.024516967093468997
+AMZN,2022-06-30,Strong Negative,"Amazon, Disney, AT&T Gave to Abortion Foes Like DeSantis While Vowing to Help Employees",-0.1208911054651421,9,0.010693245082714294
+AVGO,2022-01-24,Strong Positive,"Silicon Labs Announces BG24, MG24 TinyML 2.4GHz SoCs — and Boasts of a Fourfold Performance Gain",1.0,1,0.02274066649441112
+AVGO,2022-02-02,Strong Positive,VAST Data Accelerates Global Expansion Plans Across Europe and Asia,1.0,1,0.07619453830254003
+AVGO,2022-02-04,Strong Positive,"Apple, Broadcom win new trial in $1.1 bln Caltech patent case",1.0,2,0.03945499720643472
+AVGO,2022-02-28,Strong Positive,Intel Boosting Chipmaking With $5.4B Tower Buy,1.0,1,0.04765623452032419
+AVGO,2022-03-07,Strong Positive,GLOBALFOUNDRIES ANNOUNCES NEXT GENERATION IN SILICON PHOTONICS SOLUTIONS AND COLLABORATES WITH INDUSTRY LEADERS TO ADVANCE A NEW ERA OF MORE IN THE DATA CENTER,1.0,1,0.04930737385628071
+AVGO,2022-03-09,Strong Negative,CAFC Affirms ITC Denial of Broadcom’s Request for Ban on Renesas Products Under Section 337,-0.5140907123343729,2,0.06715912433582959
+AVGO,2022-03-15,Strong Negative,"Webroot sues CrowdStrike, Sophos, others over alleged patent infringement",-1.0,1,-0.020050807045930093
+AVGO,2022-03-22,Strong Positive,Global Navigation Satellite System Market is Projected to Hit USD 320.73 Billion in 2021-2028 | GNSS Industry Exhibit a CAGR of 9.02%,1.0,1,-0.026060182647171505
+AVGO,2022-03-29,Strong Positive,Verblecon: Sophisticated New Loader Used in Low-level Attacks,0.4287512148776154,2,-0.009076745088243502
+AVGO,2022-04-14,Strong Negative,"Broadcom Inc. stock falls Thursday, underperforms market",-0.5252393252985723,2,0.05658748414670109
+AVGO,2022-04-18,Strong Negative,Netflix Scores as California Judge Says Broadcom’s Dynamic Resource Provisioning Patent Claim is Abstract under Alice,-1.0,1,0.04595998921519409
+AVGO,2022-04-20,Strong Positive,Nvidia's GPU-powered AI is creating chips with 'better than human design',1.0,1,0.036515403693663996
+AVGO,2022-05-20,Strong Positive,Coherent optics move toward interoperability,1.0,1,-0.0359913123547076
+AVGO,2022-06-07,Strong Positive,Broadcom-VMware Merger Agreement Stock/Cash Election Provides Tax Advantages to VMware Shareholders,0.6208148163514681,2,-0.0016771960060651017
+AVGO,2022-06-14,Strong Negative,RSA 2022: The Road to Adversary Engagement,-0.2838654614187052,3,-0.026540742515060597
+AVGO,2022-06-17,Strong Negative,Broadcom's acquire-and-axe history concerns VMware users,-1.0,1,-0.06567185471504448
+AVGO,2022-06-24,Strong Positive,"Chinese DPU chip firm gains funds, unicorn status ...",1.0,1,-0.0884980093347901
+AVGO,2022-06-29,Strong Positive,Qualcomm’s new wi-fi 7 and RF front-end modules are gunning for 5G auto and IoT device markets,1.0,1,-0.0588873819049276
+GOOGL,2022-01-04,Strong Negative,Investor Michael Seibel Explains Google’s Search Quality Decline And How It’s Creating Opportunities,-0.0660962578223153,4,-0.011595996625086799
+GOOGL,2022-01-05,Strong Negative,$20 Billion In 2022: Google Pays Apple For Not Launching Its Own Search Engine?,-0.6296400536705182,2,0.00017506050326740116
+GOOGL,2022-01-07,Strong Negative,Google users fume as smart speaker features disappear following Sonos patent ruling,-0.598878497896698,4,0.005490079263867198
+GOOGL,2022-01-18,Strong Positive,Chip giant Nvidia expands R&D operations in Israel,1.0,1,0.019446818504999203
+GOOGL,2022-01-19,Strong Positive,How to Invest in the Top 100 U.S. ESG Companies,0.2744217475897087,3,0.027713067860582502
+GOOGL,2022-01-21,Strong Positive,"Microsoft secures IPs like Call of Duty and Candy Crash to boost its metaverse ambitions, analyst says",1.0,1,0.03750919530150781
+GOOGL,2022-01-26,Strong Positive,Strategas Macro Thematic Opportunities ETF,0.4946805606007725,2,0.09271659039632389
+GOOGL,2022-01-31,Strong Negative,Neil Young’s dispute with Spotify over Joe Rogan increases pressure on streamer to monitor content,-1.0,1,0.0587201371964077
+GOOGL,2022-02-11,Strong Negative,"Copyright case: Google LLC v. Oracle America Inc., USA",-0.3094635478302253,7,-0.05795371166134019
+GOOGL,2022-02-16,Strong Positive,Waymo partners with logistics giant to run self-driving trucks between Dallas and Houston,0.5372375992246065,2,0.003953880539087297
+GOOGL,2022-02-22,Strong Positive,Kraft Heinz taps Google for multiyear transformation push,1.0,1,0.014565313069789598
+GOOGL,2022-02-24,Strong Negative,Exclusive: Singapore flags concern to India over ban on Sea's game -sources,-0.5355684315043427,2,0.019736449976022592
+GOOGL,2022-02-25,Strong Positive,"Qualcomm Inc. stock rises Friday, still underperforms market",1.0,2,0.010823143110083294
+GOOGL,2022-03-01,Strong Negative,"Google, Meta face penalties in Russia as deadline passes to open local offices",-0.3845661564053834,3,0.028901313679531693
+GOOGL,2022-03-03,Strong Negative,DigitalOcean vs Cloudflare — which stock can take advantage of cloud expansion?,-0.4799447504716053,2,0.032276948104343
+GOOGL,2022-03-08,Strong Negative,Alphabet’s (GOOGL) Stock Price Has Fallen 12.8% in 2022. Should You Buy It?,-0.2173603843942989,5,0.011452057380905288
+GOOGL,2022-03-10,Strong Positive,Amazon announces 20-for-1 stock split,0.2433339351079248,4,0.0030834540251126925
+GOOGL,2022-03-11,Strong Negative,‘The Dirty Dozen List’ – Corporations Enable and Profit from Sexual Exploitation,-0.4334062075263187,2,-0.009591932240991311
+GOOGL,2022-03-16,Strong Positive,"Instacart Unveils Shoppable Recipes, New Product Integrations With TikTok, Tasty, Hearst Magazines And More",0.5176022112365556,2,-0.0009540517003724103
+GOOGL,2022-03-21,Strong Positive,The BlackBerry veteran who took on Google and won,0.4893561681746098,2,-0.033585590603297105
+GOOGL,2022-03-24,Strong Positive,Perfect Corp.’s YouCam Apps Reach over 1 Billion Downloads Worldwide,0.253031832849229,4,-0.022088122278850403
+GOOGL,2022-03-28,Strong Negative,Amazon Stock Rally Erases Losses for the Year,-0.3888315380556888,3,-0.001557372780013097
+GOOGL,2022-03-29,Strong Negative,Google Play Store App practices: France slaps $2 mn penalty on Google,-0.420971982209724,3,0.0013928330502178989
+GOOGL,2022-03-31,Strong Negative,GameStop Soars on Plans to Extend Rebound With Stock Split,-0.5041927824159863,2,-0.023868031560301404
+GOOGL,2022-04-01,Strong Positive,Nova Labs surges to $200m series D,1.0,1,-0.0306428140693298
+GOOGL,2022-04-04,Strong Negative,Expedia Hires Google Travel Advertising Director Rob Torres,-0.2677329595485231,3,-0.042024843097350204
+GOOGL,2022-04-05,Strong Negative,Alphabet’s Pichai Freed From Questioning in Google ‘Incognito’ Privacy Suit,-0.246711797633741,2,-0.029401156523053498
+GOOGL,2022-04-11,Strong Positive,These Black Women Launched An AI-Powered Beauty Tech And Secured Backing From Serena Ventures,0.5011047850637735,2,-0.030674413925020603
+GOOGL,2022-04-19,Strong Negative,LinkedIn was the most exploited brand in phishing attacks last quarter,-1.0,1,-0.0190269200795536
+GOOGL,2022-04-21,Strong Positive,Apple Spends Record High on Lobbying Amid Pressure from Congress,1.0,1,-0.038842682368236285
+GOOGL,2022-04-25,Strong Positive,What is fintech and why does it matter?,0.4840077054457932,2,-0.021343902269357996
+GOOGL,2022-04-28,Strong Positive,"China Grants First Driverless Taxi Permits to Baidu, Pony.ai",0.6868186400018214,3,-0.006559735842738203
+GOOGL,2022-04-29,Strong Negative,Top 10 Growth Stocks by Market Capitalization,-0.1437170164329415,6,0.0034064441812641016
+GOOGL,2022-05-02,Strong Positive,Two Chinese driverless robotaxi services approved in Beijing,1.0,1,0.029887785749919495
+GOOGL,2022-05-03,Strong Negative,Stock Splits Lead to Split Results in Trading,-0.3784708015521971,3,0.018588303463966793
+GOOGL,2022-05-04,Strong Positive,Google Cloud and SAP Expand Partnership to Enable Native Integration Between Google Workspace and SAP S/4HANA® Cloud,0.5292021883238358,2,0.039519908403424286
+GOOGL,2022-05-05,Strong Negative,2022 Selloff Has Left the U.S. Stock Market Undervalued,-0.449912137160108,5,0.0707179303660228
+GOOGL,2022-05-09,Strong Negative,Tinder owner Match sues Google in 'last resort' to avoid app-store booting,-0.3115595325578992,4,0.05058900131352069
+GOOGL,2022-05-10,Strong Negative,Online dating giant Match Group sues Google over app store,-0.802712481423885,4,0.037427495633038696
+GOOGL,2022-05-12,Strong Positive,Google’s New Wallet Digitizes Payment Cards Plus Drivers’ Licenses And Other Credentials,0.281764586298028,3,0.02551271666154878
+GOOGL,2022-05-20,Strong Negative,Music festivals are a UX nightmare. Here’s how Snap and Live Nation are fixing them,-0.4366316572143459,2,-0.0640082007776856
+GOOGL,2022-05-24,Strong Positive,Our Ultimate Stock-Pickers' Top 10 High-Conviction Purchases,0.4122236854784312,2,-0.029059228644409206
+GOOGL,2022-05-26,Strong Negative,L’OFFICIEL Makes Its Arrival in the Metaverse with Virtual Land on The Sandbox,-0.4976233820746495,2,-0.025511613316456794
+GOOGL,2022-05-31,Strong Negative,"Apple Inc. stock falls Tuesday, underperforms market",-0.5143998736050824,2,0.0036975585156159094
+GOOGL,2022-06-06,Strong Positive,"Lawyer David Boies bills $1,950 hourly in Google case, court filing shows",0.3539837967119862,6,0.07045029293252911
+GOOGL,2022-06-08,Strong Positive,Google partners up with Figma to bring the popular design tool to Chromebooks,0.7051001929464937,3,0.0504173730345716
+GOOGL,2022-06-13,Strong Positive,Google Engineer Claims AI System is Sentient; China's Tech Giants Flourish as Crackdown Eases,0.2950035250332472,3,0.05719411586552321
+GOOGL,2022-06-15,Strong Positive,C3 AI Receives Google Cloud AI/ML Partner of the Year Award,0.5264114301932012,2,0.03926019280886861
+GOOGL,2022-06-16,Strong Positive,McDonald's agrees to pay $1.3 bln to settle French tax dispute,1.0,1,0.04849753969865422
+GOOGL,2022-06-17,Strong Positive,Walmart enters shoppable TV via exclusive deal with Roku,1.0,1,0.031016692367523902
+GOOGL,2022-06-21,Strong Negative,"Microsoft stops selling emotion-reading tech, limits face recognition",-0.5536313192083522,2,0.025176898124154207
+GOOGL,2022-06-24,Strong Positive,"Companies paying for abortion-related travel include Dick's Sporting Goods, Google, Disney",0.4413461411192485,2,-0.0076700328708792925
+GOOGL,2026-08-10,Strong Negative,Form 8K Alphabet Inc Class A For: 10 August By Investing.com,-0.1622662727135902,16,-0.09165792313826612
+GOOGL,2026-08-11,Strong Negative,Alphabet’s AI Story No Longer Runs Through The Business That Funds Everything Else,-0.0405864667827778,29,-0.10538595266007962
+GOOGL,2026-08-13,Strong Negative,Tlwm Trims Stock Position in Alphabet Inc. $GOOGL,-0.277816614225308,16,-0.05230187404323411
+GOOGL,2026-08-26,Strong Negative,Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story,-0.081051376026528,15,-0.0087160776014919
+GOOGL,2026-08-28,Strong Negative,"Alphabet (NASDAQ: GOOG) CEO uses 3,703 shares for taxes",-0.4191763989989768,2,-0.016549899070453
+META,2022-01-03,Strong Negative,"Devin Nunes officially resigns from Congress, clearing way to helm Trump's social media company",-1.0,1,0.0227794613413375
+META,2022-01-10,Strong Negative,Tech Moves: Adaptive CFO to resign; Meta comms exec departs; AI vet joins Absci board; new Zymeworks CEO,-1.0,1,0.016546435543999812
+META,2022-01-14,Strong Negative,Facebook faces $3.2 bln UK class action over market dominance,-1.0,1,0.010502996025490402
+META,2022-01-18,Strong Negative,Facebook loses bid to dismiss users’ data-privacy antitrust claims,-1.0,1,-0.0028611675206418954
+META,2022-01-21,Strong Negative,Mother sues Meta and Snap over tween daughter’s suicide,-0.220689714102262,2,-0.0019823553260398634
+META,2022-02-03,Strong Negative,Metaverse stocks Nvidia and Roblox fall as Facebook parent Meta's Web3 business reports massive loss,-0.0797804683142963,6,-0.2512308278714567
+META,2022-02-09,Strong Negative,Meta Is Now Calling Out Google Over Apple's App Privacy Rules,-1.0,1,-0.3167196194671701
+META,2022-02-14,Strong Negative,Texas sues Facebook parent company over use of facial recognition technology,-0.4065440583992409,3,-0.0991807244797079
+META,2022-02-15,Strong Negative,Meta's Facebook to pay $90 million to settle privacy lawsuit over user tracking,-1.0,1,-0.0482004232194736
+META,2022-03-01,Strong Negative,"College could take place in the metaverse, but these problems must be overcome first",-0.4859658393458195,2,-0.022703624727336707
+META,2022-03-03,Strong Negative,Goldman Sachs-Backed Virtual Beauty App Developer To Go Public In $1 Billion SPAC Deal,-0.4992441573497628,2,-0.018932046157797505
+META,2022-03-04,Strong Negative,The cloud over commercial real estate lingers,-0.5719022185756741,2,-0.049629035236893604
+META,2022-03-08,Strong Positive,Industry Leaders Join Forces to Standardize Chiplet Ecosystem,1.0,1,-0.03608058633400331
+META,2022-03-11,Strong Negative,Russia says it will block Instagram,-0.3653832943834741,3,0.0418663804080402
+META,2022-03-15,Strong Positive,Aptos raises $200M to bring the Diem blockchain back to life,1.0,1,0.05219165626310769
+META,2022-03-17,Strong Positive,"ProShares Launches Metaverse ETF, Expands Innovative Fund Lineup to the Internet’s Next Frontier",0.3410377056013338,3,0.0313987784297132
+META,2022-03-22,Strong Negative,Facebook Continues To Lose Out On User Time; Netherlands Data Center Plans Face Opposition,-1.0,1,0.055502385485920985
+META,2022-03-28,Strong Negative,Amazon Stock Rally Erases Losses for the Year,-1.0,1,0.0282138100665007
+META,2022-03-29,Strong Positive,"Meta to open new engineering hub in Toronto, expects to create 2,500 jobs",0.8014614218813554,4,0.0619686753005236
+META,2022-04-04,Strong Negative,"Who Really Owns Facebook, Here's What You Should Know!",-0.0246756913526001,4,0.0294813620027152
+META,2022-04-05,Strong Negative,Meta cracks down heavily on fake News and spam content being shared in India,-0.3684233213436104,3,0.030480673552223798
+META,2022-04-08,Strong Positive,Meta (FB) Plans to Introduce Virtual Coins to Diversify Income,0.5835899183674422,2,0.015222241181678395
+META,2022-04-20,Strong Negative,Netflix Loses $54 Billion in Market Cap After Biggest One-Day Stock Drop Ever,-1.0,1,-0.1342978812423436
+META,2022-04-21,Strong Positive,Apple Spends Record High on Lobbying Amid Pressure from Congress,0.5102468863283737,2,0.01261598468677419
+META,2022-04-26,Strong Negative,These 21 large-cap stocks have now crashed at least 50%,-0.5972337962652834,4,0.0855461948197292
+META,2022-04-28,Strong Positive,MOTO & MRAD Rise on Tech Stock Rally,1.0,1,0.14250713445048901
+META,2022-04-29,Strong Negative,Amazon’s biggest drop since 2006 caps dismal month for tech,-0.5227950204257789,2,0.17376380352723741
+META,2022-05-02,Strong Negative,Meta Northwest lead Rajeev Rajan to depart for job at Atlassian,-1.0,1,0.1706601161993987
+META,2022-05-03,Strong Negative,Meta Platforms Sued Over Logo Infringement - ProShares S&P 500 Dynamic Buffer ETF (BATS:FB),-1.0,1,0.1630534086696792
+META,2022-05-04,Strong Negative,Meta Class Action Alleges Copyright Infringement of Infinity Logo,-0.4269900404573063,3,0.1421885470603245
+META,2022-05-05,Strong Negative,Tech sell-off pushes Nasdaq to steepest drop since June 2020,-0.5814570170588517,4,0.18975875012851784
+META,2022-05-09,Strong Negative,15 Top Cities for Machine Learning Engineer Salaries,-0.4945261949338095,2,0.05017850869871637
+META,2022-05-11,Strong Positive,Grand Investment Opportunity Awaits in the Metaverse,1.0,1,-0.004638153078794427
+META,2022-05-12,Strong Positive,Evoque Partners with Archer Datacenters to Develop 61 Acre Data Center Campus Outside Nashville,0.4876015839997933,2,-0.024081183342050023
+META,2022-05-17,Strong Negative,Netflix lays off 150 employees as the streaming service contends with big subscriber losses,-1.0,1,-0.0418574665256023
+META,2022-05-18,Strong Negative,"Goodbye, Gig Economy. It’s a Multi-Earner Era",-0.515237689103547,2,-0.036976689500792095
+META,2022-05-25,Strong Positive,Doe v. Meta and the Future of the Communications Decency Act,0.2872603402717488,3,-0.0407015271115145
+META,2022-06-10,Strong Negative,Is the Roundhill Ball Metaverse ETF (METV) Right for You?,-0.4028813704505902,5,-0.054614647343921394
+META,2022-06-13,Strong Negative,Meta class action alleges company’s platforms harm youths’ mental health,-0.2219635732658809,2,-0.10608963672114699
+META,2022-06-17,Strong Positive,Walmart enters shoppable TV via exclusive deal with Roku,1.0,1,-0.05575301587527981
+META,2022-06-23,Strong Negative,DOJ Files Lawsuit Against Meta and Outlines Proposed Settlement Structure Over Allegedly Discriminatory Housing Advertising Practices,-1.0,1,-0.028389776540471194
+META,2022-06-28,Strong Negative,"Lawsuit claims Facebook wrongly collects patient data through health system, hospital websites",-1.0,1,-0.011009927031305804
+META,2022-06-30,Strong Negative,Ukraine round-up: Russia leaves Snake Island and Putin's topless G7 comments,-1.0,1,0.0452527616887958
+META,2026-07-15,Strong Positive,Meta Platforms Inc Stock (META) Moved Up by 3.25% on Jul 15: Facts Behind the Movement,0.2402604423194742,5,0.028296302389099692
+META,2026-07-16,Strong Negative,"Meta Platforms (NASDAQ: META) COO sells 2,163 shares in planned trades",-0.1759584179771395,5,0.0367587340357678
+META,2026-07-17,Strong Negative,Roundhill META WeeklyPay ETF announces weekly distribution of $0.2577,-0.2225666667960297,4,-0.00045011371644620643
+META,2026-07-20,Strong Positive,"Meta Platforms (NASDAQ: META) insider Javier Olivan plans 1,466-share stock sale",0.3221403579667767,6,-0.056249613475795095
+META,2026-07-21,Strong Positive,Net margin % of Meta Platforms Inc Class A – BCS:META1,0.3698743495248693,8,-0.04763538894781209
+META,2026-07-22,Strong Positive,"Meta COO Javier Olivan sells $946,816 of company stock",0.2862444342114643,6,-0.03580231420868049
+META,2026-07-23,Strong Negative,Meta Platforms Inc Stock (META) Moved Down by 3.87% on Jul 23: A Full Analysis,-0.5002635075125332,4,-0.18169076833383188
+META,2026-07-24,Strong Negative,Microsoft And Meta Earnings Previews,-0.0702913525757174,13,-0.14721273251258907
+META,2026-07-27,Strong Negative,Meta Platforms Inc (META) Shareholder Structure: Major Shareholders & Institutional Holdings,-0.4544481464559087,7,-0.09168804942379379
+META,2026-07-28,Strong Positive,Newsmax and Meta Enter AI Content Partnership,0.302087334129236,14,-0.1282551746703431
+META,2026-07-30,Strong Negative,Meta earnings: AI-driven improvements in top line fail to impress investors,-0.1435801236770313,19,-0.06973502234648679
+META,2026-07-31,Strong Positive,Meta Platforms Inc Class A Trade Ideas — BCS:METACL1,0.2532988232067615,12,-0.06311973452302158
+META,2026-08-03,Strong Negative,Meta Platforms (META) holder reports planned and recent stock sales,-0.3619209347137223,9,-0.04854047708938509
+META,2026-08-04,Strong Positive,Meta Platforms (META) director sells 464 shares under 10b5-1 plan,0.3840627877179655,5,-0.038989598211283595
+META,2026-08-07,Strong Negative,Meta Platforms (META) director-linked entity sells 426 Class A shares,-0.2225651111471281,4,0.025257244726901405
+META,2026-08-13,Strong Positive,"Meta Platforms (META) COO Javier Olivan sells 1,692 shares under 10b5-1 plan",0.4564751353600536,4,-0.06444270606742852
+META,2026-08-14,Strong Negative,What Is Going on With Meta Platforms Stock on Thursday?,-0.2919328996456068,7,-0.0661303814925013
+META,2026-08-17,Strong Negative,"Nike, Meta Platforms, INVO Fertility, EyePoint Pharmaceuticals, and Micron: Why These 5 Stocks Are on Investors' Radars Today",-0.0194625629640604,6,-0.03156908485713901
+META,2026-08-18,Strong Negative,Meta (NASDAQ: META) executive plans $870K stock sale,-0.1634483386843396,14,-0.025817800350311414
+META,2026-08-20,Strong Negative,"Meta (NASDAQ: META) CTO sells 7,848 shares, keeps trust stake",-0.1314975400097702,8,-0.007765336361639799
+META,2026-08-21,Strong Positive,"Meta's AI Spending Could Unlock 'Abundant Revenue,' Analyst Says",0.2743402434411698,5,-0.005441060856090592
+META,2026-08-24,Strong Negative,How Does Meta’s Muse Code Compare to Other AI Coding Tools?,-0.3365629195691798,3,-0.008488859989918099
+META,2026-08-26,Strong Negative,META Stock Price Prediction 2026-2027 | Meta Forecast,-0.0730255592005637,4,0.09883055298426091
+META,2026-08-27,Strong Positive,"Meta: Firm Settles Teen Social Media Case for $17 Billion, Lifting Uncertainty",1.0,1,0.1106857445728406
+META,2026-08-28,Strong Positive,"Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",0.2680012413817501,4,0.11203507514972008
+MSFT,2022-01-10,Strong Positive,JPM 2022: Johnson & Johnson links up with Microsoft to cloud-connect its digital surgery programs,0.4262130184255192,5,-0.033461238382864605
+MSFT,2022-01-13,Strong Positive,What’s Changed: 2021 Gartner Magic Quadrant for Cloud Database Management Systems,0.3112849790747931,3,0.0224531714737148
+MSFT,2022-01-18,Strong Negative,What Microsoft’s US$68b acquisition of Activision Blizzard means for Vancouver,-0.1305369861206622,6,0.011473394483776
+MSFT,2022-01-19,Strong Positive,Smithsonian Latino Center Receives $1 Million Gift From Microsoft Corp.,0.2668252979162754,9,0.041456963587984896
+MSFT,2022-01-20,Strong Positive,Rate Hikes Might Bring Quality ETFs Into Focus,0.3684359272024387,3,0.07483906500847409
+MSFT,2022-01-21,Strong Positive,"Microsoft secures IPs like Call of Duty and Candy Crash to boost its metaverse ambitions, analyst says",0.3777676200262171,3,0.06507276226338071
+MSFT,2022-01-24,Strong Positive,FedEx and Microsoft announce new cross-platform logistics solution for e-commerce,1.0,2,0.05922422690368801
+MSFT,2022-01-25,Strong Positive,"Microsoft to Acquire Activision Blizzard for $68.7B, Becoming Third Largest Gaming Company",0.2374101253558327,2,0.033787930462964404
+MSFT,2022-01-26,Strong Positive,Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers,0.3913217111221898,2,0.04032933540190141
+MSFT,2022-01-27,Strong Negative,Adobe Inc. stock underperforms Thursday when compared to competitors,-0.5186053811485415,4,0.0286909415832773
+MSFT,2022-02-04,Strong Positive,Johnson & Johnson leaders discuss what’s possible with the Microsoft cloud deal,0.4688153246303001,6,-0.0338972201876954
+MSFT,2022-02-07,Strong Positive,PLDT and Microsoft seal partnership for Threat Intelligence sharing to combat rising Cybercrime in the Philippines,0.6957740347587316,3,-0.031985006305722805
+MSFT,2022-02-08,Strong Positive,Kiwibank takes payments onto Azure with ACI Worldwide,0.3042788238435935,3,-0.015151489750097502
+MSFT,2022-02-10,Strong Positive,Microsoft’s Asenso Pilipinas Summit Gathers Government Leaders to Empower Stronger Digital Organizations across the Philippines – Microsoft News Center Philippines,0.3795098630252219,6,-0.0087590689174194
+MSFT,2022-02-14,Strong Positive,"Microsoft announces plan to fully reopen corporate offices in Redmond, elsewhere",0.3096857309202621,4,-0.0022148342294563018
+MSFT,2022-02-15,Strong Positive,NERD ETF gains from strong demand for esports,0.3630645548196223,9,0.005772686648869098
+MSFT,2022-02-17,Strong Positive,Build your knowledge of Azure AD conditional access policies,0.2718777858856678,7,0.015583323105750297
+MSFT,2022-02-18,Strong Negative,What’s Changed: 2022 Gartner Magic Quadrant for Enterprise Information Archiving,-0.4648733714509046,4,0.0233237586622367
+MSFT,2022-02-23,Strong Positive,What Microsoft's Acquisition of Activision Blizzard Means For Its Gaming Future,0.3401813711778821,3,0.020696507763047194
+MSFT,2022-02-25,Strong Positive,U.S. Bank partners Microsoft for cloud banking tech upgrade,0.2348881456366021,4,0.02200700835449909
+MSFT,2022-03-01,Strong Positive,Accenture and Microsoft to Assist Mount Sinai Health System on Five-Year Transformation Journey to Cloud,1.0,1,0.0125518005137914
+MSFT,2022-03-02,Strong Negative,Microsoft Corp Chief Satya Nadella’s son passes away,-0.0485660277199014,7,0.013097103001493901
+MSFT,2022-03-04,Strong Negative,"After clearing all regulatory hurdles, Microsoft closes $20B Nuance deal",-0.3267450146386613,10,-0.0016856084669720998
+MSFT,2022-03-08,Strong Negative,Our Ultimate Stock-Pickers' Top 10 Buys and Sells,-0.3140004895872418,6,0.016208183172749
+MSFT,2022-03-09,Strong Negative,Billion-dollar Seattle company Adaptive Biotechnologies lays off 100,-0.6763356044267665,3,0.0018750158251591015
+MSFT,2022-03-14,Strong Positive,Coca-Cola FEMSA se transforma digitalmente para mantener siempre conectados a sus colaboradores,0.5548947403122261,2,-0.006739060945722999
+MSFT,2022-03-15,Strong Negative,Rimac Seguros Accelerates Its Digital Transformation by Migrating to Microsoft Azure with Kyndryl,-0.1949913830766527,9,-0.009116326598830202
+MSFT,2022-03-17,Strong Positive,"Fortum and Microsoft announce world’s largest collaboration to heat homes, services and businesses with sustainable waste heat from new data centre region",0.448765155360253,3,-0.0201456842803756
+MSFT,2022-03-21,Strong Negative,The Best Microsoft Teams Apps for Team Tracking,-0.0756888099140128,6,-0.015476828264348796
+MSFT,2022-03-22,Strong Negative,Microsoft looks poised to dominate the quantum computing industry,-0.0231972294019689,10,-0.0237712422698065
+MSFT,2022-03-24,Strong Negative,"16-year-old living with his mom is Lapsus$ mastermind behind Microsoft hack, cyber detectives say",-0.0839493248964215,6,-0.018429902847718796
+MSFT,2022-03-25,Strong Positive,Wolverine Enters the Halo-sphere with Launch of Limited-Edition Boot Inspired by The Master Chief,0.3997013725196496,5,-0.0036393914990162967
+MSFT,2022-03-28,Strong Negative,Pwning Microsoft Azure Defender for IoT | Multiple Flaws Allow Remote Code Execution for All,-0.1086015971521187,8,-0.0034714083718782934
+MSFT,2022-03-29,Strong Positive,Best Global Company Culture 2022,0.2842100347878872,3,0.007194593291183905
+MSFT,2022-03-30,Strong Positive,"Outbrain expands strategic partnership with Microsoft, leveraging Microsoft Azure to improve business outcomes for media owners and advertisers – Middle East & Africa News Center",0.3076007270378801,7,-0.004427051837837596
+MSFT,2022-04-04,Strong Positive,Internet of Things Market Size [2022-2029] Worth USD 2465.26 Billion | Exhibiting a CAGR of 26.4%,0.2373186323351436,8,-0.008916598922424995
+MSFT,2022-04-06,Strong Positive,Boeing and Microsoft deepen partnership in digital aviation,0.7200303990089572,3,-0.022118083858559397
+MSFT,2022-04-08,Strong Positive,Meta (FB) Plans to Introduce Virtual Coins to Diversify Income,0.3433536871770785,3,-0.025481378868660302
+MSFT,2022-04-11,Strong Positive,Nikon Partners with Microsoft to Produce VR and 3D Video Content,0.233103822896578,11,-0.0362961150872006
+MSFT,2022-04-14,Strong Positive,Microsoft India appoints Amrita Thapar as its CMO,0.3689025481205706,3,-0.006316923146804002
+MSFT,2022-04-20,Strong Negative,"JPMorgan Chase, Microsoft among growing number of companies turning to neurodiverse workers to help meet need for talent",-0.4488644843916696,4,0.0674282369351673
+MSFT,2022-04-22,Strong Positive,"Lapsus$ Cyberattack Victim List: Globant, Microsoft, Nvidia, Okta, Samsung, T-Mobile -",0.3402724857862272,6,0.0653392388387734
+MSFT,2022-04-26,Strong Positive,"Microsoft (MSFT) Q3 revenue up 18%, earnings beat estimates",0.4649897493650978,5,0.06568298138515768
+MSFT,2022-04-29,Strong Negative,Telkom dan Microsoft Perkuat Kemitraan Strategis untuk Akselerasi Digitalisasi Indonesia – Indonesia News Center,-0.2416366134722692,8,0.05601622710328051
+MSFT,2022-05-03,Strong Positive,Microsoft deepens investment in Canada with the opening of new headquarters and expansion of operations to empower economic growth – Microsoft News Center Canada,0.2823568210913769,5,0.051035697551001596
+MSFT,2022-05-05,Strong Negative,This World Password Day consider ditching passwords altogether,-0.1522032761524302,6,-0.019757697580150703
+MSFT,2022-05-11,Strong Negative,"Slack and Teams are Replacing Business Emails, Report Shows",-0.2118191657868901,11,-0.011297158821732113
+MSFT,2022-05-12,Strong Positive,"ConnectWise, N-able, Sophos Owner Thoma Bravo Raises $20B+ for Technology Acquisitions",0.5054925851756518,2,-0.0049274935765494104
+MSFT,2022-05-13,Strong Positive,WD Targets Cloud Challenges,0.2578863758871345,4,-0.010919674032421008
+MSFT,2022-05-16,Strong Negative,Microsoft Channel Chief Rodney Clark To Leave After Over A Year In Role,-0.0651934920370293,9,0.0019507105873759895
+MSFT,2022-05-18,Strong Positive,Microsoft moves forward with massive corporate campus project in Atlanta,0.3219649034535388,7,0.007807601898507396
+MSFT,2022-05-19,Strong Positive,American Makes Microsoft Azure Preferred Cloud Provider for Airline Applications,0.400529241579537,7,-0.003473432502135901
+MSFT,2022-05-20,Strong Negative,WacoWatch,-0.2625072408211943,7,0.009085128205779598
+MSFT,2022-05-24,Strong Positive,Beware emailed PDFs containing Word docs exploiting old bugs,0.2804991808610371,3,0.017559900925717103
+MSFT,2022-05-25,Strong Positive,Apple's Steve Jobs: An Extraordinary Career,0.3421413039986015,3,0.0036600103111804998
+MSFT,2022-05-31,Strong Negative,"Michal Braverman-Blumenstyk appointed as CTO for Microsoft’s new Security, Compliance",-0.2064528699560858,4,0.004329131434101106
+MSFT,2022-06-14,Strong Positive,P&G taps Microsoft for cloud services to boost production efficiency,0.5710707099430579,4,0.028372150757078808
+MSFT,2022-06-15,Strong Positive,Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing,0.3251427555160501,4,0.03078855055164681
+MSFT,2022-06-17,Strong Negative,Is Juneteenth being observed by companies in the Dow industrials? Here's how some are handling it.,-0.3372571641359316,3,0.021980709249224312
+MSFT,2022-06-21,Strong Negative,Microsoft Office 365 has ability to ‘spy’ on workers,-0.222558093800156,5,0.02999181453181122
+MSFT,2022-06-22,Strong Positive,Cloudflare recognized by Microsoft as a Security Software Innovator,0.5423539196851133,4,0.03972969689893192
+MSFT,2022-06-23,Strong Negative,Microsoft Viva Sales takes on Salesforce-Slack tandem,-0.2846702446114483,4,0.031563646654785914
+MSFT,2022-06-27,Strong Positive,Five9 Integration with Microsoft Teams Review,0.2351442070875161,5,0.013008911147376708
+MSFT,2026-08-14,Strong Positive,IREN Jumps 10% as Microsoft Accepts First AI Data Center Under $9.7 Billion Deal,0.5471228628360707,4,-0.0296946733836742
+MSFT,2026-08-21,Strong Negative,"One year after protest, organizers say Microsoft still needs to cut ties with Israeli military",-0.1377799256332306,18,0.0569965616550851
+MSFT,2026-08-24,Strong Negative,Microsoft's plans for 8-acre Redmond site revealed in permits,-0.0443112181154722,17,0.0459973185697712
+MSFT,2026-08-26,Strong Negative,Microsoft Is Making a Bigger AI Bet on the Middle East,-0.4109447346107177,10,0.04485632534106131
+NVDA,2022-01-07,Strong Positive,JVAL Stock Price | JPMorgan U.S. Value Factor ETF,0.3173073894461309,3,-0.037850434130166005
+NVDA,2022-01-11,Strong Positive,NVIDIA Named America’s Best Place to Work on Latest Glassdoor List,0.5666752620655143,4,-0.08765491225687791
+NVDA,2022-01-18,Strong Positive,Chip giant Nvidia expands R&D operations in Israel,1.0,2,-0.09980428393198325
+NVDA,2022-01-19,Strong Positive,Israeli quantum cryptographic solutions provider QuantLR integrates with NVIDIA,1.0,1,-0.08312879489477856
+NVDA,2022-01-20,Strong Positive,"Van, Go: Pony.ai Unveils Next-Gen Robotaxi Fleet Built on NVIDIA DRIVE Orin",0.4818554754524135,4,-0.10961581561294705
+NVDA,2022-01-24,Strong Positive,CES 2022 Recap: Tech Becoming More Accessible and Interoperable,0.5366996731215489,2,-0.03679967001691006
+NVDA,2022-01-25,Strong Negative,Is chip giant Nvidia going to scrap its $40BN bid for Arm?,-0.6252915421815421,2,-0.04498271367656974
+NVDA,2022-01-27,Strong Positive,"Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud",0.2467108307051203,4,-0.004352300324693442
+NVDA,2022-02-02,Strong Positive,AMD's stellar report fuels chip stock rally,1.0,1,0.1242529625741965
+NVDA,2022-02-03,Strong Negative,Metaverse stocks Nvidia and Roblox fall as Facebook parent Meta's Web3 business reports massive loss,-1.0,1,0.09226270815759131
+NVDA,2022-02-04,Strong Positive,"Chip Startup Ceremorphic Seeks AI, HPC Edge With New 5nm Design",1.0,2,0.0776675072157738
+NVDA,2022-02-09,Strong Negative,"Nvidia, SoftBank Call Off Blockbuster Arm Deal - WSJ",-0.5476622216575215,2,0.1085565221765529
+NVDA,2022-02-15,Strong Positive,Intel to Buy Israel’s Tower Semiconductor for $5.4 Billion,0.471552158503779,2,-0.01247252221043179
+NVDA,2022-02-16,Strong Positive,Nvidia provides strong revenue outlook on demand for computer chips,0.6399317406143346,5,0.010585186969553212
+NVDA,2022-02-17,Strong Positive,"Nvidia reports record Q4, FY21 revenue on strong data center growth",1.0,1,-0.030113880774552286
+NVDA,2022-02-22,Strong Positive,Texas Instruments Inc. stock outperforms market despite losses on the day,0.5394758055314053,2,0.0056637193309198135
+NVDA,2022-02-25,Strong Positive,"Qualcomm Inc. stock rises Friday, still underperforms market",0.2821839357780387,4,-0.0840583555283024
+NVDA,2022-02-28,Strong Negative,Use WGMI to Enter the Crypto Economy,-0.4363305995791102,2,-0.07039132036404941
+NVDA,2022-03-01,Strong Negative,"Nvidia says employee, company information leaked online after cyber attack",-1.0,1,-0.0342651495128347
+NVDA,2022-03-02,Strong Negative,Microsoft Corp Chief Satya Nadella’s son passes away,-1.0,1,7.380714815490019e-05
+NVDA,2022-03-03,Strong Negative,Nvidia hackers allegedly attempting to blackmail company into open-sourcing GPU drivers,-1.0,1,0.012976246587901403
+NVDA,2022-03-07,Strong Positive,GLOBALFOUNDRIES ANNOUNCES NEXT GENERATION IN SILICON PHOTONICS SOLUTIONS AND COLLABORATES WITH INDUSTRY LEADERS TO ADVANCE A NEW ERA OF MORE IN THE DATA CENTER,1.0,1,-0.03545466021725079
+NVDA,2022-03-10,Strong Negative,Why Nvidia sees a future in software and services: Recurring revenue,-0.1884720839387335,4,0.0387512360830238
+NVDA,2022-03-11,Strong Positive,Nvidia investing $10M in last-mile company Serve Robotics,0.271553670866028,3,0.0930077127796081
+NVDA,2022-03-14,Strong Negative,2 Bullish Stocks in this Weak Market from The Professor!!!,-1.0,1,0.1247264922270083
+NVDA,2022-03-15,Strong Positive,Aptos raises $200M to bring the Diem blockchain back to life,0.502322087252681,2,0.12939943012592914
+NVDA,2022-03-17,Strong Positive,"Serve, Nvidia Formalize Partnership with $10M Investment",1.0,2,0.1401813032987513
+NVDA,2022-03-18,Strong Negative,When the world runs low on neon gas,-0.5009151168377514,2,0.1291093631271718
+NVDA,2022-03-22,Strong Positive,NVIDIA Launches AI Computing Platform for Medical Devices and Computational Sensing Systems,0.351428533869713,14,0.1504698116753323
+NVDA,2022-03-23,Strong Positive,Nvidia CEO says interested in exploring chip manufacturing with Intel,0.4041610725534112,2,0.08214443599875601
+NVDA,2022-03-24,Strong Negative,Nvidia considers teaming up with Intel on chip manufacturing,-0.1451322156440439,6,0.05074013347679072
+NVDA,2022-04-05,Strong Positive,Baidu Proposes PP-YOLOE: An Evolved Version of YOLO that Achieves SOTA Performance in Object Detection,0.2490892292254318,4,-0.1936230145406968
+NVDA,2022-04-08,Strong Positive,"Which is the bigger company: AMD, Nvidia, or Intel?",0.3854591019959673,2,-0.1506271854380805
+NVDA,2022-04-12,Strong Positive,"The end of one-chip wonders: Why Nvidia, Intel and AMD's valuations have experienced massive upheaval",0.2997131576214308,5,-0.15613446684363
+NVDA,2022-04-14,Strong Negative,"Broadcom Inc. stock falls Thursday, underperforms market",-1.0,1,-0.1357385622284605
+NVDA,2022-04-19,Strong Positive,Synopsys Introduces Industry's Highest Performance Neural Processor IP,1.0,1,-0.10544565251507218
+NVDA,2022-04-20,Strong Positive,Nvidia's GPU-powered AI is creating chips with 'better than human design',1.0,1,-0.09576568203691999
+NVDA,2022-04-26,Strong Negative,Chipmaker Texas Instruments expects revenue hit as China lockdowns dent demand,-1.0,1,-0.03734215034624808
+NVDA,2022-05-05,Strong Positive,Toyota to apply artificial intelligence to boost efficiency in its factories,0.5332238658813674,2,-0.0336730815444275
+NVDA,2022-05-06,Strong Negative,Nvidia fined $5.5M by SEC over failing to disclose crypto as revenue generator,-1.0,3,-0.014797946010770016
+NVDA,2022-05-09,Strong Negative,NVIDIA (NVDA) Fined $5.5M for Failing to Disclose Crypto Mining Impact,-1.0,1,-0.010737879135302206
+NVDA,2022-05-10,Strong Positive,"Intel launches new AI chips, challenging Nvidia's market",0.5006675283792675,5,-0.02022074043012791
+NVDA,2022-05-12,Strong Positive,Improving PPA With AI,0.3497861031075965,3,-0.0289500676659192
+NVDA,2022-05-18,Strong Positive,HP Envy 34 All-in-One Desktop review: A big-screen AIO for power users and creators,0.3043017726478843,3,0.005938809913505892
+NVDA,2022-05-19,Strong Negative,上海汽車、「純中国産」に固執せず自動運転タクシー開発,-0.3163678863033453,3,0.055024258428849795
+NVDA,2022-05-25,Strong Negative,The Next $1 Trillion US Tech Stock Is Far Away From Joining Exclusive Club,-0.1136203442647277,4,0.055809011031254796
+NVDA,2022-06-09,Strong Positive,Nvidia’s Data Center Segment Becomes its Biggest Revenue Contributor for Q1 2022,1.0,1,-0.03277115937105379
+NVDA,2022-06-10,Strong Negative,Is the Roundhill Ball Metaverse ETF (METV) Right for You?,-0.2295701467925811,4,-0.0690939683724412
+NVDA,2022-06-13,Strong Negative,7 Founder-Led Stocks to Buy and Hold Forever,-0.0404389551092987,4,-0.03263628839554568
+NVDA,2022-06-29,Strong Positive,Siemens and NVIDIA to Enable Industrial Metaverse,0.5697418101039152,2,-0.0872416449590464
+NVDA,2026-08-24,Strong Negative,NVDA Invests In Blackstone-Backed Lancium To Expand AI Data Center Capacity,-0.0916817437452049,40,0.005734234126300098
+NVDA,2026-08-25,Strong Positive,"India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",0.3514606222474493,42,0.0023547732832280097
+NVDA,2026-08-26,Strong Negative,Shay Boloor Highlights Nvidia's 'Fundamentally Illogical' Valuation Discount As NVDA Eyes 'World Leader' Status In CPUs,-0.121220637515476,18,0.03863522651692071
+ORCL,2022-01-10,Strong Positive,"Oracle Corp. stock rises Monday, outperforms market",0.4479620414884524,3,0.05524470592143779
+ORCL,2022-01-19,Strong Positive,Oracle opens data centre to provide cloud services across Africa,0.6666666666666666,3,-0.017272796492365
+ORCL,2022-01-20,Strong Positive,Oracle opens Johannesburg cloud region as demand for data centres grows,1.0,1,0.0191677788522825
+ORCL,2022-01-24,Strong Negative,Kansas City’s Cerner Corp. rebuffed another takeover effort before merger with Oracle,-0.5448186925114126,2,-0.0401971073885319
+ORCL,2022-02-09,Strong Positive,Oracle signs F1 title sponsorship deal with Red Bull,1.0,1,0.0023419673298396013
+ORCL,2022-02-16,Strong Negative,Pegasystems’ stock falls as it misses earnings and revenue targets,-1.0,1,-0.0232385737487813
+ORCL,2022-02-23,Strong Positive,"Cerner records $5.8B in revenue, 21.7% adjusted operating margin for 2021",1.0,1,-0.0071815858518525025
+ORCL,2022-03-01,Strong Positive,MWC 2022: Amdocs Digital Services Expansion Accentuates Amdocs Mission to Spur Cloud Journeys,0.5019474188657955,2,0.03783361516241891
+ORCL,2022-03-02,Strong Negative,"EA, Oracle Among Companies Heeding Ukraine Plea to Stop Business in Russia",-0.5398391022122099,3,0.03560041724976921
+ORCL,2022-03-03,Strong Positive,"KT signs MOU with Turkish telecom operator on 5G, AI services",1.0,1,0.05057890373233491
+ORCL,2022-03-04,Strong Negative,What’s Changed: 2022 Gartner Magic Quadrant for Digital Experience Platforms,-0.4241245950931678,2,0.0878966889638032
+ORCL,2022-03-08,Strong Negative,"Telco Lumen disconnects from Russia, ends business relationships",-0.6652244633287108,3,0.11477669185833297
+ORCL,2022-03-16,Strong Positive,SaaS customer relationship management (CRM) Market size to grow by USD 44.17 billion | Retail end-users to exhibit maximum demand | Technavio,1.0,1,0.0057382938651057095
+ORCL,2022-03-17,Strong Positive,"Driving a more innovative, sustainable future in Asia Pacific",1.0,1,0.004748376967163003
+ORCL,2022-03-22,Strong Negative,"Walmart Enters the Cloud Wars and Challenges Microsoft, Salesforce, Oracle, and SAP",-0.0918824600109093,2,-0.0660693259616694
+ORCL,2022-04-01,Strong Negative,"Nigerian firm sues Oracle, demands damages, partnership reinstatement",-1.0,1,0.017316664091082297
+ORCL,2022-04-04,Strong Positive,Intuit Inc. stock outperforms competitors on strong trading day,0.4205917342593033,5,0.031762298742240395
+ORCL,2022-04-06,Strong Positive,Labeyrie Fine Foods Partners with Rimini Street to Enable the Company’s Digital Evolution,1.0,1,0.017111193415362193
+ORCL,2022-04-11,Strong Positive,Learning Management System Market Size [2022-2029] | to Reach USD 40.95 Billion and Exhibit a CAGR of 14.2%,1.0,2,0.016697301762708082
+ORCL,2022-04-22,Strong Positive,CACI Awarded $258 Million Defense Agencies Initiative Contract,1.0,1,0.016467676059384397
+ORCL,2022-04-28,Strong Positive,Oracle teams with Verizon as it expands global network of industry innovation labs,1.0,1,-0.013406540837698301
+ORCL,2022-05-12,Strong Positive,Archer Datacenters Partners with Evoque to Expand Nashville Data Center Campus,1.0,1,0.012533550626996879
+ORCL,2022-05-13,Strong Positive,"Oracle Corp. stock rises Friday, still underperforms market",1.0,1,0.021038226752488988
+ORCL,2022-05-18,Strong Positive,Citrix Systems Inc. stock outperforms market despite losses on the day,1.0,1,-0.006042579019957113
+ORCL,2022-05-24,Strong Positive,Exclusive: Oracle to win unconditional EU nod for $28.3 billion Cerner deal,1.0,1,0.0018734623148308005
+ORCL,2022-06-01,Strong Negative,Purchase of Kansas City’s Cerner nears closing as buyer Oracle clears antitrust reviews,-1.0,1,-0.028790515900900503
+ORCL,2022-06-14,Strong Negative,Jury orders HPE to pay $30 million to Oracle for copyright infringement,-0.5980739184899458,2,7.861233328340482e-05
+ORCL,2022-06-16,Strong Positive,Reddit and DoubleVerify Announce Partnership to Empower Advertisers With Full Suite Third-Party Ad Measurement Tools,1.0,1,0.036138817999789616
+ORCL,2022-06-21,Strong Negative,Oracle introduces lower-cost version of its full on-premises cloud stack,-0.3842906689866594,2,0.04209845030611692
+TSLA,2022-01-03,Strong Positive,Tesla adds $144 billion to market value after record deliveries,0.765237700047483,3,0.04670923082079651
+TSLA,2022-01-04,Strong Positive,Explainer: How Tesla weathered global supply chain issues that knocked rivals,0.5340201884844866,5,0.02890104788678921
+TSLA,2022-01-06,Strong Negative,Nikola Motors drops its $2 billion lawsuit against Tesla,-0.5676424587315438,4,0.02406101046481743
+TSLA,2022-01-10,Strong Positive,Hesai Technology showcased new automotive-grade hybrid solid-state Lidar AT128,0.527280218147295,2,0.060061542310241925
+TSLA,2022-01-12,Strong Negative,Cathie Wood's Ark portfolio is headed for a shipwreck — and plunging tech stocks aren't even the worst of it,-0.5350332368685253,2,-0.04599980218661099
+TSLA,2022-01-13,Strong Negative,Here’s Why the UPRO and TQQQ Stock Prices Fell 50.1% Premarket Despite Calm Markets,-1.0,1,-0.0480866232647195
+TSLA,2022-01-14,Strong Positive,Tesla Megapacks storage facility will provide backup power while reducing reliance on fossil fuels in Houston,0.5838922678056618,4,-0.0465702534402966
+TSLA,2022-01-19,Strong Positive,Electra Battery Materials (ELBM) - European Expansion a Possibility,0.5188205486102683,2,-0.0186681698489611
+TSLA,2022-01-20,Strong Negative,TrueCar (TRUE) Founder's New Venture Will Get You a Tesla (TSLA) in 10 Minutes,-0.3931478568429525,2,-0.11505254634490028
+TSLA,2022-01-21,Strong Positive,"Electric Vehicle Market In India To Get A New Player Soon, FedEx Arm Starts Trials In Bangalore",0.3409087770988426,3,-0.1609397415928288
+TSLA,2022-01-24,Strong Positive,Warren Buffett has nearly caught up with Cathie Wood after the tech-stock guru vastly outperformed him in 2020,1.0,2,-0.04366714550413789
+TSLA,2022-01-26,Strong Negative,"Tesla posts record earnings, sees supply chain issues ahead",-0.5558481478444904,4,-0.1098872940660596
+TSLA,2022-01-27,Strong Negative,"Tesla posts record profit, won’t produce new models in 2022",-0.5932677585997996,4,-0.06253122244895248
+TSLA,2022-01-28,Strong Positive,Cathie Wood's ARK buys the dip in Tesla shares after months of selling,0.569093561414554,2,-0.05264632162042448
+TSLA,2022-02-01,Strong Negative,Tesla agrees to disable self-driving feature that runs stop signs,-0.3699060697517079,3,-0.012845877338909382
+TSLA,2022-02-02,Strong Positive,"Robots marched on in 2021, with record orders by North American firms",1.0,1,-0.03389884356208589
+TSLA,2022-02-03,Strong Negative,Former Tesla worker sues company alleging abuse ‘reminiscent of the Jim Crow Era’,-0.4448250169589537,3,-0.0629827363759448
+TSLA,2022-02-04,Strong Negative,Hertz names ex-Goldman finance chief Stephen Scherr as CEO,-0.3197998552631251,3,0.02495909336035331
+TSLA,2022-02-10,Strong Negative,"Tesla's Bitcoin Investment Hits Nearly $2 Billion—Here's How That Compares To Billionaire Novogratz's Galaxy, Dorsey's Square And More",-0.2234943327270265,8,0.03458038265879822
+TSLA,2022-02-14,Strong Negative,Tesla Stock vs. Alphabet Stock: Which Is the Better Buy Today?,-0.5977663159054863,3,-0.0554474562698071
+TSLA,2022-02-15,Strong Negative,South Korea probes Tesla on suspicion of exaggerating mileage,-1.0,1,-0.0905486402461208
+TSLA,2022-02-17,Strong Negative,"NHTSA opens safety probe into 416,000 Teslas for 'phantom braking'",-1.0,3,-0.0748000741634091
+TSLA,2022-02-18,Strong Negative,China’s Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen,-0.292573755988319,3,0.0038189981368070003
+TSLA,2022-02-23,Strong Positive,"Cathie Wood’s ARK bet $400 million on 6 stocks this month, and it’s a disaster",0.4367814920825013,2,0.013786800867270896
+TSLA,2022-02-24,Strong Negative,Tesla: We’ll open our charging network for federal cash,-0.6207200629604696,3,-0.04649715578966601
+TSLA,2022-03-01,Strong Negative,Lucid Air production cut deflates company's valuation by billions,-0.5000723915955745,2,0.023356916968555498
+TSLA,2022-03-04,Strong Positive,"Ford's plan to cut $3B in waste will funnel money from gas vehicles to fund electric, tech",0.5005166650199255,2,0.04705462190105461
+TSLA,2022-03-09,Strong Negative,"Tesla's Musk seeks to end SEC muzzle on tweets, could face uphill battle",-0.3617927990932025,4,-0.02047566395891451
+TSLA,2022-03-11,Strong Positive,Focus: Rental car giants embark on electric after pandemic bonanza,0.4501537437624454,2,0.0537342028624653
+TSLA,2022-03-15,Strong Negative,Tesla raises prices for second time in days on rising costs,-0.5399151145456912,2,0.12336355113753042
+TSLA,2022-03-23,Strong Positive,Hertz adds Tesla's Model Y to its EV fleet,0.400190942675688,2,0.20429385927887922
+TSLA,2022-03-24,Strong Negative,POSCO Holdings Inc. Invests U$839 million in Lithium business in Argentina,-0.4909561573815086,2,0.1909811156159356
+TSLA,2022-03-28,Strong Positive,"Toyota, Aurora Test-Drive Autonomous Ride-Hailing Fleet In Texas",0.6565848164175722,3,0.1913675374960662
+TSLA,2022-03-30,Strong Negative,How Tesla dropped to fourth in U.S. solar market share while Freedom Forever gained,-0.0389675718921852,3,0.06668093054203311
+TSLA,2022-03-31,Strong Negative,Focus: Build or buy? Automakers chasing Tesla rethink dependence on suppliers,-0.55533325017283,5,0.055767349821270615
+TSLA,2022-04-04,Strong Negative,"Tesla's factory opening is expected to draw thousands, so Del Valle is closing schools early",-0.381837954081695,3,0.02483082505405819
+TSLA,2022-04-06,Strong Positive,Is EVgo Stock a Buy?,0.3254999195252148,3,0.0011655592768477913
+TSLA,2022-04-12,Strong Positive,Tesla’s world’s largest battery is moving ahead with expansion,0.318002254560764,3,-0.0745662282285374
+TSLA,2022-04-13,Strong Positive,This Chip Maker Supplies Tesla and Apple. Its Stock Could Get a Boost as Shortages Continue.,1.0,3,0.0035468894436141013
+TSLA,2022-04-14,Strong Negative,"Judge finds Tesla liable to Black former worker who alleged bias, but slashes payout",-0.4059047779863226,3,0.0460185328758787
+TSLA,2022-04-20,Strong Positive,Elon Musk's Tesla Races Ahead of Rising Costs With Price Hikes,0.2739105665926956,5,-0.0187901624825179
+TSLA,2022-04-21,Strong Negative,Here's Why Elon Musk May Start Mining His Own Lithium,-0.1635688649525312,5,-0.0743599205855866
+TSLA,2022-04-25,Strong Positive,Tax Breaks Cushion Tesla’s Texas Landing,0.2576879260064582,5,-0.018669145630599602
+TSLA,2022-04-26,Strong Positive,"Can Elon Musk Run Tesla, Twitter and SpaceX? We’ll Soon Find Out.",0.3884506458266955,2,-0.031564163069914795
+TSLA,2022-04-27,Strong Negative,Does a Musk-owned Twitter dim Tesla’s star?,-0.6188408204424998,5,-0.0190846451379576
+TSLA,2022-04-29,Strong Negative,Tesla’s Ambitions in India Will Test Elon Musk’s Commitment to ‘Free Speech’,-0.1778412882846544,5,-0.06680067697838703
+TSLA,2022-05-02,Strong Negative,China’s COVID hard line eats into everything from Teslas to tacos,-0.257899541990343,4,-0.1408916021486542
+TSLA,2022-05-05,Strong Positive,Report: Tesla adds swiveling screen to yoke-equipped Model S,0.3041590645700209,8,-0.098379763660004
+TSLA,2022-05-06,Strong Positive,Tesla will pay travel costs for staff seeking abortion services,0.6032729977684106,3,-0.038257097987108385
+TSLA,2022-05-10,Strong Negative,Elon Musk says Tesla open to buying a mining company,-0.375395878416032,6,-0.1174817382563883
+TSLA,2022-05-11,Strong Negative,"Tesla recalls cars for overheating issue—of screens, not battery packs",-0.4472497939296574,5,-0.1423260583018665
+TSLA,2022-05-13,Strong Negative,Exclusive: Tesla puts India entry plan on hold after deadlock on tariffs,-0.3473271439636279,4,-0.1795386861192962
+TSLA,2022-05-16,Strong Positive,"China regulator says Tesla recalling 107,293 China-made Model 3, Model Y vehicles",0.4973487660666184,2,-0.1828410695095075
+TSLA,2022-05-17,Strong Positive,GM is betting its Ultium batteries will lead the automaker to EV dominance,1.0,1,-0.17923067424883
+TSLA,2022-05-18,Strong Negative,Tesla dumped by S&P ESG index as Musk calls label a ‘scam’,-0.5167010703462672,2,-0.1487273475847285
+TSLA,2022-05-19,Strong Negative,Wall Street ends sharply lower as Target and growth stocks sink,-0.5265878165809715,2,-0.049275709288085376
+TSLA,2022-06-02,Strong Positive,"Chip shortage is easing, says world's biggest truck-maker Daimler Truck Holding AG",0.3362245266802149,3,0.10406729485123023
+TSLA,2022-06-03,Strong Negative,Tesla Fair Fund distributions established to pay 'harmed' investors,-0.2999041206526273,4,0.07336472738728869
+TSLA,2022-06-06,Strong Positive,Amazon (AMZN) Gains as Stock Split Lowers Price Tag for Retail Buyers,1.0,1,0.0022754492090452036
+TSLA,2022-06-08,Strong Positive,"WalMart expands transportation partnerships with electric, hydrogen vehicle pilots",0.7537635075737492,4,0.012655939882592504
+TSLA,2022-06-09,Strong Positive,Tesla goes ahead with China hiring event after Musk job warning,0.2674778860730332,3,-0.01620771993383499
+TSLA,2022-06-13,Strong Positive,7 Founder-Led Stocks to Buy and Hold Forever,0.2579782642151632,3,0.10390823034218272
+TSLA,2022-06-15,Strong Positive,"Caterpillar to relocate global headquarters from Illinois to Irving, Texas",0.2462658719958617,4,0.07552336645884583
+TSLA,2022-06-17,Strong Negative,Elon Musk and Tesla sued over Dogecoin ‘pyramid scheme’,-0.1044700607805794,4,0.053113234981080906
+TSLA,2022-06-21,Strong Negative,Tesla sued by former employees over 'mass layoff',-0.0966269641138892,12,0.02945722891772501
+TSLA,2022-06-22,Strong Negative,How the Tesla Model S Changed the World,-0.1605483203964433,3,0.035128429874046005
+TSLA,2022-06-23,Strong Negative,Musk says Tesla's new car factories 'losing billions of dollars',-0.7344476127698406,3,0.007880444626550609
+TSLA,2022-06-24,Strong Negative,2 killed as NIO electric car plummets 3 stories from building in China,-0.6186028715450993,5,-0.016142805969583292
+TSLA,2022-06-27,Strong Positive,Kroger increases EV charging offer across US stores,1.0,1,0.037334670304834824

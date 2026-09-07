@@ -1,0 +1,3521 @@
+{
+  "items": "76",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Nigerian firm sues Oracle, demands damages, partnership reinstatement",
+      "url": "https://punchng.com/nigerian-firm-sues-oracle-demands-damages-partnership-reinstatement/",
+      "time_published": "20220401T014200",
+      "authors": [
+        "Oladimeji Ramon"
+      ],
+      "summary": "A Nigerian firm, Plexada System Integrators Limited, has sued Oracle Corporations in Lagos, seeking compensation for alleged loss of revenue, goodwill, and outstanding commissions. Plexada claims Oracle unjustly delisted its Gold Partner status and intentionally sabotaged its business operations after a dispute arose from a transaction with the Lagos State Government. The firm is demanding the reinstatement of its partnership rights, financial damages, and a court order for Oracle to publish full-page apologies in prominent Nigerian and Ghanaian newspapers.",
+      "banner_image": "https://cdn.punchng.com/wp-content/uploads/2022/04/01033244/Oracle.jpg",
+      "source": "Punch Newspapers",
+      "category_within_source": "General",
+      "source_domain": "Punch Newspapers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.828049"
+        }
+      ],
+      "overall_sentiment_score": -0.460335,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.472370",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AMD acquires data center chip startup Pensando for $1.9B",
+      "url": "https://siliconangle.com/2022/04/04/amd-acquires-data-center-chip-startup-pensando-1-9b/",
+      "time_published": "20220404T123134",
+      "authors": [
+        "Maria Deutscher"
+      ],
+      "summary": "AMD announced its plan to acquire Pensando Systems Inc., a data center chip startup, for approximately $1.9 billion. Pensando develops chips that improve the efficiency of supporting tasks in data centers, such as managing storage infrastructure and coordinating network traffic, by performing these functions locally on accelerator cards attached to servers. This acquisition is expected to bolster AMD's fast-growing data center business, expanding its portfolio and enhancing its competitive position against rivals like Nvidia and Intel.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/amd-1.png",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.929373"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.201433,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442544",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.647408",
+          "ticker_sentiment_score": "0.132864",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.622033",
+          "ticker_sentiment_score": "0.146110",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.631280",
+          "ticker_sentiment_score": "0.128852",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.605037",
+          "ticker_sentiment_score": "0.121635",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AMD-Pensando Buy: From AWS Rivalry To Cisco, HPE Links—5 Things To Know",
+      "url": "https://www.crn.com/news/components-peripherals/amd-pensando-buy-from-aws-rivalry-to-cisco-hpe-links-5-things-to-know",
+      "time_published": "20220404T123954",
+      "authors": [],
+      "summary": "AMD is acquiring edge computing startup Pensando for $1.9 billion to enhance its data center offerings and expand its capabilities for cloud, enterprise, and edge customers. Pensando, known for its programmable processor and software stack, boasts a strong market presence, including partnerships with HPE and Oracle, and aims to challenge AWS's cloud technology. This acquisition is expected to accelerate innovation in distributed services and solidify AMD's position in the next generation of data center infrastructure.",
+      "banner_image": null,
+      "source": "CRN",
+      "category_within_source": "General",
+      "source_domain": "CRN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.907218"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809793"
+        }
+      ],
+      "overall_sentiment_score": 0.183129,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.891533",
+          "ticker_sentiment_score": "0.140776",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449056",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.945240",
+          "ticker_sentiment_score": "0.319340",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.639120",
+          "ticker_sentiment_score": "-0.208704",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.558261",
+          "ticker_sentiment_score": "0.116137",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AMD Buying John Chambers-Backed Pensando For $1.9B To Boost Cloud, Chip Innovation",
+      "url": "https://www.crn.com/news/components-peripherals/amd-buying-john-chambers-backed-pensando-for-1-9b-to-boost-cloud-chip-innovation",
+      "time_published": "20220404T123954",
+      "authors": [],
+      "summary": "AMD announced its acquisition of Pensando, an edge and cloud startup, for $1.9 billion to enhance its data center processors with Pensando's software stack and programmable packet processors. This strategic move aims to expand AMD's offerings for cloud, enterprise, and edge customers by leveraging Pensando's distributed services platform, which has been praised for its performance and efficiency. Pensando's CEO Prem Jain and his team will join AMD's Data Center Solutions Group, continuing to execute their product roadmap with increased scale and market reach.",
+      "banner_image": null,
+      "source": "CRN",
+      "category_within_source": "General",
+      "source_domain": "CRN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.922750"
+        }
+      ],
+      "overall_sentiment_score": 0.168888,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.802746",
+          "ticker_sentiment_score": "0.116465",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439117",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.625279",
+          "ticker_sentiment_score": "0.146732",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.615084",
+          "ticker_sentiment_score": "0.116517",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.627873",
+          "ticker_sentiment_score": "0.117980",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Clean Harbors’ CIO: Hybrid approach to the cloud is a win-win",
+      "url": "https://www.cio.com/article/307672/clean-harbors-cio-hybrid-approach-to-the-cloud-is-a-win-win.html",
+      "time_published": "20220404T162616",
+      "authors": [
+        "Paula Rooney"
+      ],
+      "summary": "Clean Harbors, a hazardous waste cleanup giant, has adopted a hybrid cloud strategy, leveraging Microsoft Azure for advanced AI and RPA capabilities while retaining its core Waste Information Network (WIN) on-premises. This approach allows them to innovate with cloud services for customer-facing applications and data analytics, while ensuring the high availability and security of critical legacy systems and data, a model increasingly favored by enterprises. The company's CIO, Sharon Gabriel, highlights their cautious, methodical approach to cloud adoption, informed by past experiences and a need to manage 42 years of sensitive data.",
+      "banner_image": null,
+      "source": "www.cio.com",
+      "category_within_source": "General",
+      "source_domain": "www.cio.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.214648,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CLH",
+          "relevance_score": "0.995669",
+          "ticker_sentiment_score": "0.339579",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.740767",
+          "ticker_sentiment_score": "0.262099",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.621648",
+          "ticker_sentiment_score": "0.121528",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.550659",
+          "ticker_sentiment_score": "0.132307",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuit Inc. stock outperforms competitors on strong trading day",
+      "url": "https://www.marketwatch.com/story/intuit-inc-stock-outperforms-competitors-on-strong-trading-day-01649105989-2a9840971dd6?gaa_at=eafs&gaa_n=AWEtsqe4jCEYGnh-23YDieaTySNqoBH0TeAle6xhrVJpof9HHi7wJQuQSUmZ&gaa_ts=699afa5f&gaa_sig=mOc9lMZbmHvvGyfV5uBFyJ5Gj_nwZ6OZ3ZBcVRw3Xv-jjeRsqE7ndjQH4ECGkYO8pOEL5plG-UDGx1QwGgdaHQ%3D%3D",
+      "time_published": "20220404T165900",
+      "authors": [
+        "Terrence Horan"
+      ],
+      "summary": "Shares of Intuit Inc. (INTU) rallied 4.49% to $505.65 on Monday, outperforming competitors like Adobe Inc., SAP SE ADR, and Oracle Corp. The stock's performance contributed to an overall favorable trading session for the market, with the S&P 500 Index and Dow Jones Industrial Average also seeing gains. This marks the third consecutive day of gains for Intuit Inc., though it remains $211.21 short of its 52-week high.",
+      "banner_image": "https://images.mktw.net/im-220105?width=700&height=466",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935042"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723585"
+        }
+      ],
+      "overall_sentiment_score": 0.289052,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.722021",
+          "ticker_sentiment_score": "0.220662",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485583",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.635336",
+          "ticker_sentiment_score": "0.265671",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "C3 AI's Ambition: World's Greatest Software",
+      "url": "https://c3.ai/c3-ais-tom-siebel-if-we-succeed-we-will-be-one-of-the-worlds-greatest-software-companies/",
+      "time_published": "20220405T160627",
+      "authors": [
+        "Tiernan Ray"
+      ],
+      "summary": "Tom Siebel, CEO of C3.ai (AI), discusses his renewed vision for enterprise AI, focusing on its predictive capabilities to deliver substantial economic value to customers. Despite C3.ai's stock performance challenges and questions about its core technology and business model, Siebel remains confident in the company's platform, strategic partnerships, financial strength, and long-term goal of becoming a leading software company by innovating how businesses operate through AI-driven foresight.",
+      "banner_image": null,
+      "source": "C3 AI",
+      "category_within_source": "General",
+      "source_domain": "C3 AI",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.904079"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.821269"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.745185"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.603587"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.643720"
+        }
+      ],
+      "overall_sentiment_score": 0.207459,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.309087",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.747744",
+          "ticker_sentiment_score": "0.121159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BKR",
+          "relevance_score": "0.602631",
+          "ticker_sentiment_score": "0.201962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.639806",
+          "ticker_sentiment_score": "0.134330",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Labeyrie Fine Foods Partners with Rimini Street to Enable the Company’s Digital Evolution",
+      "url": "https://www.businesswire.com/news/home/20220406005345/en/Labeyrie-Fine-Foods-Partners-with-Rimini-Street-to-Enable-the-Companys-Digital-Evolution",
+      "time_published": "20220406T182616",
+      "authors": [],
+      "summary": "Labeyrie Fine Foods has partnered with Rimini Street to improve its Oracle JD Edwards and Oracle Database support, achieving operational value and cost efficiencies. This partnership allows Labeyrie Fine Foods to redeploy resources to accelerate its migration to the cloud and fund its digital evolution. Rimini Street provides customized support that meets Labeyrie Fine Foods' specific needs, with a focus on optimizing systems and reducing total cost of ownership.",
+      "banner_image": "Photo: Business Wire",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.948619"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.842919"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.746571"
+        }
+      ],
+      "overall_sentiment_score": 0.217416,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RMNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.470186",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.603096",
+          "ticker_sentiment_score": "0.119990",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.599999",
+          "ticker_sentiment_score": "0.136880",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What’s Changed: 2022 Gartner Magic Quadrant for Transportation Management Systems",
+      "url": "https://solutionsreview.com/enterprise-resource-planning/whats-changed-2022-gartner-magic-quadrant-for-transportation-management-systems/",
+      "time_published": "20220407T171606",
+      "authors": [
+        "William Jepma"
+      ],
+      "summary": "This article highlights the changes in the 2022 Gartner Magic Quadrant for Transportation Management Systems (TMS), outlining the core and expanded capabilities of TMS software. It details the leaders, challengers, and niche players identified by Gartner, providing insights into their strengths, weaknesses, and target markets. Key updates include the addition of 3Gtms and the absence of BluJay Solutions due to its acquisition by E2open.",
+      "banner_image": null,
+      "source": "Solutions Review",
+      "category_within_source": "General",
+      "source_domain": "Solutions Review",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.920798"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.843306"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.720436"
+        }
+      ],
+      "overall_sentiment_score": 0.077067,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128374",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.825353",
+          "ticker_sentiment_score": "0.215400",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CHRW",
+          "relevance_score": "0.700149",
+          "ticker_sentiment_score": "0.104928",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.603878",
+          "ticker_sentiment_score": "0.010744",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.585782",
+          "ticker_sentiment_score": "-0.050764",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "In the age of composable technology, Accenture helps orgs rethink their technology stack",
+      "url": "https://siliconangle.com/2022/04/08/age-composable-technology-accenture-helps-orgs-rethink-technology-stack-coupainspire/",
+      "time_published": "20220408T123944",
+      "authors": [
+        "Victor Dabrinze"
+      ],
+      "summary": "Accenture PLC is heavily investing in composable technology to help global companies adapt their tech stacks in a dynamic environment. Brian McKillips, managing director at Accenture, explains that this approach allows organizations to combine cloud foundations, digital cores (like Salesforce and Oracle), and composable parts (such as other software packages or IoT devices) to solve evolving industry problems and improve customer experiences. This shift, enabled by advancements in hyperscale cloud compute, edge computing, and 5G, is crucial for companies to stay competitive.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Brian-McKillips-Coupa-Inspire-2022.jpg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.926638"
+        }
+      ],
+      "overall_sentiment_score": 0.364784,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.704056",
+          "ticker_sentiment_score": "0.348496",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.900154",
+          "ticker_sentiment_score": "0.423829",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.601509",
+          "ticker_sentiment_score": "0.325887",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Named a 2022 Gartner® Peer Insights™ ‘Voice of the Customer’: Enterprise Low-Code Application Platforms",
+      "url": "https://blogs.oracle.com/apex/oracle-named-a-2022-gartner-peer-insights-voice-of-the-customer-enterprise-low-code-application-platforms",
+      "time_published": "20220408T125312",
+      "authors": [
+        "Monica Godoy"
+      ],
+      "summary": "Oracle has been recognized as a Customers’ Choice in the 2022 Gartner® Peer Insights™ ‘Voice of the Customer’: Enterprise Low-Code Application Platforms for Oracle APEX, based on customer reviews. Oracle APEX is a low-code development platform, offered as a no-cost feature of Oracle Database and available for free on Oracle Cloud's Always Free services, empowering developers to build scalable enterprise apps. The article includes testimonials from customers praising APEX for its speed, functionality, and ability to solve business problems.",
+      "banner_image": "https://blogs.oracle.com/apex/wp-content/uploads/sites/15/2025/10/CH-Gartner.png",
+      "source": "Oracle Blogs",
+      "category_within_source": "General",
+      "source_domain": "Oracle Blogs",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.349536,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IT",
+          "relevance_score": "0.923847",
+          "ticker_sentiment_score": "0.325719",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410315",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.613523",
+          "ticker_sentiment_score": "0.306430",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SCM 3: Securitas unifies data across finance and HR with Oracle",
+      "url": "https://www.oracle.com/customers/securitas/",
+      "time_published": "20220408T130223",
+      "authors": [],
+      "summary": "Securitas, a global security services firm, partnered with Oracle to modernize its finance and HR systems by implementing integrated cloud software. The company adopted Oracle Cloud ERP, HCM, SCM, EPM, and OCI to replace disparate legacy systems, improving efficiency and data integration. This digital transformation led to significant benefits, including faster hiring processes and drastically reduced reporting times, with similar projects now underway in Europe.",
+      "banner_image": "https://www.oracle.com:443/cmsng/88343368700347512362626479744306168481.webp?_wsbfilename=cbgfull-industries-neutral.webp",
+      "source": "Oracle Cloud",
+      "category_within_source": "General",
+      "source_domain": "Oracle Cloud",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.836511"
+        }
+      ],
+      "overall_sentiment_score": 0.47528,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468563",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Data Analytics Market Size to grow by USD 196.47 Billion | 32% of the market growth will originate from APAC | 17,000+ Technavio Reports",
+      "url": "https://www.prnewswire.com/news-releases/data-analytics-market-size-to-grow-by-usd-196-47-billion--32-of-the-market-growth-will-originate-from-apac--17-000-technavio-reports-301521031.html",
+      "time_published": "20220411T051500",
+      "authors": [],
+      "summary": "The global data analytics market is projected to grow by USD 196.47 billion from 2021 to 2026, accelerating at a CAGR of 13.54%. The services component segment dominated the market in 2021 and will continue to do so. APAC is expected to contribute 32% of the market's growth, with China and India being key markets.",
+      "banner_image": "https://www.prnewswire.com/content/dam/newWidget-desktop.png",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.336409,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.909371",
+          "ticker_sentiment_score": "0.326328",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.719117",
+          "ticker_sentiment_score": "0.327421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.736229",
+          "ticker_sentiment_score": "0.317354",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.608263",
+          "ticker_sentiment_score": "0.272255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Learning Management System Market Size [2022-2029] | to Reach USD 40.95 Billion and Exhibit a CAGR of 14.2%",
+      "url": "https://www.globenewswire.com/news-release/2022/04/11/2419724/0/en/Learning-Management-System-Market-Size-2022-2029-to-Reach-USD-40-95-Billion-and-Exhibit-a-CAGR-of-14-2.html",
+      "time_published": "20220411T125754",
+      "authors": [],
+      "summary": "The global Learning Management System (LMS) market is projected to reach USD 40.95 billion by 2029, growing from USD 14.43 billion in 2021 at a CAGR of 14.2%. This growth is driven by the increasing demand for smart and interactive learning platforms, multichannel learning trends, and the continued adoption of online learning methods accelerated by the COVID-19 pandemic. North America is expected to dominate the market due to rising ed-tech activities and a large number of universities.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/dc4edc6b-730e-443f-85b5-5c6169e7cdcc",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.812438"
+        }
+      ],
+      "overall_sentiment_score": 0.160095,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MH",
+          "relevance_score": "0.335253",
+          "ticker_sentiment_score": "0.009804",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.843057",
+          "ticker_sentiment_score": "0.272840",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.740277",
+          "ticker_sentiment_score": "0.219131",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.588469",
+          "ticker_sentiment_score": "0.180614",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MU professor says Google v. Oracle case leaves fair use ‘muddy’",
+      "url": "https://showme.missouri.edu/2022/mu-professor-says-google-v-oracle-case-leaves-fair-use-muddy/",
+      "time_published": "20220412T130223",
+      "authors": [
+        "Kenny Gerling"
+      ],
+      "summary": "A University of Missouri law professor, Gary Myers, argues that the 2021 Supreme Court ruling in Google LLC v. Oracle America, Inc. has left the concept of \"fair use\" in copyright law \"muddy\" for software development. The ruling, which stated Google did not violate copyright by using Java code in Android, failed to clarify what aspects of computer code are protected and could introduce uncertainty for future software innovation. Myers highlights specific areas like intent, market impact, harm to the public, and transformative use that require further clarification from the courts.",
+      "banner_image": "https://showme.missouri.edu/wp-content/uploads/2022/04/01B-Gary_Myers-386x500-1-340x440.jpg",
+      "source": "Show Me Mizzou",
+      "category_within_source": "General",
+      "source_domain": "Show Me Mizzou",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.900407"
+        }
+      ],
+      "overall_sentiment_score": 0.079492,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218933",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.944796",
+          "ticker_sentiment_score": "0.234490",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.909932",
+          "ticker_sentiment_score": "0.204449",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.613739",
+          "ticker_sentiment_score": "0.101021",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "New Oracle HR tools move employee experience to forefront",
+      "url": "https://www.techtarget.com/searchhrsoftware/news/252516006/New-Oracle-HR-tools-move-employee-experience-to-forefront",
+      "time_published": "20220415T130223",
+      "authors": [
+        "Patrick Thibodeau"
+      ],
+      "summary": "Oracle has launched new employee experience tools, including the Oracle ME platform, which incorporates techniques from consumer experience platforms to enhance employee engagement. The platform aims to foster stronger employee-manager relationships through features like targeted email campaigns, pulse surveys, and employee check-ins, while analysts note Oracle's advantage due to its deep expertise in customer experience. However, experts emphasize that while technology can help, a strong organizational culture and addressing core employee concerns remain paramount for genuine employee experience improvement.",
+      "banner_image": "https://www.techtarget.com/rms/onlineimages/wfh_g1217542241_searchsitetablet_520X173.jpg",
+      "source": "TechTarget",
+      "category_within_source": "General",
+      "source_domain": "TechTarget",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.840456"
+        }
+      ],
+      "overall_sentiment_score": 0.349376,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.507208",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MCD",
+          "relevance_score": "0.609758",
+          "ticker_sentiment_score": "0.145790",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What is Adobe Experience Cloud? CRM platform overview",
+      "url": "https://www.techtarget.com/searchcustomerexperience/feature/Adobe-Marketing-Cloud-CRM-platform-overview",
+      "time_published": "20220418T123019",
+      "authors": [
+        "Kurt Marko",
+        "T.J. Houpes"
+      ],
+      "summary": "Adobe Experience Cloud is a comprehensive CRM platform designed for medium to large enterprises, offering tools to manage sales, marketing, and customer support. It facilitates the customer journey through data-driven insights with integrated features like targeted list generators, email campaigns, and real-time data updates. The platform also integrates with various third-party systems and social media, providing a unified view of customer interactions and supporting personalized digital experiences.",
+      "banner_image": null,
+      "source": "TechTarget",
+      "category_within_source": "General",
+      "source_domain": "TechTarget",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.940467"
+        }
+      ],
+      "overall_sentiment_score": 0.311277,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456233",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.631027",
+          "ticker_sentiment_score": "0.220884",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.618546",
+          "ticker_sentiment_score": "0.207763",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.645193",
+          "ticker_sentiment_score": "0.213980",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Database 19c on Cisco X210c M6 – WOW!",
+      "url": "https://blogs.cisco.com/datacenter/oracle-database-19c-on-cisco-x210c-m6-wow",
+      "time_published": "20220418T123954",
+      "authors": [
+        "John McAbel"
+      ],
+      "summary": "This article details the performance testing of Oracle Database 19c on Cisco X210c M6 compute nodes. Using Oracle SLOB and SwingBench benchmarks, it demonstrates excellent scalability, low latency, and high transaction rates, highlighting the suitability of the Cisco UCS X210c M6 for hosting single-instance Oracle databases. The article also addresses performance impact during disk failure, showing minimal disruption and efficient recovery through Oracle ASM.",
+      "banner_image": null,
+      "source": "Cisco Blogs",
+      "category_within_source": "General",
+      "source_domain": "Cisco Blogs",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.905350"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718175"
+        }
+      ],
+      "overall_sentiment_score": 0.410888,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSCO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490813",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.831107",
+          "ticker_sentiment_score": "0.447582",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.615895",
+          "ticker_sentiment_score": "0.300758",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why dividend ETFs may not be worthwhile",
+      "url": "https://drwealth.com/why-dividend-etfs-may-not-be-worthwhile/",
+      "time_published": "20220419T183559",
+      "authors": [
+        "Alvin Chow"
+      ],
+      "summary": "This article examines the viability of dividend ETFs, concluding that many are not worthwhile after accounting for taxes, fees, and capital distributions. The author discusses challenges like 30% dividend taxation for foreign investors in US ETFs, poor underlying stock performance in high-yield ETFs, and issues with capital distributions eroding value. Alternative options in Singapore, UK, and Hong Kong are also explored, but ultimately deemed insufficient, leading to the recommendation that investors build their own dividend portfolios.",
+      "banner_image": null,
+      "source": "Dr Wealth",
+      "category_within_source": "General",
+      "source_domain": "Dr Wealth",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947315"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826536"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.604374"
+        }
+      ],
+      "overall_sentiment_score": 0.061189,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.718494",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.618313",
+          "ticker_sentiment_score": "0.315027",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.645442",
+          "ticker_sentiment_score": "0.306134",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.610222",
+          "ticker_sentiment_score": "0.329690",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Latest Oracle Exadata servers ascend to the cloud",
+      "url": "https://siliconangle.com/2022/04/20/latest-oracle-exadata-servers-come-cloud/",
+      "time_published": "20220420T080000",
+      "authors": [
+        "Paul Gillin"
+      ],
+      "summary": "Oracle has announced the availability of its latest Exadata Cloud Infrastructure X9M appliance in Oracle Cloud Infrastructure, marking the rollout of its newest generation of Exadata processors. This new service, based on AMD microprocessors, offers significant improvements in performance, throughput, and capacity without increased costs, allowing organizations to consolidate various database workloads. Oracle claims superior performance compared to AWS RDS and Azure SQL, with the service designed for scalable deployment both on-premises and across Oracle's expanding global cloud footprint.",
+      "banner_image": null,
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.922806"
+        }
+      ],
+      "overall_sentiment_score": 0.136593,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.893128",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.727343",
+          "ticker_sentiment_score": "0.449324",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.626583",
+          "ticker_sentiment_score": "-0.406450",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.641495",
+          "ticker_sentiment_score": "-0.311288",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.586385",
+          "ticker_sentiment_score": "0.131317",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CACI Awarded $258 Million Defense Agencies Initiative Contract",
+      "url": "https://www.hstoday.us/industry/industry-news/caci-awarded-258-million-defense-agencies-initiative-contract/",
+      "time_published": "20220422T123646",
+      "authors": [
+        "Homeland Security Today or NULL"
+      ],
+      "summary": "CACI International Inc has been awarded a $258 million task order to provide enterprise technology support and modernize financial management and business processes for the Defense Agencies Initiative (DAI). This contract, under the DLA JETS IDIQ, consolidates seven previous contracts and aims to improve business processes for 27 diverse DoD agencies and the USMC, supporting up to 88,000 users. CACI will continue to advance DAI’s processes with the latest technologies and has a track record of achieving clean audits for the program since 2017.",
+      "banner_image": "https://www.hstoday.us/wp-content/uploads/2022/04/defenseagenciesinitiative-696x391.webp",
+      "source": "Homeland Security Today",
+      "category_within_source": "General",
+      "source_domain": "Homeland Security Today",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.913359"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705325"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.612704"
+        }
+      ],
+      "overall_sentiment_score": 0.55561,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.820627",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.635750",
+          "ticker_sentiment_score": "0.301617",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OpsLevel Hires New Relic Veteran Todd Osborne to Drive Go-to-Market Strategy",
+      "url": "https://www.channele2e.com/news/opslevel-hires-new-relic-veteran-todd-osborne",
+      "time_published": "20220426T180633",
+      "authors": [
+        "Joe Panettieri"
+      ],
+      "summary": "OpsLevel, a startup focused on helping software development teams manage microservices, has hired New Relic veteran Todd Osborne as its head of worldwide sales. Osborne brings over 20 years of go-to-market experience from previous roles at New Relic, Oracle, and Sun Microsystems, and will lead OpsLevel's sales, pre-sales, business development, and partner teams. His appointment aims to scale the company's revenue organization as it expands its market reach.",
+      "banner_image": null,
+      "source": "ChannelE2E",
+      "category_within_source": "General",
+      "source_domain": "ChannelE2E",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.932514"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633833"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.615445"
+        }
+      ],
+      "overall_sentiment_score": 0.196473,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PD",
+          "relevance_score": "0.302732",
+          "ticker_sentiment_score": "0.007105",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DDOG",
+          "relevance_score": "0.602152",
+          "ticker_sentiment_score": "0.322427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.649462",
+          "ticker_sentiment_score": "0.216541",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle teams with Verizon as it expands global network of industry innovation labs",
+      "url": "https://www.computerweekly.com/news/252516424/Oracle-teams-with-Verizon-as-it-expands-global-network-of-industry-innovation-labs",
+      "time_published": "20220428T100000",
+      "authors": [
+        "Joe O’Halloran"
+      ],
+      "summary": "Oracle has opened a new 30,000 sq ft Industry Lab near Chicago, in partnership with Verizon, to allow customers and partners to develop and test solutions using Oracle's technology across various industries. This lab will initially focus on energy and water, construction and engineering, communications, and manufacturing, with additional labs planned for England and Australia. The initiative aims to address complex industry challenges through collaborative innovation in simulated real-world environments.",
+      "banner_image": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/ORACLE_DEEREFIELD_hero_searchsitetablet_520X173.jpg",
+      "source": "Computer Weekly",
+      "category_within_source": "General",
+      "source_domain": "Computer Weekly",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.941338"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739007"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.731544"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.645539"
+        }
+      ],
+      "overall_sentiment_score": 0.273077,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428685",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.919165",
+          "ticker_sentiment_score": "0.323842",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.604889",
+          "ticker_sentiment_score": "0.283288",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.560431",
+          "ticker_sentiment_score": "0.149842",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "F1 Boom Lures Amazon, Dell and Oracle Into Tech-Sponsor Race",
+      "url": "https://www.sportico.com/business/tech/2022/f1-boom-lures-amazon-dell-and-oracle-into-tech-sponsor-race-1234674343/",
+      "time_published": "20220504T115606",
+      "authors": [
+        "Asli Pelit"
+      ],
+      "summary": "The increasing popularity of Formula One, especially in the U.S., is attracting major tech companies like Amazon, Oracle, and Dell Technologies as sponsors and partners. These partnerships involve using advanced technology for car design, performance optimization, data analysis for fan engagement, and even driver wellness. This trend highlights F1's blend of technological innovation and competitive sport, driving further tech demand.",
+      "banner_image": "https://www.sportico.com/wp-content/uploads/2022/05/2022-F1-Car-Silverstone-Grid.jpeg?w=1600&h=901&crop=1",
+      "source": "Sportico.com",
+      "category_within_source": "General",
+      "source_domain": "Sportico.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.932124"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615704"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.640360"
+        }
+      ],
+      "overall_sentiment_score": 0.309864,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FWONK",
+          "relevance_score": "0.928816",
+          "ticker_sentiment_score": "0.441868",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.842867",
+          "ticker_sentiment_score": "0.319358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.744638",
+          "ticker_sentiment_score": "0.307383",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.716298",
+          "ticker_sentiment_score": "0.337826",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.628501",
+          "ticker_sentiment_score": "0.236628",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "PUNCH Torino accelerates hydrogen vehicle development using Oracle Cloud Infrastructure for engine design",
+      "url": "https://www.oracle.com/cloud/punch-torino-accelerates-hydrogen-vehicle-development-using-oracle-cloud-infrastructure-for-engine-design/",
+      "time_published": "20220504T115726",
+      "authors": [
+        "Natalie Gagliordi"
+      ],
+      "summary": "PUNCH Torino, formerly GM's diesel engine center, is now focusing on converting thermal engines to hydrogen and developing micro-mobility projects. The company uses Oracle Cloud Infrastructure (OCI) for high-performance computing to run complex computational fluid dynamics simulations for engine design and development. This has allowed PUNCH Torino to accelerate its innovation, optimize costs, and scale its operations more efficiently compared to its previous on-premises system.",
+      "banner_image": null,
+      "source": "Oracle Cloud",
+      "category_within_source": "General",
+      "source_domain": "Oracle Cloud",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.840719"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.731887"
+        }
+      ],
+      "overall_sentiment_score": 0.281735,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GM",
+          "relevance_score": "0.616074",
+          "ticker_sentiment_score": "0.137486",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.929667",
+          "ticker_sentiment_score": "0.419775",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Secures $7.14B in New Financing for Twitter Deal, Holds Talks to Keep Jack Dorsey on Board as Investor",
+      "url": "https://www.hollywoodreporter.com/business/business-news/elon-musk-twitter-deal-financing-jack-dorsey-investor-talks-1235141119/",
+      "time_published": "20220505T043900",
+      "authors": [
+        "Georg Szalai"
+      ],
+      "summary": "Elon Musk has secured nearly $7.14 billion in new financing commitments for his acquisition of Twitter, bringing in investors such as Oracle co-founder Larry Ellison and Saudi Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud. The new financing reduces Musk's margin loan for the deal. Additionally, Musk is in discussions with existing Twitter shareholders, including co-founder Jack Dorsey, about potentially retaining their equity in the company post-buyout instead of receiving cash.",
+      "banner_image": "https://www.hollywoodreporter.com/wp-content/uploads/2022/05/Musk-1.jpg?w=2000&h=1126&crop=1",
+      "source": "The Hollywood Reporter",
+      "category_within_source": "General",
+      "source_domain": "The Hollywood Reporter",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.733964"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802782"
+        }
+      ],
+      "overall_sentiment_score": 0.373075,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.819225",
+          "ticker_sentiment_score": "0.317787",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.738741",
+          "ticker_sentiment_score": "0.435940",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.619409",
+          "ticker_sentiment_score": "0.341334",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk secures over $7 billion in funding from investors including Larry Ellison",
+      "url": "https://www.cnbc.com/2022/05/05/oracle-co-founder-ellison-to-give-1-billion-to-fund-musks-purchase-of-twitter.html",
+      "time_published": "20220505T064300",
+      "authors": [],
+      "summary": "Elon Musk has secured over $7.14 billion in new funding from various investors, including Oracle co-founder Larry Ellison and Sequoia Capital, to finance his $44 billion acquisition of Twitter. This new funding arrangement also involves Saudi Prince Alwaleed bin Talal rolling over his existing Twitter stake into the deal and a reduction in Musk's margin loan commitment. Musk is also reportedly in discussions with existing Twitter shareholders, such as Jack Dorsey, to contribute shares to the proposed acquisition.",
+      "banner_image": "https://davidpaulmorris.com/images/david_paul_morris_bloomberg_getty_images_oracle_openworld_2017_larry_ellison_1.jpg",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916365"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.812185"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.706908"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.635072"
+        }
+      ],
+      "overall_sentiment_score": 0.005593,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.303974",
+          "ticker_sentiment_score": "0.046999",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Fusion Cloud provides real-time insights for Williams Companies",
+      "url": "https://erp.today/oracle-fusion-cloud-provides-real-time-insights-for-williams-companies/",
+      "time_published": "20220506T191632",
+      "authors": [
+        "Melissa Evatt"
+      ],
+      "summary": "Williams Companies, the largest interstate natural gas supplier in the United States, has migrated its finance and operations to Oracle Fusion Cloud ERP. This transition aims to improve real-time insights, cost control, and reduce energy consumption by replacing a legacy financial management system. Oracle Cloud ERP has already significantly lowered costs and improved operational margins for Williams, leveraging AI-driven automation and predictive modeling for enhanced visibility and productivity.",
+      "banner_image": null,
+      "source": "ERP Today",
+      "category_within_source": "General",
+      "source_domain": "ERP Today",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.825466"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730168"
+        }
+      ],
+      "overall_sentiment_score": 0.426565,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WMB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472151",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.886810",
+          "ticker_sentiment_score": "0.431700",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CISA tells federal agencies to fix actively exploited F5 BIG-IP bug",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-federal-agencies-to-fix-actively-exploited-f5-big-ip-bug/",
+      "time_published": "20220511T103500",
+      "authors": [
+        "Sergiu Gatlan"
+      ],
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has mandated federal agencies to patch a critical F5 BIG-IP vulnerability (CVE-2022-1388) by May 31st, as it is being actively exploited. This bug allows remote attackers to execute commands on unpatched devices, with some threat actors even wiping Linux file systems. While the directive specifically applies to U.S. federal agencies, CISA strongly advises all organizations to fix the flaw immediately.",
+      "banner_image": "https://www.bleepstatic.com/content/hl-images/2022/05/09/F5_logo_headpic.jpeg",
+      "source": "BleepingComputer",
+      "category_within_source": "General",
+      "source_domain": "BleepingComputer",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.902539"
+        }
+      ],
+      "overall_sentiment_score": -0.073439,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.331631",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.635606",
+          "ticker_sentiment_score": "0.113093",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.610645",
+          "ticker_sentiment_score": "0.111369",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Google Cloud launches AlloyDB, a PostgreSQL-compatible database for mission-critical workloads",
+      "url": "https://siliconangle.com/2022/05/11/google-cloud-launches-alloydb-postgresql-compatible-database-mission-critical-workloads/",
+      "time_published": "20220511T121213",
+      "authors": [
+        "Mike Wheatley"
+      ],
+      "summary": "Google Cloud has introduced AlloyDB, a new fully managed, PostgreSQL-compatible relational database service designed for mission-critical workloads. Unveiled at Google I/O, AlloyDB is built on open-source PostgreSQL and Google Cloud's infrastructure, aiming to offer superior performance, scalability, and reliability compared to standard PostgreSQL and AWS Aurora. It emphasizes transparent pricing without I/O charges and includes AI/ML capabilities for management and analytical acceleration, positioning it as a strong competitor to Oracle and AWS in the database market.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/AlloyDB-Social-Cards-Linkedin-3.jpeg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610036"
+        }
+      ],
+      "overall_sentiment_score": 0.2972,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.835629",
+          "ticker_sentiment_score": "0.139036",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.658346",
+          "ticker_sentiment_score": "0.119378",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411062",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433485",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Archer Datacenters Partners with Evoque to Expand Nashville Data Center Campus",
+      "url": "https://www.globenewswire.com/news-release/2022/05/12/2442386/0/en/Archer-Datacenters-Partners-with-Evoque-to-Expand-Nashville-Data-Center-Campus.html",
+      "time_published": "20220512T153000",
+      "authors": [],
+      "summary": "Archer Datacenters announced a joint venture with Evoque, a Brookfield Infrastructure Partners company, to expand its Nashville Hyperscale campus. This $200 million equity commitment aims to develop critical digital infrastructure across the Nashville and Central Southeast region, providing scaled colocation offerings with rapid delivery and a focus on sustainability. The partnership capitalizes on Nashville's significant economic and population growth, addressing an underserved market with robust power and connectivity solutions, including renewable energy initiatives.",
+      "banner_image": "https://ml.globenewswire.com/media/Y2I4YzZjOWEtZTgyZi00ZTAyLTk3MjEtZmNlMTI0ZGQxNTNmLTEyNTk4Mzk=/tiny/Archer-Datacenters.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.905683"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828943"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746765"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.642053"
+        }
+      ],
+      "overall_sentiment_score": 0.195267,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BIP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440490",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HCA",
+          "relevance_score": "0.640377",
+          "ticker_sentiment_score": "0.113722",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.619382",
+          "ticker_sentiment_score": "0.131157",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.629791",
+          "ticker_sentiment_score": "0.116893",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.641123",
+          "ticker_sentiment_score": "0.109424",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Corp. stock rises Friday, still underperforms market",
+      "url": "https://www.marketwatch.com/story/oracle-corp-stock-rises-friday-still-underperforms-market-01652476353-63bd1b5dd713?gaa_at=eafs&gaa_n=AWEtsqcAms4StjwS_7YMv9iv623lTCwnl6V48jNHLAjD2v6lQVGFtCRapglg&gaa_ts=699af0bf&gaa_sig=f7xYy30DyWpmrnSavNoy7v_NVHAW7f5I4W6IeN4XezlBZqkEu3aB8iTTQLStqwI9jLHp1OPi9IFEzg2XTxnVzQ%3D%3D",
+      "time_published": "20220513T171200",
+      "authors": [
+        "Terrence Horan"
+      ],
+      "summary": "Oracle Corp. (ORCL) saw its stock rise 0.62% on Friday to $71.17, despite a generally positive day for the broader market with the S&P 500 and Dow Jones also increasing. However, Oracle underperformed compared to some competitors and remained significantly below its 52-week high. Trading volume was also below its 50-day average.",
+      "banner_image": "https://images.mktw.net/im-220105?width=700&height=466",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911292"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820991"
+        }
+      ],
+      "overall_sentiment_score": 0.215248,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.304781",
+          "ticker_sentiment_score": "0.029035",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.912726",
+          "ticker_sentiment_score": "0.122818",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.619356",
+          "ticker_sentiment_score": "0.342458",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.643468",
+          "ticker_sentiment_score": "0.413531",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Treasury and Risk Management Market SWOT Analysis, Share, Challenges, Growth Strategies and Forecast to 2028",
+      "url": "https://www.openpr.com/news/2625327/treasury-and-risk-management-market-swot-analysis-share",
+      "time_published": "20220516T114544",
+      "authors": [],
+      "summary": "The Treasury and Risk Management market is projected to grow to US$ 7,156.90 million by 2028, expanding at a CAGR of 6.1% from US$ 4,739.39 million in 2021. The report highlights the role of AI in streamlining financial processes and offers insights into market segmentation by component, deployment, enterprise size, application, and end-user, with cloud-based and large enterprises leading their respective segments in 2020. Key players mentioned include Broadridge Financial Solutions, FIS, Oracle Corporation, and SAP SE.",
+      "banner_image": "https://cdn.open-pr.com/V/5/V516363877_g.jpg",
+      "source": "openPR.com",
+      "category_within_source": "General",
+      "source_domain": "openPR.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.816867"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716235"
+        }
+      ],
+      "overall_sentiment_score": 0.306846,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BR",
+          "relevance_score": "0.915277",
+          "ticker_sentiment_score": "0.339199",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FIS",
+          "relevance_score": "0.862463",
+          "ticker_sentiment_score": "0.344129",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.801838",
+          "ticker_sentiment_score": "0.341281",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FI",
+          "relevance_score": "0.718822",
+          "ticker_sentiment_score": "0.332262",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Uber Eats set to pilot autonomous delivery with robots, cars",
+      "url": "https://restaurantbusinessonline.com/technology/uber-eats-set-pilot-autonomous-delivery-robots-cars",
+      "time_published": "20220516T121857",
+      "authors": [
+        "Joe Guszkowski"
+      ],
+      "summary": "Uber Eats is launching pilot programs in Los Angeles for autonomous food delivery using robots and self-driving cars, aiming to reduce delivery costs and environmental impact. Alongside this, the company is introducing voice ordering through Google Assistant and allowing in-app food ordering at selected sports stadiums. These initiatives were announced during Uber Eats' second annual Go/Get product showcase.",
+      "banner_image": "https://cdn.informaconnect.com/platform/files/public/2022-05/background/800x1000/uber-eats-self-driving.jpg?VersionId=vhzZiVhmG8GhOdbRI9lZOfwuHPJBL7ef",
+      "source": "Restaurant Business Magazine",
+      "category_within_source": "General",
+      "source_domain": "Restaurant Business Magazine",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.845491"
+        }
+      ],
+      "overall_sentiment_score": 0.234852,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SERV",
+          "relevance_score": "0.314688",
+          "ticker_sentiment_score": "0.010322",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442940",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "APTV",
+          "relevance_score": "0.724487",
+          "ticker_sentiment_score": "0.329822",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.617075",
+          "ticker_sentiment_score": "0.225745",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.603880",
+          "ticker_sentiment_score": "0.240963",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle really does owe HPE $3b after Supreme Court snub",
+      "url": "https://www.theregister.com/2022/05/17/hp_oracle_supreme_court/",
+      "time_published": "20220517T015400",
+      "authors": [
+        "Katyanna Quach"
+      ],
+      "summary": "The US Supreme Court has rejected Oracle's appeal to overturn a $3 billion damages payout to HPE, solidifying the IT giant's obligation. This decade-long legal battle stemmed from Oracle's refusal to support HP's Itanium-based systems, which HP argued violated a contractual agreement between the two companies. Oracle had claimed it was unfairly roped into long-term support despite Intel's waning commitment to Itanium, and also argued that part of the damages award violated its First Amendment rights.",
+      "banner_image": null,
+      "source": "The Register",
+      "category_within_source": "General",
+      "source_domain": "The Register",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901604"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700455"
+        }
+      ],
+      "overall_sentiment_score": 0.034769,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422076",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.926488",
+          "ticker_sentiment_score": "-0.423668",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.633393",
+          "ticker_sentiment_score": "0.112149",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Citrix Systems Inc. stock outperforms market despite losses on the day",
+      "url": "https://www.marketwatch.com/story/citrix-systems-inc-stock-outperforms-market-despite-losses-on-the-day-01652906818-74f680ae9ce9?gaa_at=eafs&gaa_n=AWEtsqcCss5on25CDZdvbs3KeWcsG1HSYUBHMjmwC75WbL371YRaiDyzDLWb&gaa_ts=699aee9a&gaa_sig=DuEoWsljD6I67_4pAvwFuojLqH0hXysjeZahmrHXvPlxdMuIkAuT7bQPJe01qPuoS8hV93cIhFvFTDMDpz12bw%3D%3D",
+      "time_published": "20220518T164600",
+      "authors": [
+        "Terrence Horan"
+      ],
+      "summary": "Shares of Citrix Systems Inc. slipped on Wednesday, but still outperformed major market indices and some competitors. The stock closed below its 52-week high, and trading volume was lower than its 50-day average.",
+      "banner_image": "https://images.mktw.net/im-220105?width=700&height=466",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930497"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747709"
+        }
+      ],
+      "overall_sentiment_score": -0.202813,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.610780",
+          "ticker_sentiment_score": "-0.224015",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.645102",
+          "ticker_sentiment_score": "-0.214570",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.649739",
+          "ticker_sentiment_score": "-0.239357",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "US company Oracle opens new plant in Morocco",
+      "url": "https://www.atalayar.com/en/articulo/new-technologies-innovation/us-company-oracle-opens-new-plant-morocco/20220519123755156493.html",
+      "time_published": "20220519T121213",
+      "authors": [
+        "Jorge Ortiz"
+      ],
+      "summary": "US multinational Oracle has opened a new research and technological development laboratory in Casablanca, Morocco, aiming to boost youth employment, especially for recent university graduates. The plant will be operated by 100 researchers and will collaborate with Moroccan universities and support national start-ups. This initiative is part of a broader trend of increasing US investment in Morocco, leveraging the Kingdom's political and economic stability and favorable tax incentives.",
+      "banner_image": "https://www.atalayar.com/asset/thumbnail,1280,720,center,center/media/atalayar/images/2022/05/19/20220519103922068626.jpg",
+      "source": "Atalayar",
+      "category_within_source": "General",
+      "source_domain": "Atalayar",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.935684"
+        }
+      ],
+      "overall_sentiment_score": 0.41609,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417995",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Accenture, Deloitte, PwC Lead Gartner’s Oracle Cloud Services Magic Quadrant",
+      "url": "https://www.crn.com/slide-shows/cloud/accenture-deloitte-pwc-lead-gartner-s-oracle-cloud-services-magic-quadrant",
+      "time_published": "20220520T115154",
+      "authors": [],
+      "summary": "Gartner's 2022 Magic Quadrant for Oracle Cloud Application Services highlights 19 companies generating $15.4 billion in revenue, driven by increased demand for digital business and cloud solutions exacerbated by the pandemic. Accenture, Deloitte, and PwC are leading the market in both execution and vision, demonstrating significant growth and specialized strengths in Oracle Cloud Application services, while also facing specific challenges. The report forecasts that 75% of Oracle application services revenue will be cloud-related by the end of 2024 as enterprises accelerate cloud adoption.",
+      "banner_image": null,
+      "source": "CRN",
+      "category_within_source": "General",
+      "source_domain": "CRN",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822611"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632140"
+        }
+      ],
+      "overall_sentiment_score": 0.174644,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DXC",
+          "relevance_score": "0.805229",
+          "ticker_sentiment_score": "-0.205766",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.930934",
+          "ticker_sentiment_score": "0.433170",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.514838",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CTSH",
+          "relevance_score": "0.706569",
+          "ticker_sentiment_score": "-0.108961",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.642668",
+          "ticker_sentiment_score": "0.245015",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Digital Marketing Software Market Giants Spending Is Going to Boom | Major Giants IBM, HubSpot, Microsoft",
+      "url": "https://www.openpr.com/news/2632277/digital-marketing-software-market-giants-spending-is-going",
+      "time_published": "20220521T091400",
+      "authors": [],
+      "summary": "A new study by HTF MI reveals that the worldwide digital marketing software market is expected to boom, with major players like IBM, HubSpot, and Microsoft driving growth. The research provides an in-depth analysis of market trends, drivers, and future prospects, covering segmentation by application (Large Enterprises & SMEs) and product type (On-Premises & Cloud). The report also highlights key market developments and includes a geographical analysis of the market.",
+      "banner_image": "https://cdn.open-pr.com/V/5/V521648966_g.jpg",
+      "source": "openPR.com",
+      "category_within_source": "General",
+      "source_domain": "openPR.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.802784"
+        }
+      ],
+      "overall_sentiment_score": 0.28834,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HUBS",
+          "relevance_score": "0.869594",
+          "ticker_sentiment_score": "0.345017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.819543",
+          "ticker_sentiment_score": "0.332031",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.707523",
+          "ticker_sentiment_score": "0.269286",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.666779",
+          "ticker_sentiment_score": "0.252806",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.636752",
+          "ticker_sentiment_score": "0.257896",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive: Oracle to win unconditional EU nod for $28.3 billion Cerner deal",
+      "url": "https://www.reuters.com/markets/deals/exclusive-eu-set-clear-without-conditions-283-bln-oracle-cerner-deal-sources-2022-05-24/",
+      "time_published": "20220524T075500",
+      "authors": [
+        "Foo Yun Chee"
+      ],
+      "summary": "Oracle is expected to receive unconditional EU antitrust clearance for its $28.3 billion acquisition of U.S. healthcare IT company Cerner Corp. This deal, Oracle's largest ever, aims to boost its cloud platform by leveraging Cerner's data for AI-based cloud services and attracting more healthcare clients. The European Commission is scheduled to decide on the deal by June 1.",
+      "banner_image": null,
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822091"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719055"
+        }
+      ],
+      "overall_sentiment_score": 0.336638,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419463",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.601534",
+          "ticker_sentiment_score": "0.247125",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow procurement software centralizes teams, processes",
+      "url": "https://www.techtarget.com/searcherp/news/252520683/ServiceNow-procurement-software-centralizes-teams-processes",
+      "time_published": "20220525T121008",
+      "authors": [
+        "Ed Scannell"
+      ],
+      "summary": "ServiceNow has introduced new procurement management software as part of its Now Platform's San Diego release, aiming to centralize procurement teams and processes, automate workflows, and improve visibility. This offering, called Procurement Service Management, is designed to simplify source-to-pay processes, limit irregular procurement actions, and allow teams to focus on more strategic tasks by automating repetitive operations. It is compatible with existing ERP systems like SAP Ariba and Coupa Procurement through ServiceNow's Integration Hub technology.",
+      "banner_image": "https://www.techtarget.com/rms/onlineimages/collab_a78129054_searchsitetablet_520X173.jpg",
+      "source": "TechTarget",
+      "category_within_source": "General",
+      "source_domain": "TechTarget",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.824242"
+        }
+      ],
+      "overall_sentiment_score": 0.217884,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NOW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417117",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.601884",
+          "ticker_sentiment_score": "0.107399",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.590817",
+          "ticker_sentiment_score": "0.051325",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom will tame the VMware beast",
+      "url": "https://siliconangle.com/2022/05/27/broadcom-will-tame-vmware-beast/",
+      "time_published": "20220527T114313",
+      "authors": [
+        "Dave Vellante"
+      ],
+      "summary": "Broadcom's planned acquisition of VMware for $61 billion signifies a new era for the virtualization leader, focusing on financial performance and shareholder value. The article details Broadcom's strategy of optimizing profitability by focusing on recurring revenue, cutting R&D and sales/marketing expenses for less profitable areas, and standardizing G&A. For customers, this likely means higher prices and a more focused product portfolio, with core offerings like vSphere being emphasized while less profitable or unproven ventures like Project Monterey face scrutiny.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/AdobeStock_365235358_Editorial_Use_Only.jpeg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.946505"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727702"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635655"
+        }
+      ],
+      "overall_sentiment_score": 0.128099,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.999896",
+          "ticker_sentiment_score": "0.310633",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.724464",
+          "ticker_sentiment_score": "0.138763",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.605031",
+          "ticker_sentiment_score": "0.107822",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.633721",
+          "ticker_sentiment_score": "0.100753",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.594892",
+          "ticker_sentiment_score": "-0.068674",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Purchase of Kansas City’s Cerner nears closing as buyer Oracle clears antitrust reviews",
+      "url": "https://www.kansascity.com/news/business/article262038917.html",
+      "time_published": "20220601T112231",
+      "authors": [
+        "Kevin Hardy"
+      ],
+      "summary": "Oracle has cleared all antitrust reviews for its $28.3 billion acquisition of Cerner Corp., the largest private employer in the Kansas City metro area. The acquisition is expected to finalize soon, with Oracle committing to grow Cerner's presence in Kansas City and operate it as a dedicated subsidiary focused on healthcare IT. This merger aims to combine Oracle's software expertise with Cerner's healthcare systems to transform healthcare delivery.",
+      "banner_image": "https://www.kansascity.com/wps/build/images/newLogos/kansascity/logo.svg",
+      "source": "Kansas City Star",
+      "category_within_source": "General",
+      "source_domain": "Kansas City Star",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814891"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.729371"
+        }
+      ],
+      "overall_sentiment_score": 0.452844,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472966",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing the SPY's Recent Options Volume",
+      "url": "https://www.schaeffersresearch.com/content/analysis/2022/06/02/analyzing-the-spys-recent-options-volume",
+      "time_published": "20220602T080000",
+      "authors": [
+        "Rocky White"
+      ],
+      "summary": "This article analyzes recent options volume for the SPDR S&P 500 ETF Trust (SPY), examining the behavior of put and call options since the COVID-19 pandemic. It highlights a general increase in options volume, particularly calls relative to puts, and a significant shortening of option timeframes. The analysis also reveals a dramatic fall in the typical call option delta, possibly indicating increased retail trader activity or speculation on a market snap-back rally.",
+      "banner_image": "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/trader/bigstock-businessmen-work-with-stock-ma-450067507.jpg?sfvrsn=33b0d006_4",
+      "source": "Schaeffer's Investment Research",
+      "category_within_source": "General",
+      "source_domain": "Schaeffer's Investment Research",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947458"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622219"
+        }
+      ],
+      "overall_sentiment_score": 0.223301,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.035045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.601361",
+          "ticker_sentiment_score": "0.334282",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TJX",
+          "relevance_score": "0.604009",
+          "ticker_sentiment_score": "0.346235",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.619367",
+          "ticker_sentiment_score": "0.299476",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MicroStrategy Incorporated Class A (MSTR)",
+      "url": "https://www.valueresearchonline.com/stocks/291941/microstrategy-incorporated-mstr/",
+      "time_published": "20220603T221033",
+      "authors": [],
+      "summary": "This page provides a detailed stock card for MicroStrategy Incorporated Class A (MSTR), showing its current share price, market capitalization, key financial ratios, and historical performance. It also includes peer comparisons, shareholding patterns, and an overview of the company's business as a bitcoin treasury and AI-powered enterprise analytics software provider. The article details FAQs related to the stock's price, ratios, 52-week range, and market cap.",
+      "banner_image": null,
+      "source": "Value Research",
+      "category_within_source": "General",
+      "source_domain": "Value Research",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938434"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831390"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747408"
+        }
+      ],
+      "overall_sentiment_score": -0.055162,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSTR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.180998",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.616279",
+          "ticker_sentiment_score": "-0.081857",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.596757",
+          "ticker_sentiment_score": "0.028664",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.612768",
+          "ticker_sentiment_score": "0.044261",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.595656",
+          "ticker_sentiment_score": "0.091121",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Worthington Industries buys KCK tool company for $55 million",
+      "url": "https://www.bizjournals.com/kansascity/news/2022/06/06/worthington-industries-buys-level5-tools.html",
+      "time_published": "20220606T110210",
+      "authors": [
+        "Brian Kaberline"
+      ],
+      "summary": "Worthington Industries has acquired Level5 Tools LLC, a Kansas City, Kansas-based company specializing in drywall tools, for $55 million. The deal could potentially reach $80 million with an earn-out payment. This acquisition integrates Level5 Tools into Worthington Industries' existing portfolio, which includes other products with Kansas City roots.",
+      "banner_image": "https://media.bizj.us/view/img/11552032/444-river-lofts-troy-11-2019-15*900xx6866-3862-0-343.jpg",
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.735042"
+        }
+      ],
+      "overall_sentiment_score": 0.037426,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EPR",
+          "relevance_score": "0.744626",
+          "ticker_sentiment_score": "-0.129002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.636664",
+          "ticker_sentiment_score": "0.133086",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle completes $28B purchase of Cerner",
+      "url": "https://www.bizjournals.com/austin/news/2022/06/07/oracle-corp-completes-cerner-acquisitio.html",
+      "time_published": "20220607T093100",
+      "authors": [
+        "Paul Thompson"
+      ],
+      "summary": "Oracle Corp. has completed its $28 billion acquisition of Cerner, marking its largest-ever purchase. Larry Ellison, Oracle's board chairman and chief technology officer, is scheduled to discuss the acquisition during a virtual event on June 9. This deal was initially announced in December 2021.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800819"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.721579"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623493"
+        }
+      ],
+      "overall_sentiment_score": 0.416944,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403093",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Completes Acquisition of Cerner",
+      "url": "https://www.oracle.com/news/announcement/oracle-completes-acquisition-of-cerner-2022-06-07/",
+      "time_published": "20220607T112231",
+      "authors": [],
+      "summary": "Oracle announced the completion of its acquisition of Cerner Corporation, with a majority of Cerner's outstanding shares validly tendered. The deal is set to officially close on June 8, 2022. Oracle's Chairman and CTO, Larry Ellison, will detail the company's future healthcare strategy at an upcoming virtual event.",
+      "banner_image": "https://www.oracle.com/a/pr/img/rc24-cerner.jpg",
+      "source": "Oracle",
+      "category_within_source": "General",
+      "source_domain": "Oracle",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.824540"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.707105"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636370"
+        }
+      ],
+      "overall_sentiment_score": 0.48383,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452472",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle announces finalized acquisition of Kansas City-based Cerner",
+      "url": "https://www.kctv5.com/2022/06/07/oracle-announce-finalized-acquisition-kansas-city-based-cerner/",
+      "time_published": "20220607T124000",
+      "authors": [
+        "KCTV5 Staff"
+      ],
+      "summary": "Oracle has finalized its acquisition of Kansas City-based Cerner Corporation for a reported $28.3 billion. The deal was expected to close on June 8, after 69.2% of Cerner shares were tendered. Kansas City Mayor Quinton Lucas expressed pride in Cerner's innovation and committed to retaining local jobs and expanding the city's presence in digital medical technology.",
+      "banner_image": null,
+      "source": "KCTV",
+      "category_within_source": "General",
+      "source_domain": "KCTV",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.931644"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.702931"
+        }
+      ],
+      "overall_sentiment_score": 0.486088,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467657",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "With shares of Kansas City’s Cerner turned over, sale to Oracle will close Wednesday",
+      "url": "https://www.kansascity.com/news/business/article262242962.html",
+      "time_published": "20220607T124300",
+      "authors": [
+        "Kevin Hardy"
+      ],
+      "summary": "Oracle's acquisition of Cerner Corporation for $28.3 billion is set to formally close on Wednesday, June 8th, following a successful stock tender offer. This acquisition marks Oracle's largest ever and signifies its entry into the healthcare market, with Cerner continuing as a dedicated subsidiary and Oracle pledging to grow jobs in Kansas City. The deal concludes Cerner's status as the largest private employer under local control in Kansas City, a company founded in 1979.",
+      "banner_image": null,
+      "source": "Kansas City Star",
+      "category_within_source": "General",
+      "source_domain": "Kansas City Star",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.907832"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.842115"
+        }
+      ],
+      "overall_sentiment_score": 0.201593,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403408",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.639288",
+          "ticker_sentiment_score": "0.134159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.645904",
+          "ticker_sentiment_score": "0.115510",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.622096",
+          "ticker_sentiment_score": "0.124799",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle quietly closes $28B deal to buy electronic health records company Cerner",
+      "url": "https://techcrunch.com/2022/06/07/oracle-quietly-closes-28b-deal-to-buy-electronic-health-records-company-cerner/",
+      "time_published": "20220607T135000",
+      "authors": [
+        "Ron Miller"
+      ],
+      "summary": "Oracle has officially closed its $28 billion acquisition of electronic health records company Cerner, a deal initially announced just before Christmas last year. This move positions Oracle deeper into the healthcare market, aiming to bring Cerner's extensive workload to the Oracle cloud. Analyst Holger Mueller highlighted the strategic importance of this acquisition for Oracle's presence in a rapidly growing vertical industry.",
+      "banner_image": null,
+      "source": "TechCrunch",
+      "category_within_source": "General",
+      "source_domain": "TechCrunch",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913560"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817310"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.738599"
+        }
+      ],
+      "overall_sentiment_score": 0.391704,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405058",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.621565",
+          "ticker_sentiment_score": "0.312996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle closes $28B deal to buy EHR giant Cerner",
+      "url": "https://www.fiercehealthcare.com/health-tech/oracle-gets-european-approval-28m-cerner-deal-set-close-next-week",
+      "time_published": "20220607T140000",
+      "authors": [
+        "Heather Landi"
+      ],
+      "summary": "Oracle has finalized its $28.3 billion acquisition of health IT company Cerner, marking its largest acquisition to date and a significant move to expand into the healthcare market. The deal, which involved Oracle finalizing a stock tender offer with 69.2% of Cerner shares, aims to leverage Cerner as an \"anchor asset\" to scale Oracle's cloud business in hospitals and health systems. This acquisition positions Oracle to transform healthcare delivery through new information systems and addresses the growing trend of big tech companies investing heavily in the healthcare IT sector.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.949058"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.805169"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612367"
+        }
+      ],
+      "overall_sentiment_score": 0.164436,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.457831",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.609747",
+          "ticker_sentiment_score": "0.121696",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.597327",
+          "ticker_sentiment_score": "0.066607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.571464",
+          "ticker_sentiment_score": "0.069505",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle finalizes deal to buy Cerner for $28.3 billion",
+      "url": "https://www.kmbc.com/article/oracle-finalizes-deal-buy-cerner-28-billion/40219678",
+      "time_published": "20220607T142800",
+      "authors": [
+        "Peyton Headlee"
+      ],
+      "summary": "Oracle has finalized its $28.3 billion cash deal to acquire Cerner, a Kansas City-based electronic medical records company. The acquisition aims to transform healthcare delivery by integrating Cerner's software into Oracle's global operations, with Oracle anticipating the deal to be immediately accretive to its earnings. Despite concerns from local leaders about potential job losses, Cerner expects to strengthen Kansas City's position as a healthcare center of excellence.",
+      "banner_image": null,
+      "source": "KMBC",
+      "category_within_source": "General",
+      "source_domain": "KMBC",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.907975"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.714880"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.701213"
+        }
+      ],
+      "overall_sentiment_score": 0.435959,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433577",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle closes $28B buy of ‘huge growth engine’ Cerner",
+      "url": "https://www.healthcaredive.com/news/oracle-closes-283b-buy-huge-growth-engine-cerner/625103/",
+      "time_published": "20220608T175650",
+      "authors": [
+        "Rebecca Pifer"
+      ],
+      "summary": "Oracle has completed its $28.3 billion acquisition of electronic health record company Cerner, marking its largest acquisition to date and a significant move into the healthcare sector. The deal, an all-cash tender offer of $95 per share, aims to make Cerner an \"anchor asset\" for Oracle's expansion into healthcare, focusing on improved usability and voice-enabled interfaces for medical software. This acquisition is a substantial digital health deal, following other major acquisitions in the industry, and positions Cerner as a standalone business unit within Oracle.",
+      "banner_image": null,
+      "source": "Healthcare Dive",
+      "category_within_source": "General",
+      "source_domain": "Healthcare Dive",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832659"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915695"
+        }
+      ],
+      "overall_sentiment_score": 0.256265,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444957",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.640604",
+          "ticker_sentiment_score": "0.113658",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gartner®: Magic Quadrant™ for Oracle Cloud Applications Services, Worldwide 2022",
+      "url": "https://www.deloitte.com/global/en/services/consulting/perspectives/magic-quadrant-for-oracle-cloud-applications-services.html",
+      "time_published": "20220610T111233",
+      "authors": [
+        "Barbara Venneman"
+      ],
+      "summary": "Deloitte has been recognized as a Leader for the fourth consecutive year in Gartner's Magic Quadrant™ for Oracle Cloud Applications Services, Worldwide, 2022. The report highlights Deloitte's deep understanding of client strategic visions, excellent change management practices, and experienced resources. This recognition is based on Gartner's research into the Oracle cloud applications services market, providing valuable insights for vendor selection.",
+      "banner_image": null,
+      "source": "Deloitte",
+      "category_within_source": "General",
+      "source_domain": "Deloitte",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.911073"
+        }
+      ],
+      "overall_sentiment_score": 0.233068,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.258090",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.807077",
+          "ticker_sentiment_score": "0.249999",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Google Agrees to Pay $118 Million to Settle Pay Discrimination Case (Published 2022)",
+      "url": "https://www.nytimes.com/2022/06/12/business/google-discrimination-settlement-women.html",
+      "time_published": "20220612T110738",
+      "authors": [
+        "Nico Grant"
+      ],
+      "summary": "Google has agreed to pay $118 million to settle a class-action lawsuit alleging systematic underpayment of women. The settlement covers approximately 15,500 women employed by Google in California since September 2013 and also mandates external oversight of its pay practices. Google denied wrongdoing, stating the settlement was in the best interest of all parties involved after five years of litigation.",
+      "banner_image": "https://static01.nyt.com/images/2022/06/12/multimedia/12google-01/12google-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "source": "The New York Times",
+      "category_within_source": "General",
+      "source_domain": "The New York Times",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.805445"
+        }
+      ],
+      "overall_sentiment_score": -0.085326,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.100152",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.641703",
+          "ticker_sentiment_score": "-0.096385",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.639819",
+          "ticker_sentiment_score": "-0.079295",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle’s Database Dominance Eroded by Rise of Cloud-First Rivals",
+      "url": "https://www.bloomberg.com/news/articles/2022-06-12/oracle-s-database-dominance-eroded-by-rise-of-cloud-first-rivals",
+      "time_published": "20220612T200000",
+      "authors": [
+        "Joe Williams"
+      ],
+      "summary": "Oracle's long-standing dominance in the database market is being challenged by cloud-first rivals offering more flexible and cheaper options. Companies like Shutterfly are migrating their data to cloud providers such as Amazon.com Inc., moving away from Oracle's traditional database products due to ease of use. Despite this trend, Oracle is still projected to report 4% sales growth.",
+      "banner_image": "NULL",
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834126"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.629341"
+        }
+      ],
+      "overall_sentiment_score": 0.01476,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.222738",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.744431",
+          "ticker_sentiment_score": "0.202984",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why IBM is one of few tech giants that are actually gaining through the selloff",
+      "url": "https://www.marketwatch.com/story/why-ibm-is-one-of-few-tech-giants-that-are-actually-gaining-through-the-selloff-11655146869?gaa_at=eafs&gaa_n=AWEtsqfESUhWLpKPvsAwwrVDRJWpX0AlEbu-koV28tX-d5GH1oVlL8DPTlx3&gaa_ts=690792c2&gaa_sig=7aIqZkO04zxQsKFqOibiyM9hi6CkFKO4vJOBZERtZGSF6dlra2EFITMie82RfdoF1zSgsYxM32Td61UTVmMGCA%3D%3D",
+      "time_published": "20220613T150100",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "While many tech giants are experiencing a sector-wide selloff, IBM has managed to buck the trend. Shares of IBM are up 1.60% year-to-date, contrasting sharply with significant declines seen at rivals like Hewlett Packard Enterprise Co. and Oracle Corp. This performance stands out during a period of widespread stock depreciation in the technology sector.",
+      "banner_image": "NULL",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.904703"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.741845"
+        }
+      ],
+      "overall_sentiment_score": -0.124904,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.512267",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.704238",
+          "ticker_sentiment_score": "-0.448305",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.610012",
+          "ticker_sentiment_score": "-0.418245",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle Sales Top Expectations Against Uncertain Economic Backdrop",
+      "url": "https://www.wsj.com/business/earnings/oracle-sales-top-expectations-against-uncertain-economic-backdrop-11655154321?gaa_at=eafs&gaa_n=AWEtsqeUoIaVASsInR8uTQAkIhxUKaLkvCGbu7QDlnnJ3Zf2sOuJkFkMABdP&gaa_ts=69079e97&gaa_sig=Vb3525bWDkpgVGTAiqeY1FM5KFhPt-anSAySp5-SoPCC0i5frsRh_-xmH7CQeJOiX-YOi0SGOxsK-8Kpu5XJrg%3D%3D",
+      "time_published": "20220613T175650",
+      "authors": [
+        "Denny Jacob"
+      ],
+      "summary": "Oracle Corp. reported better-than-expected sales in its fiscal fourth quarter, alleviating concerns about the business-software giant's performance amid economic uncertainty. The company's total revenue increased by 5% to $11.84 billion, surpassing analyst expectations of $11.61 billion, and cloud revenue saw a 19% year-over-year growth. This positive performance led to a rebound in Oracle's shares during after-hours trading.",
+      "banner_image": null,
+      "source": "The Wall Street Journal",
+      "category_within_source": "General",
+      "source_domain": "The Wall Street Journal",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920685"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837565"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749005"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610671"
+        }
+      ],
+      "overall_sentiment_score": 0.424362,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418753",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oracle women stumble in pay bias suit while Google cuts a deal",
+      "url": "https://www.aljazeera.com/economy/2022/6/13/oracle-women-stumble-in-pay-bias-suit-while-google-cuts-a-deal",
+      "time_published": "20220613T175650",
+      "authors": [
+        "Malathi Nayak and Robert Burnson and Bloomberg"
+      ],
+      "summary": "Women at Oracle Corp. face a setback in their pay disparity lawsuit as a judge tentatively revoked their class-action status, making it more difficult to proceed. Meanwhile, Google agreed to pay $118 million to settle a similar lawsuit alleging pay disparities for more than 15,000 female workers. The Google settlement includes provisions for independent oversight of hiring practices and pay equity studies.",
+      "banner_image": null,
+      "source": "Al Jazeera",
+      "category_within_source": "General",
+      "source_domain": "Al Jazeera",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.839413"
+        }
+      ],
+      "overall_sentiment_score": 0.059441,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.981949",
+          "ticker_sentiment_score": "-0.325491",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.832837",
+          "ticker_sentiment_score": "0.252684",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.765378",
+          "ticker_sentiment_score": "0.279382",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.629697",
+          "ticker_sentiment_score": "0.044846",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jury orders HPE to pay $30 million to Oracle for copyright infringement",
+      "url": "https://www.courthousenews.com/jury-orders-hp-to-pay-54-million-to-oracle-for-copyright-infringement/",
+      "time_published": "20220614T110935",
+      "authors": [
+        "Natalie Hanson"
+      ],
+      "summary": "A federal jury ordered Hewlett Packard Enterprise (HPE) to pay Oracle $30 million for direct and vicarious copyright infringement of Oracle's Solaris software. The jury also found HPE intentionally interfered with Oracle's contracts and prospective economic advantage, recommending an additional $24 million in damages. This verdict followed a protracted legal battle where Oracle accused HPE of selling unauthorized patches for its Solaris server security software.",
+      "banner_image": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2022/06/Oracle-corporate-office-as-it-stood-in-Redwood-City-California-in-May-2011.-Photo-by-Wikimedia-contributor-King-of-Hearts-scaled.jpeg/w=1280",
+      "source": "Courthouse News",
+      "category_within_source": "General",
+      "source_domain": "Courthouse News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.910967"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711160"
+        }
+      ],
+      "overall_sentiment_score": -0.065854,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.384441",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.903780",
+          "ticker_sentiment_score": "0.316297",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.557964",
+          "ticker_sentiment_score": "-0.119934",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Caterpillar headquarters leaving Illinois after nearly 100 years",
+      "url": "https://newschannel20.com/news/local/caterpillar-headquarters-leaving-illinois-after-nearly-100-years",
+      "time_published": "20220614T121400",
+      "authors": [
+        "The Associated Press"
+      ],
+      "summary": "Caterpillar Inc. is moving its global headquarters from Deerfield, Illinois, to Irving, Texas, after nearly 100 years in its home state. The construction equipment manufacturer previously moved its base from Peoria, Illinois, to Deerfield in 2017. This move follows a trend of major corporations, including Boeing and several tech companies, relocating headquarters to Texas.",
+      "banner_image": null,
+      "source": "WICS",
+      "category_within_source": "General",
+      "source_domain": "WICS",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.948111"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.716779"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648546"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.610486"
+        }
+      ],
+      "overall_sentiment_score": 0.103138,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.124663",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.723020",
+          "ticker_sentiment_score": "0.130042",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.648441",
+          "ticker_sentiment_score": "0.114424",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.600818",
+          "ticker_sentiment_score": "0.129937",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.607371",
+          "ticker_sentiment_score": "0.143530",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Caterpillar Moving Its Headquarters to Texas from Illinois",
+      "url": "https://news.wttw.com/2022/06/15/caterpillar-moving-its-headquarters-texas-illinois",
+      "time_published": "20220615T102700",
+      "authors": [
+        "Associated Press"
+      ],
+      "summary": "Caterpillar Inc., the construction equipment manufacturer, announced its decision to move its global headquarters from Deerfield, Illinois, to Irving, a suburb of Dallas, Texas. This marks another major corporate relocation from the Chicago area, following Boeing's recent move. CEO Jim Umpleby stated that the move is in the company's best strategic interest, and the transition will begin this year.",
+      "banner_image": "https://news.wttw.com/sites/default/files/styles/full/public/field/image/Caterpillar_Moving_to_Texas_22165706814877.jpg?itok=BcNMQxk8",
+      "source": "WTTW",
+      "category_within_source": "General",
+      "source_domain": "WTTW",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.919965"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.736455"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641271"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.643570"
+        }
+      ],
+      "overall_sentiment_score": 0.107231,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.142747",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.628707",
+          "ticker_sentiment_score": "0.133960",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.617677",
+          "ticker_sentiment_score": "0.127016",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.644458",
+          "ticker_sentiment_score": "0.114838",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.645141",
+          "ticker_sentiment_score": "0.120835",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Caterpillar to relocate global headquarters from Illinois to Irving, Texas",
+      "url": "https://www.fox4news.com/news/caterpillar-relocate-global-headquarters-illinois-irving-texas",
+      "time_published": "20220615T114600",
+      "authors": [
+        "FOX 7 Austin Digital Team"
+      ],
+      "summary": "Caterpillar Inc. announced it will move its global headquarters from Illinois to its existing office in Irving, Texas, starting in 2022. This relocation adds Caterpillar to the growing list of Fortune 500 companies moving to Texas, bringing the total number of corporate headquarters in the state to 54. Despite the move, Illinois will continue to have the largest concentration of Caterpillar employees worldwide.",
+      "banner_image": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/764/432/GettyImages-1197609684.jpg?ve=1&tl=1",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "category_within_source": "General",
+      "source_domain": "FOX 4 News Dallas-Fort Worth",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.933592"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.749201"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627827"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.633258"
+        }
+      ],
+      "overall_sentiment_score": 0.27821,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.334633",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.620738",
+          "ticker_sentiment_score": "0.225548",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.623908",
+          "ticker_sentiment_score": "0.223835",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reddit and DoubleVerify Announce Partnership to Empower Advertisers With Full Suite Third-Party Ad Measurement Tools",
+      "url": "https://redditinc.com/blog/reddit-and-doubleverify-announce-partnership-to-empower-advertisers-with-full-suite-of-third-party-ad-measurement-tools",
+      "time_published": "20220616T182542",
+      "authors": [],
+      "summary": "Reddit has partnered with DoubleVerify, a leading digital media measurement platform, to provide advertisers with a full suite of third-party ad measurement tools. This collaboration aims to enhance transparency through viewability, invalid traffic, and brand safety measurement services on Reddit's dynamic surfaces, complementing existing verification offerings. The full-suite solution is anticipated to be available in 2023, reinforcing Reddit's commitment to delivering best-in-class solutions for its growing ads platform.",
+      "banner_image": null,
+      "source": "Reddit Inc Homepage",
+      "category_within_source": "General",
+      "source_domain": "Reddit Inc Homepage",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.807274"
+        }
+      ],
+      "overall_sentiment_score": 0.397296,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDDT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489249",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.643505",
+          "ticker_sentiment_score": "0.260252",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive: TikTok moves U.S. user data to Oracle servers",
+      "url": "https://www.reuters.com/technology/exclusive-tiktok-moves-us-user-data-oracle-servers-company-2022-06-17/",
+      "time_published": "20220617T154500",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "TikTok has migrated all its U.S. user data to Oracle servers, a move aimed at addressing U.S. regulatory concerns regarding data integrity. This decision comes nearly two years after a U.S. national security panel mandated TikTok's parent company, ByteDance, to divest the app due to fears of U.S. user data being accessible to the Chinese government. The White House and U.S. Treasury have not yet commented on the development.",
+      "banner_image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FJ2X4YJNNTFMH5P2W23K634B5CM.jpg?auth=a7b0ae19b999148d20e7e163b2ad46ee9917d29486c47fc72f4e8ae587b1c43f&width=800&quality=85&interlace=True",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.933068"
+        }
+      ],
+      "overall_sentiment_score": 0.308897,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.326684",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Delivering on our US data governance",
+      "url": "https://newsroom.tiktok.com/en-us/delivering-on-our-us-data-governance",
+      "time_published": "20220617T175650",
+      "authors": [
+        "Albert Calamug"
+      ],
+      "summary": "TikTok has announced a significant step in its US data governance by routing 100% of US user traffic to Oracle Cloud Infrastructure. This move, part of a year-long collaboration with Oracle, aims to enhance the security of US user data by eventually deleting private data from TikTok's own data centers and fully transitioning to Oracle cloud servers located in the US. The company is also establishing a US-based department to manage US user data exclusively, alongside developing Oracle-audited data management protocols to further improve safeguards and minimize data transfer outside the US.",
+      "banner_image": null,
+      "source": "Newsroom | TikTok",
+      "category_within_source": "General",
+      "source_domain": "Newsroom | TikTok",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.496349,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480252",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TikTok says its American traffic is going through Oracle servers, but it retains backups. (Published 2022)",
+      "url": "https://www.nytimes.com/2022/06/17/technology/tiktok-oracle-servers.html",
+      "time_published": "20220617T175651",
+      "authors": [
+        "David McCabe"
+      ],
+      "summary": "TikTok announced that it is moving all American user data through Oracle-controlled servers as part of an effort to reassure the U.S. government that American users' personal information will not be exposed to the Chinese government. However, TikTok noted it would still retain its own backups of this data, potentially complicating these assurances. This move comes amidst ongoing U.S. government scrutiny over the Chinese-owned app's data security practices.",
+      "banner_image": null,
+      "source": "The New York Times",
+      "category_within_source": "General",
+      "source_domain": "The New York Times",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930975"
+        }
+      ],
+      "overall_sentiment_score": 0.045434,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.318043",
+          "ticker_sentiment_score": "0.029343",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TikTok Says All Data for U.S. Users Now Routed to Oracle Cloud",
+      "url": "https://www.wsj.com/tech/tiktok-says-all-data-for-u-s-users-now-routed-to-oracle-cloud-11655503707?gaa_at=eafs&gaa_n=AWEtsqfAPhfmT2AzV2BOvLSCnqCuaS5UxamNdNGD8Ru7nYn92ij_jK0Pmlvw&gaa_ts=69079e97&gaa_sig=iBkbLzyUs4qgCLZmMgrKt4Jm2Aq1IxwyCnCAXJv4ZVsfdWV32oftWfnfuNRCNRnxQwWnwXrXletJBtgiIhbBxw%3D%3D",
+      "time_published": "20220617T175651",
+      "authors": [
+        "Aaron Tilley"
+      ],
+      "summary": "TikTok announced that all U.S. user data traffic is now routed through Oracle Corp.'s cloud infrastructure as part of its efforts to address data security concerns. While backup data is still stored in TikTok's own data centers, the company plans to fully migrate U.S. user data to Oracle servers. TikTok and Oracle are also collaborating to develop and audit protocols for data access and management, though critics suggest physical data location alone may not fully alleviate security concerns.",
+      "banner_image": null,
+      "source": "The Wall Street Journal",
+      "category_within_source": "General",
+      "source_domain": "The Wall Street Journal",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.946296"
+        }
+      ],
+      "overall_sentiment_score": 0.497529,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474342",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TikTok moves U.S. user data to Oracle servers",
+      "url": "https://www.reuters.com/technology/tiktok-moves-us-user-data-oracle-servers-2022-06-17/",
+      "time_published": "20220617T202300",
+      "authors": [
+        "Echo Wang",
+        "David Shepardson"
+      ],
+      "summary": "TikTok has completed the migration of its U.S. user data to servers at Oracle Corp, aiming to address U.S. regulatory concerns regarding data integrity. This move comes after a U.S. national security panel previously ordered ByteDance to divest TikTok due to fears that user data could be accessed by China's government. TikTok will now delete private U.S. user data from its own data centers and rely fully on Oracle's U.S. servers, also establishing a dedicated U.S. data security team, \"USDS,\" to ringfence this information from ByteDance.",
+      "banner_image": "https://www.reuters.com/resizer/v2/L7I4G4R7CBPFBPJAB72D574G2E.JPG?quality=80&portrait=true",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.846494"
+        }
+      ],
+      "overall_sentiment_score": 0.404193,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423275",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DocuSign CEO Dan Springer resigns amid slower growth",
+      "url": "https://siliconangle.com/2022/06/21/docusign-ceo-dan-springer-resigns/",
+      "time_published": "20220621T105954",
+      "authors": [
+        "Maria Deutscher"
+      ],
+      "summary": "DocuSign CEO Dan Springer has resigned, with board chair Maggie Wilderotter appointed as interim CEO. Springer led the company through its 2018 IPO and significant revenue growth, but growth has slowed recently. The change comes after DocuSign reported lower-than-expected earnings and a decelerated growth rate in the first quarter, though its shares initially rose on the news.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/docusign.jpg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914958"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808661"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.718635"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.602303"
+        }
+      ],
+      "overall_sentiment_score": 0.166419,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DOCU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.220817",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.624143",
+          "ticker_sentiment_score": "0.133702",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oracle introduces lower-cost version of its full on-premises cloud stack",
+      "url": "https://siliconangle.com/2022/06/21/oracle-introduces-low-cost-version-full-premises-cloud-stack/",
+      "time_published": "20220621T112231",
+      "authors": [
+        "Paul Gillin"
+      ],
+      "summary": "Oracle has introduced a more affordable version of its on-premises cloud stack, Dedicated Region Cloud@Customer, alongside a new rack-level offering called Oracle Compute Cloud@Customer. The new Dedicated Region Cloud@Customer reduces the required space and annual cost significantly, making Oracle's full public cloud services, including Fusion applications, accessible to a broader range of global companies for workloads that cannot fully migrate to the public cloud. Oracle Compute Cloud@Customer provides managed on-site computing and storage resources for smaller workloads, similar to offerings from AWS, Microsoft, and Google.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/09/Oracle.jpg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.915660"
+        }
+      ],
+      "overall_sentiment_score": 0.178781,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467356",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.665315",
+          "ticker_sentiment_score": "0.107137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.630188",
+          "ticker_sentiment_score": "0.125239",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.617148",
+          "ticker_sentiment_score": "0.103603",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.614518",
+          "ticker_sentiment_score": "0.140153",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Billionaire Larry Ellison, among world’s richest people, bought Florida estate for $173 million",
+      "url": "https://www.palmbeachdailynews.com/story/business/real-estate/2022/06/23/larry-ellison-oracle-billionaire-tesla-florida-home/7700677001/",
+      "time_published": "20220623T175651",
+      "authors": [
+        "Darrell Hofheinz"
+      ],
+      "summary": "Billionaire Larry Ellison, co-founder of Oracle, has purchased a sprawling 22-acre estate in Manalapan, Florida for $173 million, marking the largest residential sale ever in the state. The property includes a portion of Bird Island and was bought from fellow software billionaire Jim Clark. The article also details Ellison's net worth, his role at Oracle, his ties to Tesla, his charitable contributions, and a controversial call he reportedly participated in regarding the 2020 presidential election.",
+      "banner_image": null,
+      "source": "Palm Beach Daily News",
+      "category_within_source": "General",
+      "source_domain": "Palm Beach Daily News",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715386"
+        }
+      ],
+      "overall_sentiment_score": 0.115682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.929179",
+          "ticker_sentiment_score": "0.144230",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.729042",
+          "ticker_sentiment_score": "0.141549",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why treasury automation is a must",
+      "url": "https://flow.db.com/cash-management/why-treasury-automation-is-a-must",
+      "time_published": "20220628T105836",
+      "authors": [
+        "flow’s Desiree Buchholz and Helen Sanders"
+      ],
+      "summary": "The COVID-19 pandemic significantly accelerated the urgency of treasury automation for corporate treasurers. Companies had to quickly adopt digital processes to ensure resilience and maintain cash visibility amidst lockdowns and supply chain disruptions. The article highlights that automation is an ongoing task, with banks and fintechs collaborating to provide accessible and cost-effective solutions for tasks like cash flow forecasting, receivables reconciliation, and liquidity management, which were previously out of reach for many businesses.",
+      "banner_image": "https://flow.db.com/contentAsset/raw-data/667594fa-5fa9-4fe5-af32-319c8b3f1bfd/fileAsset?language_id=1",
+      "source": "flow – Deutsche Bank",
+      "category_within_source": "General",
+      "source_domain": "flow – Deutsche Bank",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908691"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801344"
+        }
+      ],
+      "overall_sentiment_score": 0.360074,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449184",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.618339",
+          "ticker_sentiment_score": "0.314870",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.618549",
+          "ticker_sentiment_score": "0.355126",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.575659",
+          "ticker_sentiment_score": "0.311941",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HPE Is The First Big OEM To Adopt Ampere Computing Arm Chips",
+      "url": "https://www.nextplatform.com/2022/06/29/hpe-is-the-first-big-oem-to-adopt-ampere-computing-arm-chips/",
+      "time_published": "20220629T165704",
+      "authors": [
+        "Timothy Prickett Morgan"
+      ],
+      "summary": "HPE has announced its adoption of Ampere Computing's \"Mystique\" Altra Max Arm server chip in its standard ProLiant rack-mounted server, marking Ampere's first major OEM server maker partnership. This move, showcased with the ProLiant RL300 server, signifies HPE's renewed commitment to Arm-based processors after previous cautious ventures. The decision is driven by the Altra chips' deterministic performance and competitive price/performance, particularly for cloud-native workloads, positioning HPE to compete aggressively against Intel Xeon and AMD Epyc processors.",
+      "banner_image": null,
+      "source": "The Next Platform",
+      "category_within_source": "General",
+      "source_domain": "The Next Platform",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.911246"
+        }
+      ],
+      "overall_sentiment_score": 0.247796,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447725",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.743948",
+          "ticker_sentiment_score": "0.332911",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.634078",
+          "ticker_sentiment_score": "-0.117622",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.635269",
+          "ticker_sentiment_score": "0.362903",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.595151",
+          "ticker_sentiment_score": "0.290959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Statement on Unilever’s sale of Ben & Jerry’s interests in apartheid Israel",
+      "url": "https://bdsmovement.net/news/statement-unilevers-sale-ben-jerrys-interests-apartheid-israel",
+      "time_published": "20220629T190546",
+      "authors": [
+        "BDS"
+      ],
+      "summary": "The BDS Movement condemns Unilever's decision to sell Ben & Jerry's business interests in Israel to AQP, subverting Ben & Jerry's board's principled stand to end operations in occupied Palestinian territory. This move is seen as succumbing to pressure and implicating Unilever in Israel's oppression of Palestinians, contrasting with their condemnation of Russia's invasion of Ukraine. The BDS Movement reiterates its call for boycott, divestment, and sanctions to end complicity in Israeli apartheid.",
+      "banner_image": null,
+      "source": "BDS Movement",
+      "category_within_source": "General",
+      "source_domain": "BDS Movement",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.944812"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.825195"
+        }
+      ],
+      "overall_sentiment_score": -0.132499,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UL",
+          "relevance_score": "0.310749",
+          "ticker_sentiment_score": "0.005406",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GIS",
+          "relevance_score": "0.746116",
+          "ticker_sentiment_score": "-0.142425",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.642570",
+          "ticker_sentiment_score": "-0.151184",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.616705",
+          "ticker_sentiment_score": "-0.196348",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2233 @@
+{
+  "items": "49",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Watkins Represents Broadcom Inc. in US$1.95 Billion Private Senior Notes Offering",
+      "url": "https://www.lw.com/en/news/2022/04/latham-watkins-represents-broadcom-private-senior-notes-offering",
+      "time_published": "20220404T123323",
+      "authors": [],
+      "summary": "Latham & Watkins LLP represented Broadcom Inc. in its US$1.95 billion private senior notes offering. The offering includes US$750 million of 4.00% Senior Notes due 2029 and US$1.2 billion of 4.15% Senior Notes due 2032. The transaction is expected to settle on April 14, 2022.",
+      "banner_image": "https://contenthub.lw.com/api/public/content/2ecb1f4a7bc3480a82b22ac496a097ff?v=bec9c772&t=750x225",
+      "source": "Latham & Watkins LLP",
+      "category_within_source": "General",
+      "source_domain": "Latham & Watkins LLP",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807217"
+        }
+      ],
+      "overall_sentiment_score": 0.210907,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.217089",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is QQQ A Good Buy For Dividend Portfolios? Why There Are Better Choices",
+      "url": "https://seekingalpha.com/article/4500253-qqq-good-buy-dividend-portfolios",
+      "time_published": "20220407T130534",
+      "authors": [
+        "Jonathan Weber"
+      ],
+      "summary": "The Invesco QQQ Trust, Series 1 ETF (QQQ) has seen strong capital appreciation in recent years, largely due to factors like ultra-loose monetary policy and pandemic tailwinds. However, these factors are unlikely to persist, making QQQ less suitable for income-focused dividend portfolios. The author suggests investors might find better income opportunities by selecting individual stocks.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1309624696/image_1309624696.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911609"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.708372"
+        }
+      ],
+      "overall_sentiment_score": 0.191753,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QQQ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.419514",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.603916",
+          "ticker_sentiment_score": "0.307018",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.622405",
+          "ticker_sentiment_score": "0.321441",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.648429",
+          "ticker_sentiment_score": "0.331064",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.633778",
+          "ticker_sentiment_score": "0.301870",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KKR to buy cybersecurity firm Barracuda from Thoma Bravo in deal worth about $4 bln",
+      "url": "https://www.reuters.com/business/exclusive-kkr-nears-4-bln-deal-buy-barracuda-networks-thoma-bravo-sources-2022-04-12/",
+      "time_published": "20220412T204700",
+      "authors": [
+        "Chibuike Oguh and Krystal Hu"
+      ],
+      "summary": "KKR & Co Inc announced its plan to acquire cybersecurity firm Barracuda Networks from Thoma Bravo for approximately $4 billion, including debt. This deal highlights the ongoing strong interest in the cybersecurity sector from buyout firms, fueled by the increase in remote work accelerated by the pandemic and a rise in cyberattacks. Barracuda, founded in 2003, provides cloud-based data security services and generates over $500 million in annual revenue.",
+      "banner_image": null,
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834385"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710924"
+        }
+      ],
+      "overall_sentiment_score": 0.323357,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KKR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402112",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.636001",
+          "ticker_sentiment_score": "0.220258",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom launches Wi-Fi 7 chips",
+      "url": "https://www.embedded.com/broadcom-launches-wi-fi-7-chips/",
+      "time_published": "20220413T123323",
+      "authors": [],
+      "summary": "Broadcom has introduced five new Wi-Fi 7 chips designed for residential, enterprise, and mobile applications, aiming to double Wi-Fi bandwidth and improve throughput, latency, and range. A key feature is advanced multi-link operation (MLO), which aggregates channels and rapidly switches between them to optimize data flow in congested networks. This advancement is expected to enhance demanding applications like 16K video streaming, real-time collaboration, and AR/VR, while supporting the growing demand for deterministic wireless data in smart homes and industrial IoT.",
+      "banner_image": "https://www.embedded.com/embedded/wp-content/uploads/sites/2/2022/04/Broadcom_Wi-Fi_7_Product_Family_6726-67263-43720-43740-4398.png",
+      "source": "www.embedded.com",
+      "category_within_source": "General",
+      "source_domain": "www.embedded.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.485329,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.471966",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lazarus Targets Chemical Sector",
+      "url": "https://www.security.com/threat-intelligence/lazarus-dream-job-chemical",
+      "time_published": "20220414T123323",
+      "authors": [
+        "Threat Hunter Team"
+      ],
+      "summary": "The North Korea-linked Lazarus APT group has been observed targeting organizations in the chemical sector in an espionage campaign, a continuation of their \"Operation Dream Job.\" The attacks involve luring victims with fake job offers to install malware. Symantec identified this activity in South Korea, primarily within the chemical sector, noting the use of Trojanized tools and sophisticated lateral movement and persistence techniques.",
+      "banner_image": "https://www.security.com/_next/image?url=https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium%2Fpublic%2F2022-04%2FHero-162534559.jpg.webp%3Fh%3D0d27ee61%26itok%3D8coeKoj8%201x%2C%20https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium_2x%2Fpublic%2F2022-04%2FHero-162534559.jpg.webp%3Fh%3D0d27ee61%26itok%3D3ito8p-L%202x&w=1080&q=75",
+      "source": "SECURITY.COM",
+      "category_within_source": "General",
+      "source_domain": "SECURITY.COM",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.623054"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806273"
+        }
+      ],
+      "overall_sentiment_score": 0.129882,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.903894",
+          "ticker_sentiment_score": "0.148710",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom Inc. stock falls Thursday, underperforms market",
+      "url": "https://www.marketwatch.com/story/broadcom-inc-stock-falls-thursday-underperforms-market-01649968694-43296a0c873a?gaa_at=eafs&gaa_n=AWEtsqd3n7hQsfAbAYtGggepYr4Kmcsj9ieu3hsA_huzBlXxSgk2dW6G8x8b&gaa_ts=699afb13&gaa_sig=55XwsLrYexJE4rf38eyUxPXl5ehQnZjtp1J5-xmxvMW0svRKQsaRi892P8vFIZe-sa3JJ6ji9HZ8NCGlOa5k3w%3D%3D",
+      "time_published": "20220414T163800",
+      "authors": [
+        "Terrence Horan"
+      ],
+      "summary": "Broadcom Inc. (AVGO) stock fell 3.15% on Thursday, closing at $573.85, a day when the broader market also saw declines. This drop ended a two-day winning streak for the company, leaving its stock $103.91 short of its 52-week high. Competitors such as Taiwan Semiconductor Manufacturing Co. Ltd. ADR, NVIDIA Corp., and Intel Corp. also experienced declines.",
+      "banner_image": "https://images.mktw.net/im-220105?width=700&height=466",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926436"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819179"
+        }
+      ],
+      "overall_sentiment_score": -0.445073,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440932",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.638449",
+          "ticker_sentiment_score": "-0.404269",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Netflix Scores as California Judge Says Broadcom’s Dynamic Resource Provisioning Patent Claim is Abstract under Alice",
+      "url": "https://ipwatchdog.com/2022/04/18/netflix-scores-california-judge-says-broadcoms-dynamic-resource-provisioning-patent-claim-abstract-alice/",
+      "time_published": "20220418T121500",
+      "authors": [
+        "Steve Brachmann"
+      ],
+      "summary": "A U.S. District Judge in California has invalidated a Broadcom patent claim against Netflix, ruling it was an abstract idea under the Alice/Mayo framework. The patent, related to dynamic resource provisioning for job placement, was deemed no different from common task allocation, dealing a setback to Broadcom's patent enforcement campaign against Netflix. This decision is part of ongoing litigation where Broadcom asserts Netflix's streaming services infringe on its server technology patents, affecting Broadcom's traditional set-top box business.",
+      "banner_image": "https://ipwatchdog.com/wp-content/uploads/2019/01/alice-fall-Depositphotos_23120500_xl-2015copy.jpg",
+      "source": "IPWatchdog.com",
+      "category_within_source": "General",
+      "source_domain": "IPWatchdog.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.913270"
+        }
+      ],
+      "overall_sentiment_score": -0.104336,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.969589",
+          "ticker_sentiment_score": "-0.606672",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.912891",
+          "ticker_sentiment_score": "0.736291",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COF",
+          "relevance_score": "0.628375",
+          "ticker_sentiment_score": "-0.304559",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.580224",
+          "ticker_sentiment_score": "-0.224302",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Modern Bank Heists 5.0: The Escalation from Dwell to Destruction",
+      "url": "https://news.broadcom.com/customers/modern-bank-heists-5-0-the-escalation-from-dwell-to-destruction",
+      "time_published": "20220420T123323",
+      "authors": [],
+      "summary": "The fifth edition of the Modern Bank Heists report reveals a significant escalation in cyber threats targeting financial institutions, moving from \"dwell to destruction.\" Cybercrime cartels are operating like multinational corporations, utilizing dark web economies and state protection to launch destructive attacks, ransomware, and economic espionage. The report emphasizes the need for increased security budgets and proactive measures like extended detection and response (XDR) and regular threat hunting to combat these evolving threats.",
+      "banner_image": "https://news-editor.broadcom.com/wp-content/uploads/2022/04/Modern_Bank_Heists_VMware_News.jpg",
+      "source": "Broadcom",
+      "category_within_source": "General",
+      "source_domain": "Broadcom",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.923280"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833920"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747340"
+        }
+      ],
+      "overall_sentiment_score": 0.014777,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.303136",
+          "ticker_sentiment_score": "0.034147",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia's GPU-powered AI is creating chips with 'better than human design'",
+      "url": "https://www.pcgamer.com/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/",
+      "time_published": "20220420T175613",
+      "authors": [
+        "Jacob Ridley"
+      ],
+      "summary": "Nvidia is leveraging its GPU-powered AI to develop and design new computer chips, including its own GPUs, leading to designs that are \"better than human.\" The company's chief scientist, Bill Dally, explained how AI is used to accelerate chip design processes like power estimation, parasitic prediction, and automated standard cell migration. This approach not only significantly reduces design time and labor but also results in more efficient and smaller chip components, showcasing a win-win scenario for Nvidia's internal development and its AI hardware offerings.",
+      "banner_image": null,
+      "source": "PC Gamer",
+      "category_within_source": "General",
+      "source_domain": "PC Gamer",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720695"
+        }
+      ],
+      "overall_sentiment_score": 0.286675,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475394",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.732020",
+          "ticker_sentiment_score": "0.116766",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oi ends sale of mobile service, targets fiber",
+      "url": "https://valorinternational.globo.com/business/news/2022/04/21/oi-ends-sale-of-mobile-service-targets-fiber.ghtml",
+      "time_published": "20220421T194100",
+      "authors": [
+        "Por Ivone Santana"
+      ],
+      "summary": "Telecoms company Oi has finalized the sale of its mobile service operation, Oi Móvel, to Telefônica Brasil, TIM S/A, and América Móvil’s Claro Participações, bringing in R$14.47 billion. This move allows Oi to focus on its transformation plan, deleveraging debt, and investing in fiber-optic connectivity and digital services. The transaction, though questioned by competitors and consumer protection groups, was approved by regulators with conditioning measures.",
+      "banner_image": null,
+      "source": "Valor International",
+      "category_within_source": "General",
+      "source_domain": "Valor International",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.925411"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844781"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.716388"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620162"
+        }
+      ],
+      "overall_sentiment_score": 0.329217,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VIV",
+          "relevance_score": "0.923415",
+          "ticker_sentiment_score": "0.329254",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.712889",
+          "ticker_sentiment_score": "0.339848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TMUS",
+          "relevance_score": "0.620852",
+          "ticker_sentiment_score": "0.326595",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.631011",
+          "ticker_sentiment_score": "0.328064",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom under Antitrust scrutiny from FTC again - The Information",
+      "url": "https://www.reuters.com/technology/broadcom-under-antitrust-scrutiny-ftc-again-information-2022-04-22/",
+      "time_published": "20220422T211900",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Semiconductor giant Broadcom Inc. is facing renewed scrutiny from the U.S. Federal Trade Commission (FTC) over alleged exclusive agreements with customers. The FTC is investigating complaints that Broadcom is illegally forcing exclusivity, potentially leveraging supply-chain issues as justification. This comes after previous antitrust settlements with the FTC in 2021 and the European Commission in 2020 regarding similar practices.",
+      "banner_image": "https://www.reuters.com/resizer/v2/IVXBQNESBVKWJKOJZRHAZWJ5HM.jpg?auth=ced674c44edc4727c7d3d01dd80bafbe0beb2f0ee4de8cc24cff55e3b10f0ed0&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.841564"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.716167"
+        }
+      ],
+      "overall_sentiment_score": 0.0346,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.302748",
+          "ticker_sentiment_score": "0.027739",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ModalAI launches new autopilot in VOXL 2",
+      "url": "https://www.therobotreport.com/modalai-launches-new-autopilot-in-voxl-2/",
+      "time_published": "20220427T130523",
+      "authors": [
+        "The Robot Report Staff"
+      ],
+      "summary": "ModalAI has launched VOXL 2, a new autopilot powered by the Qualcomm Flight RB5 5G platform, designed for autonomous drones and robots. This 16-gram autopilot boasts high AI computing power, integrating a PX4 flight controller, an 8-core CPU, and 5G connectivity, and is assembled in the USA. VOXL 2 is a result of the Blue sUAS 2.0 initiative and aims to advance the U.S. drone industry by providing a secure and capable solution, especially for GPS-denied environments and beyond visual line-of-sight operations.",
+      "banner_image": "https://www.therobotreport.com/wp-content/uploads/2022/04/ModalAI-VOXL2-featured-web.jpg",
+      "source": "The Robot Report",
+      "category_within_source": "General",
+      "source_domain": "The Robot Report",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901877"
+        }
+      ],
+      "overall_sentiment_score": 0.277645,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.965801",
+          "ticker_sentiment_score": "0.428500",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.576908",
+          "ticker_sentiment_score": "0.137987",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top 10 Tech Stocks by Market Capitalization",
+      "url": "https://insights.masterworks.com/finance/top-10-tech-stocks-by-market-capitalization/",
+      "time_published": "20220429T123323",
+      "authors": [],
+      "summary": "This article lists the top 10 tech stocks by market capitalization as of April 2022, providing details on each company's industry, market cap, and annualized returns. It also defines tech stocks, explains their characteristics, and discusses why they present significant investment opportunities, highlighting their innovation and growth potential.",
+      "banner_image": "https://insights.masterworks.com/wp-content/uploads/2022/04/zhiyue-7DOU5NlNIcE-unsplash-scaled.jpg",
+      "source": "Masterworks",
+      "category_within_source": "General",
+      "source_domain": "Masterworks",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906054"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.829906"
+        }
+      ],
+      "overall_sentiment_score": 0.031337,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.343977",
+          "ticker_sentiment_score": "0.003068",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Texas Instruments introduces new solid state relays for safer EVs",
+      "url": "https://worldbusinessoutlook.com/texas-instruments-introduces-new-solid-state-relays-for-safer-evs/",
+      "time_published": "20220510T122438",
+      "authors": [],
+      "summary": "Texas Instruments (TI) has launched a new portfolio of automotive-qualified solid-state relays designed to enhance the safety of electric vehicles (EVs). These new components, including the TPSI3050-Q1 isolated switch driver and TPSI2140-Q1 isolated switch, aim to provide industry-leading reliability, reduce solution size, and lower bill-of-materials costs for 800-V battery-management systems. The integrated isolation technology in these relays offers faster load disconnection and connection compared to electromechanical relays, improving overall system safety and reliability for high-voltage automotive and industrial applications.",
+      "banner_image": null,
+      "source": "World Business Outlook",
+      "category_within_source": "General",
+      "source_domain": "World Business Outlook",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.936246"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.635557"
+        }
+      ],
+      "overall_sentiment_score": 0.386527,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TXN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484668",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.619603",
+          "ticker_sentiment_score": "0.343031",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom Vs. Marvell: Better Chipmaker Company To Buy (NASDAQ:AVGO)",
+      "url": "https://seekingalpha.com/article/4510901-broadcom-vs-marvell-better-chipmaker-company-to-buy",
+      "time_published": "20220512T120815",
+      "authors": [
+        "Khaveen Investments"
+      ],
+      "summary": "This article compares Broadcom (AVGO) and Marvell (MRVL) primarily focusing on their semiconductor businesses. It concludes that Marvell has an edge in ASICs and processor technology, while Broadcom excels in analog business and demonstrates a superior M&A strategy with better revenue contribution and margins. The analysis aims to determine the better chipmaker company to buy.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1321540122/image_1321540122.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901770"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.817308"
+        }
+      ],
+      "overall_sentiment_score": 0.101918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MRVL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.137625",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.926594",
+          "ticker_sentiment_score": "0.249236",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.644713",
+          "ticker_sentiment_score": "0.143074",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.617501",
+          "ticker_sentiment_score": "0.019344",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.601004",
+          "ticker_sentiment_score": "-0.118619",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Uber Eats pilots autonomous delivery with Serve Robotics, Motional",
+      "url": "https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/",
+      "time_published": "20220515T121856",
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "summary": "Uber Eats is launching two autonomous delivery pilots in Los Angeles with Serve Robotics and Motional. These programs are part of Uber's new product range and aim to explore customer and merchant preferences for autonomous delivery, with plans to scale successful models. The partnership with Serve Robotics, an Uber spinout, focuses on shorter trips, while Motional, mainly known for robotaxis, will handle longer distances.",
+      "banner_image": "https://techcrunch.com/wp-content/uploads/2022/05/Motional_UberEats.jpg?w=1024",
+      "source": "TechCrunch",
+      "category_within_source": "General",
+      "source_domain": "TechCrunch",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.902707"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.726576"
+        }
+      ],
+      "overall_sentiment_score": 0.104,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SERV",
+          "relevance_score": "0.337819",
+          "ticker_sentiment_score": "0.036537",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.234786",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.609618",
+          "ticker_sentiment_score": "0.143834",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CEO steps in as Progressive slammed for 'woke' hiring practices",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/ceo-steps-in-as-progressive-slammed-for-woke-hiring-practices-406351.aspx",
+      "time_published": "20220517T180654",
+      "authors": [
+        "Jen Frost"
+      ],
+      "summary": "Progressive CEO Tricia Griffith defended the company's diversity, equity, and inclusion (DE&I) hiring practices after facing criticism from an activist shareholder at the annual meeting. The shareholder, associated with the Free Enterprise project, questioned the prioritization of \"skin color and reproductive organs\" over merit. Griffith affirmed that DE&I is crucial for growth and reflecting the diverse customer base.",
+      "banner_image": null,
+      "source": "Insurance Business America",
+      "category_within_source": "General",
+      "source_domain": "Insurance Business America",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.843859"
+        }
+      ],
+      "overall_sentiment_score": 0.071231,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PGR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.148821",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.601772",
+          "ticker_sentiment_score": "0.105680",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CB",
+          "relevance_score": "0.554254",
+          "ticker_sentiment_score": "0.138060",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Carousell, L Catterton SPAC Merger Talks End Amid Rout",
+      "url": "https://finance.yahoo.com/news/carousell-l-catterton-spac-merger-105225779.html",
+      "time_published": "20220518T080846",
+      "authors": [
+        "Manuel Baigorri"
+      ],
+      "summary": "Carousell Pte, a Singapore-based online classifieds marketplace operator, has ended talks to go public through a merger with blank-check company L Catterton Asia Acquisition Corp. The decision comes amid market volatility, macroeconomic uncertainty, and valuation concerns, making it difficult to arrange a private investment in public equity (PIPE). The special purpose acquisition company (SPAC), backed by L Catterton and minority-owned by LVMH, had been in exclusive talks for a transaction that could have valued the combined entity at $1.5 billion.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940190"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.822007"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.738642"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600405"
+        }
+      ],
+      "overall_sentiment_score": -0.157573,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LCAA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440199",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.555224",
+          "ticker_sentiment_score": "0.129736",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Coherent optics move toward interoperability",
+      "url": "https://www.5gtechnologyworld.com/coherent-optics-move-toward-interoperability/",
+      "time_published": "20220520T114836",
+      "authors": [
+        "Martin Rowe"
+      ],
+      "summary": "At OFC 2022, the OIF demonstrated significant advancements in optical networking, including interoperable coherent optics from various vendors, 112 Gb/sec electrical links, flexible Ethernet, and co-packaging techniques. These innovations address the increasing demand for higher data rates and improved efficiency in data centers and network infrastructure. Future developments include an 800G coherent optics spec and research into 224 Gb/sec electrical interfaces for 1.2 Tb/sec and 1.6 Tb/sec links.",
+      "banner_image": "https://www.5gtechnologyworld.com/wp-content/uploads/2022/06/OIF_400ZR_demo_diagram_1094x618-300x169.jpg",
+      "source": "5G Technology World",
+      "category_within_source": "General",
+      "source_domain": "5G Technology World",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.219259,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COHR",
+          "relevance_score": "0.307391",
+          "ticker_sentiment_score": "0.046535",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.939011",
+          "ticker_sentiment_score": "0.304698",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.894684",
+          "ticker_sentiment_score": "0.342706",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TEL",
+          "relevance_score": "0.844378",
+          "ticker_sentiment_score": "0.294300",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.613775",
+          "ticker_sentiment_score": "0.193942",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Innovation or Intellectual Scam: Patent Damages and Their Exploited History",
+      "url": "https://www.culawreview.org/journal/innovation-or-intellectual-scam-patent-damages-and-their-exploited-history",
+      "time_published": "20220521T114313",
+      "authors": [
+        "Skylar Wu"
+      ],
+      "summary": "The article discusses the high financial stakes and potential for exploitation within the patent law industry, focusing on the Caltech v. Apple and Broadcom case where Apple was relieved of a $1.1 billion patent infringement claim. It examines different interpretations of patent damages, the historical context of patent law, and the role of Patent-Assertion Entities (PAEs). The author also explores proposed reforms to patent law, such as viewing patents as a public regulatory system, to better promote innovation and standardize damage calculations.",
+      "banner_image": "https://images.squarespace-cdn.com/content/v1/5cb4edda94d71acb46468830/1561998548902-XVCD3DBIVZRV52DVCMN4/CULRdark.png",
+      "source": "Columbia Undergraduate Law Review",
+      "category_within_source": "General",
+      "source_domain": "Columbia Undergraduate Law Review",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849776"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710399"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.628444"
+        }
+      ],
+      "overall_sentiment_score": 0.023058,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.332407",
+          "ticker_sentiment_score": "0.020799",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom in talks to buy VMware",
+      "url": "https://www.reuters.com/markets/deals/broadcom-talks-acquire-vmware-2022-05-22/",
+      "time_published": "20220522T115100",
+      "authors": [
+        "Greg Roumeliotis"
+      ],
+      "summary": "Chipmaker Broadcom Inc. is reportedly in talks to acquire cloud service provider VMware Inc., according to sources familiar with the matter. This acquisition would further Broadcom's diversification into enterprise software, following previous purchases of CA Technologies and Symantec's security division. VMware's market capitalization was $40.3 billion as of Friday's close, with Michael Dell holding a 40% stake and Silver Lake owning 10%.",
+      "banner_image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FAAE4C4VTINLUNKXCJRIMVEY7GM.jpg?auth=c8867eb66d460e7f4e3464795540db8b6bbc0808fbfeb02f799d237e69c52c93&width=1080&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800253"
+        }
+      ],
+      "overall_sentiment_score": 0.29993,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409170",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.624947",
+          "ticker_sentiment_score": "0.140591",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom in Talks to Acquire VMware, the Cloud Computing Company (Published 2022)",
+      "url": "https://www.nytimes.com/2022/05/22/business/dealbook/broadcom-vmware.html",
+      "time_published": "20220522T121540",
+      "authors": [
+        "Lauren Hirsch and Don Clark"
+      ],
+      "summary": "Broadcom, a semiconductor giant, is reportedly in discussions to acquire VMware, a cloud computing company known for its virtualization software. This potential acquisition would expand Broadcom's presence in cloud computing and continue CEO Hock E. Tan's strategy of diversifying beyond chip companies following a blocked deal with Qualcomm in 2018. Following the news, VMware's stock saw a significant increase, while Broadcom's shares experienced a slight dip.",
+      "banner_image": "https://static01.nyt.com/images/2022/05/22/multimedia/22broadcom-1/22broadcom-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "source": "The New York Times",
+      "category_within_source": "General",
+      "source_domain": "The New York Times",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.941960"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841535"
+        }
+      ],
+      "overall_sentiment_score": -0.086021,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.823805",
+          "ticker_sentiment_score": "-0.100529",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.349081",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.616042",
+          "ticker_sentiment_score": "0.102439",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.617136",
+          "ticker_sentiment_score": "0.133405",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom reportedly in talks to buy VMware",
+      "url": "https://www.marketwatch.com/story/broadcom-reportedly-in-talks-to-buy-vmware-11653269072?gaa_at=eafs&gaa_n=AWEtsqfMvaEopegyI6uvQfGAkQaeD3-kkz3sQ_YewKsEsAQAt3hWWEXTx2C7&gaa_ts=699aef53&gaa_sig=qvBJVoYza92tYViVg1J1uU63H9Lvv3Z8HIZ5M4tenBF29gwZvJPM_VSrS0kWlm91hd11XZ1TVv6opIcU9MX3FQ%3D%3D",
+      "time_published": "20220522T212400",
+      "authors": [
+        "Mike Murphy"
+      ],
+      "summary": "Broadcom Inc. is reportedly in negotiations to acquire enterprise cloud-computing company VMware Inc. Multiple news outlets, including Bloomberg News, Reuters, the New York Times, and the Wall Street Journal, have reported on these ongoing talks. As of Friday, VMware's market capitalization was approximately $40.3 billion, while Broadcom's was about $222 billion.",
+      "banner_image": "https://images.mktw.net/im-549425?width=1260&height=801",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945422"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828547"
+        }
+      ],
+      "overall_sentiment_score": 0.309071,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.986808",
+          "ticker_sentiment_score": "0.341002",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Chipmaker Broadcom in talks to acquire VMware for $60 billion -sources",
+      "url": "https://www.reuters.com/markets/us/chipmaker-broadcom-talks-acquire-vmware-sources-2022-05-23/",
+      "time_published": "20220523T084300",
+      "authors": [
+        "Greg Roumeliotis",
+        "Supantha Mukherjee"
+      ],
+      "summary": "Broadcom Inc is reportedly in talks to acquire cloud service provider VMware Inc for $60 billion, a move that would significantly expand Broadcom's enterprise software business. The proposed deal, valued at around $140 per share in cash and stock for VMware, represents a 46% premium to VMware's Friday share price. This acquisition aligns with Broadcom CEO Hock Tan's strategy of diversifying beyond chips into infrastructure software.",
+      "banner_image": "https://www.reuters.com/resizer/v2/AAE4C4VTINLUNKXCJRIMVEY7GM.jpg?auth=cbd765460ea1d34b0a169b1af33081cc7977f429babb024d55130d1c8eb9e1df&width=1080&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.931342"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634463"
+        }
+      ],
+      "overall_sentiment_score": 0.252918,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430270",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.648246",
+          "ticker_sentiment_score": "0.147674",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom in talks to purchase cloud computing company VMware",
+      "url": "https://www.foxbusiness.com/economy/broadcom-purchase-vmware",
+      "time_published": "20220523T114313",
+      "authors": [
+        "Landon Mion"
+      ],
+      "summary": "Chipmaker Broadcom is reportedly in advanced talks to acquire cloud computing company VMware in a cash-and-stock deal, aiming to further diversify its business into enterprise software. This potential acquisition follows Broadcom's previous purchases of CA Technologies and Symantec's security division. VMware's shares jumped on the news, while Broadcom's saw a slight drop, as details of the deal's value remain undisclosed.",
+      "banner_image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/931/523/Broadcom.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "category_within_source": "General",
+      "source_domain": "Fox Business",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.936873"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823776"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.648596"
+        }
+      ],
+      "overall_sentiment_score": -0.16771,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.997736",
+          "ticker_sentiment_score": "-0.392844",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.735495",
+          "ticker_sentiment_score": "0.298931",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.632748",
+          "ticker_sentiment_score": "0.011357",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.590046",
+          "ticker_sentiment_score": "-0.473762",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive | Broadcom in Talks to Pay About $60 Billion for VMware",
+      "url": "https://www.wsj.com/business/deals/broadcom-discussing-paying-around-140-a-share-for-vmware-people-say-11653334946",
+      "time_published": "20220523T171040",
+      "authors": [
+        "Cara Lombardo and Dana Cimilluca"
+      ],
+      "summary": "Broadcom Inc. is reportedly in talks to acquire VMware Inc. for approximately $60 billion in what could be one of the largest takeovers of the year. The two companies aim to announce a cash-and-stock deal worth about $140 per share, as Broadcom seeks to expand its presence in the corporate software market.",
+      "banner_image": "https://images.wsj.net/im-549911/?width=700&height=467",
+      "source": "WSJ",
+      "category_within_source": "General",
+      "source_domain": "WSJ",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.933808"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.634131"
+        }
+      ],
+      "overall_sentiment_score": 0.4149,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VMW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435921",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427404",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Premarket Movers: VMware, Deutsche Bank, EQT Corp",
+      "url": "https://www.barrons.com/articles/premarket-movers-vmware-deutsche-bank-eqt-corp-01653305424?gaa_at=eafs&gaa_n=AWEtsqeAnLkYkLPwbyxj342Yypc8XipQJkw0lzavb9f0fqTYPZa0WZS4e6LB&gaa_ts=690799ac&gaa_sig=THAzYSUQlrpL_Jx0bCTvkrXid10oJfr9EjKewF-X6bPI1VpP9xewRqYpDxbJ6WdeY_l4LrN3ftmmzSZBzGOjoA%3D%3D",
+      "time_published": "20220523T173554",
+      "authors": [
+        "Barron's Automation"
+      ],
+      "summary": "This article highlights several companies making significant premarket moves. VMware (VMW) was up 21.7% and Deutsche Bank (DB) saw a 5.3% increase, while EQT Corp (EQT), ZoomInfo Tech (ZI), and Block (SQ) also posted gains. Conversely, Lattice Semiconductor (LSCC) and Broadcom (AVGO) experienced declines.",
+      "banner_image": null,
+      "source": "Barron's",
+      "category_within_source": "General",
+      "source_domain": "Barron's",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925349"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715836"
+        }
+      ],
+      "overall_sentiment_score": -0.074039,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409084",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "EQT",
+          "relevance_score": "0.742763",
+          "ticker_sentiment_score": "0.610657",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.635069",
+          "ticker_sentiment_score": "-0.322147",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom Inc in talks to acquire VMware: sources",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2022/05/24/2003778691",
+      "time_published": "20220524T114313",
+      "authors": [
+        "Bloomberg"
+      ],
+      "summary": "Broadcom Inc. is reportedly in discussions to acquire cloud-computing company VMware Inc., a deal that would significantly expand the chipmaker's software presence. This potential acquisition aligns with CEO Hock Tan's strategy of diversifying Broadcom through software companies. VMware, valued at around US$40 billion, would provide Broadcom with greater access to the data center market, a critical area for growth.",
+      "banner_image": "https://img.taipeitimes.com/images/2022/05/24/P10-220524-331.jpg",
+      "source": "Taipei Times",
+      "category_within_source": "General",
+      "source_domain": "Taipei Times",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.915554"
+        }
+      ],
+      "overall_sentiment_score": 0.248378,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427093",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.722447",
+          "ticker_sentiment_score": "0.147165",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.633671",
+          "ticker_sentiment_score": "0.127845",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What the Club is watching Thursday — Macy's, Williams-Sonoma buck retail trend with strong reports",
+      "url": "https://www.cnbc.com/2022/05/26/macys-williams-sonoma-buck-retail-trend-with-strong-reports.html",
+      "time_published": "20220526T094900",
+      "authors": [
+        "Jeff Marks"
+      ],
+      "summary": "Macy's (M) and Williams-Sonoma (WSM) provided strong reports, bucking the recent retail trend. Morgan Stanley upgraded Lululemon (LULU), while Broadcom (AVGO) announced its acquisition of VMware (VMW), signaling confidence in enterprise software valuations. Other notable news includes downgrades for Dow Inc. (DOW) and Union Pacific (UNP), an analysis valuing AWS higher than Amazon's total enterprise value, and Goldman Sachs's picks in oil and gas stocks.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.912859"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.849739"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.703242"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.605326"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637167"
+        }
+      ],
+      "overall_sentiment_score": 0.348904,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.441175",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.915508",
+          "ticker_sentiment_score": "0.335405",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LULU",
+          "relevance_score": "0.621835",
+          "ticker_sentiment_score": "0.305584",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom buying VMware for $61B",
+      "url": "https://www.foxbusiness.com/markets/broadcom-buying-vmware-for-61b",
+      "time_published": "20220526T114313",
+      "authors": [
+        "Lucas Manfredi"
+      ],
+      "summary": "Broadcom has announced its acquisition of cloud technology firm VMware for $61 billion in a cash and stock transaction. This move aims to strengthen Broadcom's position in the cloud computing market, leveraging VMware's technology to integrate public cloud access with internal company networks for large corporations. The deal, unanimously approved by both boards, is expected to close in Broadcom's fiscal year 2023, with VMware shareholders receiving either cash or Broadcom common stock, and VMware's chairman Michael Dell and Silver Lake backing the transaction.",
+      "banner_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6dc7ba06-403b-4db4-abd3-6881c08ce3d4/3de2d1a4-ebed-4909-b8a1-b1f4881e385e/1280x720/match/image.jpg",
+      "source": "Fox Business",
+      "category_within_source": "General",
+      "source_domain": "Fox Business",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.922532"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.617998"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.606120"
+        }
+      ],
+      "overall_sentiment_score": 0.389649,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477899",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.745633",
+          "ticker_sentiment_score": "0.319389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom to Buy VMware for $61 Billion in Record Chip Deal",
+      "url": "https://finance.yahoo.com/news/broadcom-buy-vmware-61-billion-112134761.html",
+      "time_published": "20220526T114313",
+      "authors": [
+        "Dina Bass",
+        "Liana Baker"
+      ],
+      "summary": "Broadcom Inc. has agreed to acquire cloud-computing company VMware Inc. for approximately $61 billion, marking one of the largest technology deals in history. This acquisition will strengthen Broadcom's software portfolio, a key part of CEO Hock Tan's strategy to diversify the chipmaker and expand its presence in corporate software. The deal, supported by major VMware shareholders, includes commitments for $32 billion in debt financing and is expected to close in Broadcom’s fiscal year 2023.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/DpbkoEaJcG14gtIi0YgZjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/bloomberg_technology_68/8f9e8c8e1146f6e2df5c290c67925307",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.919705"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613842"
+        }
+      ],
+      "overall_sentiment_score": 0.234377,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404068",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.828936",
+          "ticker_sentiment_score": "0.299812",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.634184",
+          "ticker_sentiment_score": "0.209477",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.606158",
+          "ticker_sentiment_score": "0.214423",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.559625",
+          "ticker_sentiment_score": "-0.119493",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom to Buy VMware in $61 Billion Bet on Unsexy Software",
+      "url": "https://www.wsj.com/business/deals/broadcom-to-buy-vmware-for-61-billion-11653563847?gaa_at=eafs&gaa_n=AWEtsqdVVZNVyb1fkgWHFyENyefw6j5tepuyVLLntO1WLW_0gchpI6jKLjZl&gaa_ts=699aef53&gaa_sig=tist5n58wURYjPEQ5_ZqfhIggrw6fNLNEpVt-RRLxPp5CKzotSYRBpieLFtfTTZlgIRPkbfAdp5-4uWocXGn8g%3D%3D",
+      "time_published": "20220526T114313",
+      "authors": [
+        "Aaron Tilley and Asa Fitch"
+      ],
+      "summary": "Broadcom Inc. is set to acquire VMware Inc. in a $61 billion cash-and-stock deal, deepening Broadcom's presence in the software market. CEO Hock Tan is extending his strategy of acquiring essential, low-profile products, cutting costs, and leveraging pricing power, which has been successful in the microchip industry, to enterprise software. This acquisition represents Broadcom's largest bet on the sustained growth of enterprise software demand amidst economic uncertainty.",
+      "banner_image": "https://images.wsj.net/im-552035/?width=700&height=467",
+      "source": "The Wall Street Journal",
+      "category_within_source": "General",
+      "source_domain": "The Wall Street Journal",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948709"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818221"
+        }
+      ],
+      "overall_sentiment_score": 0.43724,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406404",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom buys VMware in a $61B acquisition deal",
+      "url": "https://www.techtarget.com/searchdatacenter/news/252520587/VMware-may-be-Broadcoms-next-acquisition-target",
+      "time_published": "20220526T122420",
+      "authors": [
+        "Ed Scannell"
+      ],
+      "summary": "Broadcom has formally announced plans to acquire VMware in a cash and stock deal valued at approximately $61 billion, plus an additional $8 billion in VMware net debt. The deal is expected to close in Broadcom's 2023 financial year, pending regulatory and shareholder approvals. This acquisition will see Broadcom's existing infrastructure and security software integrated into an expanded VMware portfolio, with the Broadcom Software Group rebranding to operate as VMware.",
+      "banner_image": "https://www.techtarget.com/rms/onlineimages/money_g1255091249_searchsitetablet_520X173.jpg",
+      "source": "TechTarget",
+      "category_within_source": "General",
+      "source_domain": "TechTarget",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825746"
+        }
+      ],
+      "overall_sentiment_score": 0.034282,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TTGT",
+          "relevance_score": "0.308896",
+          "ticker_sentiment_score": "0.021375",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.757523",
+          "ticker_sentiment_score": "0.046853",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296938",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.602828",
+          "ticker_sentiment_score": "0.019285",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.582923",
+          "ticker_sentiment_score": "-0.149370",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How Broadcom CEO Tan shaped a tech giant through acquisitions",
+      "url": "https://www.reuters.com/markets/us/how-broadcom-ceo-tan-shaped-tech-giant-through-acquisitions-2022-05-27/",
+      "time_published": "20220527T090400",
+      "authors": [
+        "Krystal Hu",
+        "Jane Lee"
+      ],
+      "summary": "Hock Tan, CEO of Broadcom, has transformed the company into a $225 billion technology conglomerate primarily through a series of strategic acquisitions. His latest move is the proposed $61 billion acquisition of VMware, which underscores his reputation as an astute dealmaker and cost-cutter. Tan's strategy involves acquiring \"franchise\" businesses, streamlining operations by cutting sales and marketing expenses, and divesting underperforming assets, all while rapidly paying down debt to enable further acquisitions.",
+      "banner_image": "https://www.reuters.com/resizer/v2/YEICPDDHRBPOLNPPSKAV37KKHI.jpg?auth=3042e437d5631e216b5c0128cd0a7475c5f3f9e4de950a9d23a693555cc6dc610&width=1080&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.945346"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700068"
+        }
+      ],
+      "overall_sentiment_score": 0.195484,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463724",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.700002",
+          "ticker_sentiment_score": "0.110735",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KKR",
+          "relevance_score": "0.637244",
+          "ticker_sentiment_score": "0.150261",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.614517",
+          "ticker_sentiment_score": "-0.120690",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom to buy Palo Alto’s VMware for $61 billion",
+      "url": "https://padailypost.com/2022/05/27/broadcom-to-buy-palo-altos-vmware-for-61-billion/",
+      "time_published": "20220527T114313",
+      "authors": [],
+      "summary": "Computer chip and software maker Broadcom is set to acquire Palo Alto-based cloud technology company VMware for approximately $61 billion, including $8 billion of VMware's net debt. This acquisition aims to strengthen Broadcom's position in the cloud computing market by integrating VMware's technology. The deal is one of the largest this year, highlighting a trend of significant tech buyouts amidst market uncertainty where tech companies are perceived to be undervalued.",
+      "banner_image": "https://padailypost.com/wp-content/uploads/2022/05/vmware-campus-678x381.png",
+      "source": "Palo Alto Daily Post",
+      "category_within_source": "General",
+      "source_domain": "Palo Alto Daily Post",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.838007"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.639714"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600780"
+        }
+      ],
+      "overall_sentiment_score": 0.187273,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442623",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.647389",
+          "ticker_sentiment_score": "0.141571",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.604136",
+          "ticker_sentiment_score": "0.031754",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom will tame the VMware beast",
+      "url": "https://siliconangle.com/2022/05/27/broadcom-will-tame-vmware-beast/",
+      "time_published": "20220527T114313",
+      "authors": [
+        "Dave Vellante"
+      ],
+      "summary": "Broadcom's planned acquisition of VMware for $61 billion signifies a new era for the virtualization leader, focusing on financial performance and shareholder value. The article details Broadcom's strategy of optimizing profitability by focusing on recurring revenue, cutting R&D and sales/marketing expenses for less profitable areas, and standardizing G&A. For customers, this likely means higher prices and a more focused product portfolio, with core offerings like vSphere being emphasized while less profitable or unproven ventures like Project Monterey face scrutiny.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/AdobeStock_365235358_Editorial_Use_Only.jpeg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.948654"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727657"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632510"
+        }
+      ],
+      "overall_sentiment_score": 0.141243,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.991573",
+          "ticker_sentiment_score": "0.307358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.725123",
+          "ticker_sentiment_score": "0.114905",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.640767",
+          "ticker_sentiment_score": "0.100518",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.621458",
+          "ticker_sentiment_score": "0.137728",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.597145",
+          "ticker_sentiment_score": "-0.056167",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Adas/Connected Car - June 2022 v1",
+      "url": "https://www.techbriefs.com/component/content/article/46019-doc-8715",
+      "time_published": "20220602T111403",
+      "authors": [],
+      "summary": "The \"ADAS/Connected Car - June 2022\" special report details advancements in automotive technology, focusing on advanced driver-assistance systems (ADAS) and the critical need for high-speed data transmission within vehicles. It addresses the challenges of integrating high-resolution cameras and radars, demanding greater bandwidth and lower latency in in-vehicle networks, and highlights the role of edge inference computers and radar technology in enhancing vehicle safety and performance. The report emphasizes the importance of testing solutions, processing capabilities, and continuous innovation in shaping the future of connected vehicles.",
+      "banner_image": null,
+      "source": "Tech Briefs",
+      "category_within_source": "General",
+      "source_domain": "Tech Briefs",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.930245"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827724"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734642"
+        }
+      ],
+      "overall_sentiment_score": 0.324791,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KEYS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328130",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.600958",
+          "ticker_sentiment_score": "0.345728",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.632906",
+          "ticker_sentiment_score": "0.341069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.641471",
+          "ticker_sentiment_score": "0.324389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.615577",
+          "ticker_sentiment_score": "0.216794",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TRFK ETF Profile: Dividends, Returns (AMEX:TRFK)",
+      "url": "https://www.tradingview.com/symbols/AMEX-TRFK/profile/",
+      "time_published": "20220607T001012",
+      "authors": [],
+      "summary": "This article provides a detailed profile of the Pacer Data and Digital Revolution ETF (TRFK), listed on the NYSE American. It covers key statistics such as assets under management, dividend yield, expense ratio, and identifies its issuer, inception date, and the index it tracks. The ETF passively invests in companies involved in data use, manipulation, transmission, or storage, primarily in the Electronic Technology and Technology Services sectors, with most assets in North America.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/pacer-american-energy--big.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.901521"
+        }
+      ],
+      "overall_sentiment_score": 0.271471,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRFK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128090",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.624779",
+          "ticker_sentiment_score": "0.307825",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.566635",
+          "ticker_sentiment_score": "0.315912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom-VMware Merger Agreement Stock/Cash Election Provides Tax Advantages to VMware Shareholders",
+      "url": "https://www.akingump.com/en/insights/tax-insights/broadcom-vmware-merger-agreement-stockcash-election-provides-tax-advantages-to-vmware-shareholders",
+      "time_published": "20220607T135116",
+      "authors": [
+        "Stuart E. Leblang",
+        "Michael J. Kliegman",
+        "Amy S. Elliott"
+      ],
+      "summary": "This article analyzes the tax implications of the Broadcom-VMware merger agreement, focusing on the stock/cash election mechanism for VMware shareholders. It explains how this structure, particularly the ability to specifically identify shares for either cash or stock, offers potential tax advantages for shareholders, especially those with varying basis levels like Michael Dell. The authors delve into the complex rules surrounding redemptions, boot, and dividend withholding, highlighting the parties' apparent intent to enable beneficial tax treatment distinct from standard boot rules.",
+      "banner_image": "https://www.akingump.com/a/web/dwQRiREh5Hd8JgKu8izD51/9pZ5fm/gettyimages-472629425.gif",
+      "source": "Akin",
+      "category_within_source": "General",
+      "source_domain": "Akin",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.819277"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710898"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625444"
+        }
+      ],
+      "overall_sentiment_score": 0.321342,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VMW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404660",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.927714",
+          "ticker_sentiment_score": "0.332622",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.619861",
+          "ticker_sentiment_score": "0.209082",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Deal Diary: Gibson, Wachtell Lead VMware Sale to Broadcom",
+      "url": "https://www.thedeal.com/mergers-acquisitions/deal-diary-gibson-wachtell-lead-vmware-sale-to-broadcom/",
+      "time_published": "20220613T105027",
+      "authors": [
+        "David Marcus"
+      ],
+      "summary": "Gibson, Dunn & Crutcher LLP advised VMware Inc. on its $61 billion sale to Broadcom Inc., with Broadcom also assuming $8 billion in debt. Wachtell, Lipton, Rosen & Katz, O’Melveny & Myers LLP, and Cleary Gottlieb Steen & Hamilton LLP counseled Broadcom. Various financial institutions provided advice to both parties, and Silver Lake Partners, a 10% owner of VMware, was represented by Simpson Thacher & Bartlett LLP, while Michael Dell (42% owner) was advised by Wachtell Lipton.",
+      "banner_image": "https://assets.thedeal.com/tdp/Web%20970x250.png",
+      "source": "The Deal Pipeline",
+      "category_within_source": "General",
+      "source_domain": "The Deal Pipeline",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831035"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.745581"
+        }
+      ],
+      "overall_sentiment_score": 0.241975,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439833",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.730379",
+          "ticker_sentiment_score": "0.433079",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.613586",
+          "ticker_sentiment_score": "-0.100213",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RSA 2022: The Road to Adversary Engagement",
+      "url": "https://www.security.com/rsa-conference/rsa-2022-road-adversary-engagement",
+      "time_published": "20220614T105027",
+      "authors": [
+        "Laura Bodre"
+      ],
+      "summary": "At RSA 2022, experts discussed \"adversary engagement,\" distinguishing between denial (stopping attacks) and deception (luring controlled intrusions to learn). This strategy helps organizations understand attacker TTPs and potentially identify adversaries. Openly discussing these tactics can deter criminals and foster community-wide information sharing, with FBI Special Agent Tony Rogers confirming its legality when conducted on an organization's own network.",
+      "banner_image": "https://www.security.com/_next/image?url=https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium%2Fpublic%2F2022-06%2FGettyImages-1200388618.jpg.webp%3Fh%3Def0b945c%26itok%3DxKlW78tP%201x%2C%20https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium_2x%2Fpublic%2F2022-06%2FGettyImages-1200388618.jpg.webp%3Fh%3Def0b945c%26itok%3Dgkc3zMiq%202x&w=1080&q=75",
+      "source": "SECURITY.COM",
+      "category_within_source": "General",
+      "source_domain": "SECURITY.COM",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.806303"
+        }
+      ],
+      "overall_sentiment_score": 0.311354,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.947547",
+          "ticker_sentiment_score": "0.335892",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Six key takeaways from EBAday 2022",
+      "url": "https://flow.db.com/cash-management/six-key-takeaways-from-ebaday-2022",
+      "time_published": "20220614T105836",
+      "authors": [],
+      "summary": "EBAday 2022 highlighted six key trends shaping the future of payments: the rapid evolution driven by APIs, the potential of Banking-as-a-Service and Payments-as-a-Service despite integration challenges, the limitations of digital currencies as a complete solution for international payments, and the ongoing improvements by SWIFT initiatives like gpi, Go, and ISO 20022. The conference also discussed the rise of instant and invisible payments and stressed the importance of the new Digital Operational Resilience Act (DORA) for banks and their technology vendors. These topics are expected to continue to evolve and remain central to future discussions in the payments industry.",
+      "banner_image": "https://flow.db.com/contentAsset/image/31fda258-d0f7-47cc-b79a-1e9386ca88c5/fileAsset/filter/Resize,Jpeg/resize_w/1280/28c506c6-898c-49c5-965c-f905571395e4l.jpg",
+      "source": "Deutsche Bank AG",
+      "category_within_source": "General",
+      "source_domain": "Deutsche Bank AG",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842955"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.711519"
+        }
+      ],
+      "overall_sentiment_score": 0.183984,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.284919",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.612295",
+          "ticker_sentiment_score": "0.211804",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.613952",
+          "ticker_sentiment_score": "0.101166",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.625301",
+          "ticker_sentiment_score": "0.123445",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Consumer groups urge shops not to partner with ‘predatory’ lender EasyPay",
+      "url": "https://www.repairerdrivennews.com/2022/06/14/consumer-groups-urge-shops-not-to-partner-with-predatory-lender-easypay/",
+      "time_published": "20220614T110012",
+      "authors": [
+        "Dave LaChance"
+      ],
+      "summary": "A coalition of consumer advocacy groups is calling on auto repair shops, including large national chains and collision shops, to stop offering financing through EasyPay Finance and TAB Bank due to \"predatory\" lending practices. The groups highlight interest rates as high as 189%, hidden terms, and issues like unauthorized debits and damage to credit reports. They advise shops against partnering with lenders charging more than 36% APR and encourage consumers to be cautious and understand loan terms.",
+      "banner_image": "https://www.repairerdrivennews.com/wp-content/uploads/2022/06/iStock-1298151204-300x200.jpg",
+      "source": "Repairer Driven News",
+      "category_within_source": "General",
+      "source_domain": "Repairer Driven News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947943"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.709502"
+        }
+      ],
+      "overall_sentiment_score": -0.325537,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DRVN",
+          "relevance_score": "0.948653",
+          "ticker_sentiment_score": "-0.320087",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.618299",
+          "ticker_sentiment_score": "-0.309411",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GL",
+          "relevance_score": "0.643434",
+          "ticker_sentiment_score": "-0.331481",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.642857",
+          "ticker_sentiment_score": "-0.346664",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "VMware Appoints Venkatesh Murali as General Manager and Country Leader, Nascent Markets and Vietnam",
+      "url": "https://news.broadcom.com/apj/news/vmware-appoints-venkatesh-murali-as-general-manager-and-countryleader-nascent-markets-and-vietnam",
+      "time_published": "20220616T105027",
+      "authors": [],
+      "summary": "VMware has appointed Venkatesh Murali as General Manager and Country Leader for Nascent Markets and Vietnam, leveraging his two decades of IT experience in solutions sales and channel development. He will focus on driving business strategy and growth by accelerating digital transformation in the region, particularly as developing economies in Asia and Vietnam's internet economy are projected for significant growth. Murali aims to help organizations in emerging Asian markets adopt hybrid and multi-cloud, modern applications, and cybersecurity solutions.",
+      "banner_image": "https://news-editor.broadcom.com/apj/wp-content/uploads/sites/16/2022/06/097-e1655362827685.jpg",
+      "source": "Broadcom",
+      "category_within_source": "General",
+      "source_domain": "Broadcom",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.826541"
+        }
+      ],
+      "overall_sentiment_score": 0.033649,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.310077",
+          "ticker_sentiment_score": "0.023216",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom's acquire-and-axe history concerns VMware users",
+      "url": "https://www.techtarget.com/searchdatacenter/news/252521669/Broadcoms-acquire-and-axe-history-concerns-VMware-users",
+      "time_published": "20220617T105027",
+      "authors": [
+        "Ed Scannell"
+      ],
+      "summary": "VMware users and employees are expressing concern over Broadcom's acquisition of the company, fearing a repeat of Broadcom's historical strategy of acquiring and then divesting parts of companies. Broadcom's CEO, Hock Tan, intends to transition VMware to a subscription-based model and integrate Broadcom's infrastructure and security software. The acquisition timing also coincides with a trend where corporate IT shops are moving towards SaaS-based solutions, diminishing VMware's traditional market.",
+      "banner_image": "https://www.techtarget.com/rms/onlineimages/collab_a362306286_searchsitetablet_520X173.jpg",
+      "source": "TechTarget",
+      "category_within_source": "General",
+      "source_domain": "TechTarget",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916369"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837206"
+        }
+      ],
+      "overall_sentiment_score": -0.0639,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.987027",
+          "ticker_sentiment_score": "-0.309418",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.608619",
+          "ticker_sentiment_score": "0.143454",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.600570",
+          "ticker_sentiment_score": "-0.116044",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.579160",
+          "ticker_sentiment_score": "0.079790",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.590056",
+          "ticker_sentiment_score": "0.053122",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Report: EU plans to investigate Broadcom’s proposed acquisition of VMware",
+      "url": "https://siliconangle.com/2022/06/23/report-eu-plans-investigate-broadcoms-proposed-acquisition-vmware/",
+      "time_published": "20220623T105027",
+      "authors": [
+        "Maria Deutscher"
+      ],
+      "summary": "The European Union is preparing to launch a lengthy \"phase 2\" antitrust investigation into Broadcom's proposed $61 billion acquisition of VMware. This investigation could last over a year and potentially derail the deal, as multiple organizations, including VMware customer trade groups, have expressed concerns about potential price increases or forced bundling of Broadcom services. Broadcom is reportedly in preliminary discussions with EU officials to argue that the acquisition will not reduce competition or harm customers.",
+      "banner_image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/broadcom.jpg",
+      "source": "SiliconANGLE",
+      "category_within_source": "General",
+      "source_domain": "SiliconANGLE",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.914225"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820640"
+        }
+      ],
+      "overall_sentiment_score": -0.067033,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.230640",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.746010",
+          "ticker_sentiment_score": "-0.142700",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.627293",
+          "ticker_sentiment_score": "0.140418",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Chinese DPU chip firm gains funds, unicorn status ...",
+      "url": "https://www.eenewseurope.com/en/chinese-dpu-chip-firm-gains-funds-unicorn-status/",
+      "time_published": "20220624T105027",
+      "authors": [
+        "Not specified"
+      ],
+      "summary": "Jaguar Microsystems, a Chinese Data Processing Unit (DPU) chip company founded in 2020 by former Broadcom executive Sunny Siu, has secured hundreds of millions of yuan in funding, propelling its valuation to unicorn status at approximately US$1.34 billion. The financing round was led by Tencent Holdings Ltd. and included other major investors. Jaguar Microsystems, which employs nearly 400 staff, released an FPGA version of its DPU in 2021 and plans for mass production of its system-chip version by 2023, primarily targeting cloud computing and internet companies, with Tencent expected to be a key customer.",
+      "banner_image": "https://ee.cdnartwhere.eu/wp-content/uploads/import/default/files/sites/default/files/images/boxingunicorn630_3-800x600-c-default.jpg",
+      "source": "eeNews Europe",
+      "category_within_source": "General",
+      "source_domain": "eeNews Europe",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.933848"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824060"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.741446"
+        }
+      ],
+      "overall_sentiment_score": 0.185316,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.934175",
+          "ticker_sentiment_score": "0.314056",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.600745",
+          "ticker_sentiment_score": "0.134768",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.633068",
+          "ticker_sentiment_score": "0.111421",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.644481",
+          "ticker_sentiment_score": "0.125158",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.604517",
+          "ticker_sentiment_score": "0.144465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Enabling Broadcom Db2 Tools users with DevOps Capabilities",
+      "url": "https://www.broadcom.com/blog/enabling-broadcom-db2-tools-users-with-devops-capabilities",
+      "time_published": "20220627T105027",
+      "authors": [],
+      "summary": "This article focuses on enabling Broadcom Db2 Tools users with DevOps capabilities. It discusses how organizations can leverage existing Db2 tools in a modern DevOps environment, enhancing efficiency and collaboration in database management.",
+      "banner_image": null,
+      "source": "Broadcom",
+      "category_within_source": "General",
+      "source_domain": "Broadcom",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.831028"
+        }
+      ],
+      "overall_sentiment_score": 0.427624,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417997",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Qualcomm’s new wi-fi 7 and RF front-end modules are gunning for 5G auto and IoT device markets",
+      "url": "https://www.iot-now.com/2022/06/29/122065-qualcomms-new-wi-fi-7-and-rf-front-end-modules-are-gunning-for-5g-auto-and-iot-device-markets/",
+      "time_published": "20220629T112557",
+      "authors": [
+        "Christian Block"
+      ],
+      "summary": "Qualcomm Technologies has introduced new RF Front-End (RFFE) modules designed for Wi-Fi and Bluetooth, including Wi-Fi 7, extending its RFFE leadership beyond smartphones into automotive, XR, PCs, wearables, and IoT markets. These modules aim to help OEMs reduce development costs, accelerate commercialisation, and improve device performance and battery life. Industry experts like ABI Research suggest these innovations position Qualcomm to leverage its expertise in complex Wi-Fi technology and expand its market reach.",
+      "banner_image": "https://www.iot-now.com/wp-content/uploads/2022/06/christian_block_headshot.jpg",
+      "source": "IoT Now",
+      "category_within_source": "General",
+      "source_domain": "IoT Now",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.24781,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QCOM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462909",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.648487",
+          "ticker_sentiment_score": "0.102330",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SWKS",
+          "relevance_score": "0.618743",
+          "ticker_sentiment_score": "0.101135",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

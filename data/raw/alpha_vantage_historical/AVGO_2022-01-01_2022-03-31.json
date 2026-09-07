@@ -1,0 +1,1592 @@
+{
+  "items": "33",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "New TI Sensor Tech Drives Toward a Collision-Free Future, Advancing Autonomous Driving and Vehicle Safety",
+      "url": "https://dallasinnovates.com/driving-toward-a-collision-free-future-new-ti-radar-sensor-advances-autonomous-driving-and-vehicle-safety/",
+      "time_published": "20220104T155253",
+      "authors": [
+        "David Kirkpatrick"
+      ],
+      "summary": "Texas Instruments (TI) unveiled a new AWR2944 radar sensor at CES 2022, designed to enhance autonomous driving and vehicle safety. This sensor can detect objects up to 40% farther away, is 30% smaller, and offers 33% higher resolution than existing radar sensors, specifically improving blind spot monitoring and turn navigation. The technology aims to contribute to a \"collision-free future\" by addressing challenges in processing large amounts of data for advanced driver assistance systems (ADAS) and improving visibility around corners, particularly important for automated parking and driving.",
+      "banner_image": "https://s24806.pcdn.co/wp-content/uploads/2022/01/TI-radar-sensor_courtesy.jpg",
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946381"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.639104"
+        }
+      ],
+      "overall_sentiment_score": 0.353566,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TXN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401539",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.626594",
+          "ticker_sentiment_score": "0.324872",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADI",
+          "relevance_score": "0.613706",
+          "ticker_sentiment_score": "0.341110",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Micron Technology searches for site for $40B factory. Is Boise among the contenders?",
+      "url": "https://www.idahostatesman.com/news/business/article257095837.html",
+      "time_published": "20220106T180700",
+      "authors": [
+        "John Sowell"
+      ],
+      "summary": "Micron Technology is reportedly scouting locations for a new $40 billion manufacturing plant, with sites in Arizona, California, Texas, and North Carolina under consideration, though Boise is apparently not on the list. This search is part of Micron's larger plan to invest over $150 billion in chip production over 10 years to address a global chip shortage and meet growing demand driven by AI, 5G, and autonomous vehicles. The company is evaluating locations based on factors like site availability, talent pool, utility services, sustainability, and regulatory environment, with a focus on domestic production potentially spurred by the CHIPS Act.",
+      "banner_image": null,
+      "source": "Idaho Statesman",
+      "category_within_source": "General",
+      "source_domain": "Idaho Statesman",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.901827"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849486"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.616374"
+        }
+      ],
+      "overall_sentiment_score": 0.189863,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MU",
+          "relevance_score": "0.960343",
+          "ticker_sentiment_score": "0.329640",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.634575",
+          "ticker_sentiment_score": "0.130738",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.553787",
+          "ticker_sentiment_score": "0.144965",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.562757",
+          "ticker_sentiment_score": "0.121484",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.571319",
+          "ticker_sentiment_score": "0.149876",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Optical lovebirds eye a $14 billion market opportunity",
+      "url": "https://www.telecomtv.com/content/access-evolution/optical-lovebirds-eye-a-14-billion-market-opportunity-43304/",
+      "time_published": "20220107T160614",
+      "authors": [
+        "Ray Le Maistre"
+      ],
+      "summary": "The merger between ADTRAN and ADVA is nearing completion, with ADTRAN shareholders approving the deal. The combined company anticipates a significant increase in its total addressable market to almost $14 billion, driven by growth opportunities in North America and Europe, and expects to boost sales by 50% in a few years. Despite the challenges of integration, both CEOs are optimistic about building a global leader in fiber networking solutions.",
+      "banner_image": null,
+      "source": "TelecomTV",
+      "category_within_source": "General",
+      "source_domain": "TelecomTV",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.901334"
+        }
+      ],
+      "overall_sentiment_score": 0.236088,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADTN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485007",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.582074",
+          "ticker_sentiment_score": "0.138104",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.556218",
+          "ticker_sentiment_score": "0.107942",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Datto Hires Splunk, Qlik Veteran Brooke Cunningham as CMO -",
+      "url": "https://www.channele2e.com/news/datto-hires-splunk-qlik-veteran-brooke-cunningham-as-cmo",
+      "time_published": "20220112T150838",
+      "authors": [
+        "Joe Panettieri"
+      ],
+      "summary": "Datto has appointed Brooke Cunningham, a veteran from Splunk and Qlik, as its new Chief Marketing Officer. This strategic hire aligns with Datto's ongoing expansion beyond its traditional storage offerings into cloud-based software and security solutions for Managed Service Providers (MSPs). Cunningham's experience in scaling businesses and nurturing partner ecosystems, particularly in the security technology sector, is expected to support Datto's accelerated growth and its commitment to the MSP community.",
+      "banner_image": "https://image-optimizer.cyberriskalliance.com/unsafe/1920x0/https://files.cyberriskalliance.com/wp-content/uploads/2023/08/datto-global-offices-1.jpg",
+      "source": "ChannelE2E",
+      "category_within_source": "General",
+      "source_domain": "ChannelE2E",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.918741"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.721718"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629109"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.602915"
+        }
+      ],
+      "overall_sentiment_score": -0.111015,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.616226",
+          "ticker_sentiment_score": "-0.102235",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.628044",
+          "ticker_sentiment_score": "-0.135089",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADSK",
+          "relevance_score": "0.638910",
+          "ticker_sentiment_score": "-0.121754",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.608938",
+          "ticker_sentiment_score": "-0.136425",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Comcast Announces World-First Test of 10G Modem Technology Capable of Delivering Multigigabit Speeds to Homes",
+      "url": "https://www.businesswire.com/news/home/20220113005341/en/Comcast-Announces-World-First-Test-of-10G-Modem-Technology-Capable-of-Delivering-Multigigabit-Speeds-to-Homes",
+      "time_published": "20220113T151437",
+      "authors": [],
+      "summary": "Comcast successfully tested a prototype 10G modem using Full Duplex DOCSIS 4.0 technology, achieving upload and download speeds faster than 4 Gbps. This marks a significant milestone in Comcast's 10G initiative, demonstrating the capability to deliver multigigabit speeds over existing network connections and promising increased reliability, performance, and lower latency for customers.",
+      "banner_image": "https://mms.businesswire.com/media/20220113005341/en/1327287/4/10G-Modem-16x9_%281%29.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.256234,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CMCSV",
+          "relevance_score": "0.325633",
+          "ticker_sentiment_score": "0.035343",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMCSA",
+          "relevance_score": "0.977803",
+          "ticker_sentiment_score": "0.410034",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.707562",
+          "ticker_sentiment_score": "0.318137",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.593080",
+          "ticker_sentiment_score": "0.261124",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Tool Market 2022 Outstanding Growth Scope Witnessed",
+      "url": "https://www.openpr.com/news/2527546/devops-tool-market-2022-outstanding-growth-scope-witnessed",
+      "time_published": "20220114T150838",
+      "authors": [],
+      "summary": "The global DevOps Tool market is projected to reach USD 6881.6 million by 2026, growing from USD 4092.1 million in 2020 at a CAGR of 13.9% over five years. This report by Infinity Business Insights analyzes key players, market trends, and the impact of COVID-19, providing insights for investors and businesses to achieve market growth. The study covers product types like DevOps Ready, Enabled, and Capable, and applications across various sectors including IT, Telecom, BFSI, and Government.",
+      "banner_image": "https://cdn.open-pr.com/V/1/V114495124_g.jpg",
+      "source": "openPR.com",
+      "category_within_source": "General",
+      "source_domain": "openPR.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.944065"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815630"
+        }
+      ],
+      "overall_sentiment_score": 0.329072,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.853341",
+          "ticker_sentiment_score": "0.322743",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.717410",
+          "ticker_sentiment_score": "0.329259",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.689680",
+          "ticker_sentiment_score": "0.316846",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.613032",
+          "ticker_sentiment_score": "0.309107",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.583984",
+          "ticker_sentiment_score": "0.332172",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Threat Landscape in 2021",
+      "url": "https://www.security.com/threat-intelligence/threat-landscape-2021",
+      "time_published": "20220119T150837",
+      "authors": [
+        "Threat Hunter Team"
+      ],
+      "summary": "Symantec, a division of Broadcom Software, reviewed the major cyber threats of 2021, highlighting ransomware, supply chain attacks, exploitation of public-facing application vulnerabilities, and attacks on critical infrastructure. While ransomware attack numbers decreased, targeted ransomware incidents increased significantly, fueled by initial access brokers and ransomware-as-a-service models. The report details prominent attacks like SolarWinds, Kaseya, and Colonial Pipeline, emphasizing the evolving tactics of threat actors and the rising impact on organizations and society.",
+      "banner_image": "https://www.security.com/_next/image?url=https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium%2Fpublic%2F2022-01%2FGettyImages-1283443958.jpg.webp%3Fh%3D9dd951d5%26itok%3DabmfZs8E%201x%2C%20https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium_2x%2Fpublic%2F2022-01%2FGettyImages-1283443958.jpg.webp%3Fh%3D9dd951d5%26itok%3DqP2pPDKm%202x&w=1080&q=75",
+      "source": "SECURITY.COM",
+      "category_within_source": "General",
+      "source_domain": "SECURITY.COM",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837465"
+        }
+      ],
+      "overall_sentiment_score": -0.039573,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.928018",
+          "ticker_sentiment_score": "0.240237",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.704265",
+          "ticker_sentiment_score": "-0.120144",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FTNT",
+          "relevance_score": "0.601506",
+          "ticker_sentiment_score": "-0.184583",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PANW",
+          "relevance_score": "0.565591",
+          "ticker_sentiment_score": "-0.109542",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Siemens collaborates with UMC on design kits for automotive and power applications",
+      "url": "https://news.siemens.com/en-us/siemens-umc-tanner-pdk/",
+      "time_published": "20220120T155320",
+      "authors": [],
+      "summary": "Siemens Digital Industries Software has partnered with United Microelectronics Corporation (UMC) to create process design kits (PDKs) for UMC's 110-nanometer and 180-nanometer BCD technology platforms. These PDKs are optimized for Siemens EDA’s Tanner custom design flow software, enabling the creation of integrated circuits for automotive and power applications. The collaboration aims to provide customers with the necessary tools to develop sophisticated power management solutions amidst increasing market demand.",
+      "banner_image": "https://images.sw.cdn.siemens.com/siemens-disw-assets/public/5kltYSlVyN0jrby5qMDfUn/en-US/SiemensEDA_FoundryNewsroom_tcm27-103446.png?auto=format,compress&fit=crop&crop=faces,edges&w=1280&h=720&q=60",
+      "source": "Siemens",
+      "category_within_source": "General",
+      "source_domain": "Siemens",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.708068"
+        }
+      ],
+      "overall_sentiment_score": 0.440369,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.609958",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.729035",
+          "ticker_sentiment_score": "0.444096",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ADI",
+          "relevance_score": "0.645059",
+          "ticker_sentiment_score": "0.342952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.640783",
+          "ticker_sentiment_score": "0.314050",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Silicon Labs Announces BG24, MG24 TinyML 2.4GHz SoCs — and Boasts of a Fourfold Performance Gain",
+      "url": "https://www.hackster.io/news/silicon-labs-announces-bg24-mg24-tinyml-2-4ghz-socs-and-boasts-of-a-fourfold-performance-gain-0bdadcfd345e",
+      "time_published": "20220124T154803",
+      "authors": [
+        "Gareth Halfacree"
+      ],
+      "summary": "Silicon Labs has unveiled its new BG24 and MG24 system-on-chip (SoC) range, targeting edge AI projects with a claimed fourfold performance boost and six-times energy efficiency improvement. These SoCs feature an Arm Cortex-M33 processor, dedicated AI/ML accelerators, and support for TensorFlow workloads. The BG24 offers Bluetooth 5.3 Low Energy, while the MG24 adds OpenThread, Zigbee, and Matter compatibility, with general availability expected in April.",
+      "banner_image": null,
+      "source": "Hackster.io",
+      "category_within_source": "General",
+      "source_domain": "Hackster.io",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.944676"
+        }
+      ],
+      "overall_sentiment_score": 0.337442,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLAB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445298",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.636661",
+          "ticker_sentiment_score": "0.298318",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCHP",
+          "relevance_score": "0.613823",
+          "ticker_sentiment_score": "0.274009",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.598363",
+          "ticker_sentiment_score": "0.268618",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tech firms connect for nature conservation",
+      "url": "https://mb.com.ph/2022/1/25/tech-firms-connect-for-nature-conservation",
+      "time_published": "20220125T131500",
+      "authors": [
+        "Emmie V. Abadilla"
+      ],
+      "summary": "Ericsson, PLDT Inc., and Smart Communications Inc. have partnered to use technology and AI-enabled solutions for the conservation of a 405-hectare mangrove wetland in Sasmuan, Pampanga. This collaboration aims to protect endangered wildlife and marine biodiversity in the area, which was designated an internationally important wetland under the Ramsar Convention in 2021. The project involves deploying AI-enabled CCTV cameras to identify bird species, with PLDT hosting the cloud system for data and Smart providing internet connectivity for environmental monitoring.",
+      "banner_image": "https://mb.com.ph/wp-content/uploads/2022/01/62304.jpeg",
+      "source": "Manila Bulletin",
+      "category_within_source": "General",
+      "source_domain": "Manila Bulletin",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.832016"
+        }
+      ],
+      "overall_sentiment_score": 0.394456,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PHI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418297",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.625117",
+          "ticker_sentiment_score": "0.309671",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CRDO Stock Price, Forecast & Analysis | CREDO TECHNOLOGY GROUP HOLDI (NASDAQ:CRDO)",
+      "url": "https://www.chartmill.com/stock/quote/CRDO/profile",
+      "time_published": "20220127T151534",
+      "authors": [],
+      "summary": "The article provides a detailed analysis of CREDO Technology Group Holding (NASDAQ:CRDO), covering its stock price, forecast, and various analytical ratings. It highlights CRDO's strong performance in the past year, its technical and fundamental ratings from ChartMill, and analysts' expectations for significant future growth in both EPS and revenue. The company specializes in high-speed connectivity solutions for the data infrastructure market.",
+      "banner_image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950739588346.svg",
+      "source": "ChartMill",
+      "category_within_source": "General",
+      "source_domain": "ChartMill",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900066"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910519"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821332"
+        }
+      ],
+      "overall_sentiment_score": 0.301432,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRDO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465068",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.630557",
+          "ticker_sentiment_score": "0.310495",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.625050",
+          "ticker_sentiment_score": "0.274465",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.604364",
+          "ticker_sentiment_score": "0.216521",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.602432",
+          "ticker_sentiment_score": "0.297844",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Juniper Guns for Cisco, Nokia With Revamped Routing Silicon",
+      "url": "https://www.sdxcentral.com/news/juniper-guns-for-cisco-nokia-with-revamped-routing-silicon/",
+      "time_published": "20220128T153032",
+      "authors": [
+        "Nancy Liu"
+      ],
+      "summary": "Juniper Networks has announced new routing silicon, Express 5 and Trio 6, claiming superior performance and power efficiency compared to Cisco's and Nokia's offerings. The Express 5 chips, designed for core routing, offer up to 28.8 Tb/s throughput, while the Trio 6, for edge routing, features machine learning capabilities and a 70% improvement in power efficiency. Dell'Oro Group analyst Shin Umeda notes that direct comparison of ASICs is challenging due to varying vendor development cycles and deployment timelines.",
+      "banner_image": null,
+      "source": "SDxCentral",
+      "category_within_source": "General",
+      "source_domain": "SDxCentral",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730925"
+        }
+      ],
+      "overall_sentiment_score": -0.041595,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JNPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.426974",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.808735",
+          "ticker_sentiment_score": "-0.312827",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.730851",
+          "ticker_sentiment_score": "-0.109757",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.611535",
+          "ticker_sentiment_score": "-0.135436",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reference design offers wireless docking over Wi-Fi 6E for PCs",
+      "url": "https://www.embedded.com/reference-design-offers-wireless-docking-over-wi-fi-6e-for-pcs/",
+      "time_published": "20220128T184644",
+      "authors": [],
+      "summary": "Synaptics Incorporated has introduced Gemini, a reference design that offers wireless docking over Wi-Fi 6E for PCs, claiming it's the world's first true Wi-Fi 6/6E wireless docking experience for laptops. This technology enables full dual-4K display capability and ultra-low latency, comparable to wired connections, and integrates hardware and software components like the BCM43752 Wi-Fi 6/6E radio and DL-1950 video interface IC. While initially focused on PC docking, Gemini's applications extend to tablets, gaming, and VR, with analyst Patrick Moorhead highlighting its potential to revolutionize connectivity in hybrid work environments.",
+      "banner_image": null,
+      "source": "www.embedded.com",
+      "category_within_source": "General",
+      "source_domain": "www.embedded.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.910623"
+        }
+      ],
+      "overall_sentiment_score": 0.29454,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SYNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494459",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.647932",
+          "ticker_sentiment_score": "0.336675",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.620492",
+          "ticker_sentiment_score": "0.263171",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.592947",
+          "ticker_sentiment_score": "0.213227",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.587852",
+          "ticker_sentiment_score": "0.219124",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VAST Data Accelerates Global Expansion Plans Across Europe and Asia",
+      "url": "https://www.01net.it/vast-data-accelerates-global-expansion-plans-across-europe-and-asia/",
+      "time_published": "20220202T141732",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "VAST Data, a storage software company, is expanding its global operations across Europe and Asia, following previous launches in several countries. This expansion aims to meet the growing demand for its Universal Storage platform, offering a modern alternative to traditional HDD storage systems, especially for AI computing, big data, and analytics. The company has partnered with leading distributors in various regions to support this growth.",
+      "banner_image": "https://mms.businesswire.com/media/20220202005291/en/1346713/21/VAST_Logo_Color%26White.jpg",
+      "source": "01net",
+      "category_within_source": "General",
+      "source_domain": "01net",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.255947,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ARW",
+          "relevance_score": "0.922291",
+          "ticker_sentiment_score": "0.342530",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.638454",
+          "ticker_sentiment_score": "0.240115",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Apple, Broadcom win new trial in $1.1 bln Caltech patent case",
+      "url": "https://www.reuters.com/technology/apple-broadcom-get-new-damages-trial-11-billion-caltech-patent-case-2022-02-04/",
+      "time_published": "20220204T141443",
+      "authors": [
+        "Blake Brittain and Jonathan Stempel"
+      ],
+      "summary": "A U.S. appeals court has invalidated a $1.1 billion jury verdict against Apple and Broadcom in a patent infringement case brought by the California Institute of Technology (Caltech). The court deemed the damages \"legally unsupportable\" and ordered a new trial on the amount of damages, while upholding the infringement findings for two of Caltech's patents. The case revolves around Caltech's Wi-Fi technology patents used in millions of Apple devices containing Broadcom chips.",
+      "banner_image": "https://www.reuters.com/resizer/v2/7PLKV5VLLRJOZCVP33L5H3MRJA.jpg?auth=c7de1c0f5360aa7e4575f2840a79c6b06a96a4bd2732dd06e7437efcf2dd8321&width=1080&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.906253"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706461"
+        }
+      ],
+      "overall_sentiment_score": -0.143501,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAPL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.122100",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.957981",
+          "ticker_sentiment_score": "-0.131641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.633622",
+          "ticker_sentiment_score": "-0.110222",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.635960",
+          "ticker_sentiment_score": "-0.101265",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.613032",
+          "ticker_sentiment_score": "-0.148735",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Apple, Broadcom Win New Trial In $1.1BN Caltech Patent Case",
+      "url": "https://zizonline.com/apple-broadcom-win-new-trial-in-1-1bn-caltech-patent-case/",
+      "time_published": "20220204T141811",
+      "authors": [],
+      "summary": "A United States appeals court has overturned a jury's decision that ordered Apple and Broadcom to pay $1.1 billion to Caltech for infringing on Wi-Fi technology patents, ordering a new trial on damages. The court deemed the original award \"legally unsupportable\" but upheld the finding of infringement on two patents and called for a new trial on a third. Caltech's two-tier damages model was rejected by the appeals court, which found it legally unsound.",
+      "banner_image": null,
+      "source": "ZIZ Broadcasting Corporation",
+      "category_within_source": "General",
+      "source_domain": "ZIZ Broadcasting Corporation",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.888497"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736668"
+        }
+      ],
+      "overall_sentiment_score": 0.110128,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.951773",
+          "ticker_sentiment_score": "0.381995",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.901227",
+          "ticker_sentiment_score": "0.395445",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.596722",
+          "ticker_sentiment_score": "-0.138012",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.558994",
+          "ticker_sentiment_score": "-0.130824",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.576780",
+          "ticker_sentiment_score": "-0.106937",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Deepika Rayala",
+      "url": "https://technologymagazine.com/interviews/deepika-rayala-cio-yext",
+      "time_published": "20220209T150356",
+      "authors": [
+        "Simon Howson-Green"
+      ],
+      "summary": "Deepika Rayala, EVP, CIO (International Operations Centre) at Yext, is an experienced IT leader with over two decades of experience in IT transformation. She emphasizes the immense opportunities for technology leaders in leveraging digital acceleration while preserving human connections. Rayala has a strong background in building IT organizations and leading large transformation programs, holding degrees in Chemical Engineering and an MBA.",
+      "banner_image": "https://assets.bizclikmedia.net/286/f8c06113a8bec49d7884ecda7d6521ad:8a41d0ae8dbe12a51a0eb3d36f1b3ed7/deepika13.jpg",
+      "source": "Technology Magazine",
+      "category_within_source": "General",
+      "source_domain": "Technology Magazine",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.272853,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "YEXT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447552",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.619974",
+          "ticker_sentiment_score": "0.225811",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IT",
+          "relevance_score": "0.648554",
+          "ticker_sentiment_score": "0.134645",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intel to Buy Israel’s Tower Semiconductor for $5.4 Billion",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/intel-to-buy-israel-s-tower-semiconductor-for-5-4-billion",
+      "time_published": "20220215T170702",
+      "authors": [
+        "Bloomberg News"
+      ],
+      "summary": "Intel Corp. has agreed to acquire Israel’s Tower Semiconductor Ltd. for $5.4 billion as part of CEO Pat Gelsinger’s strategy to expand into the outsourced chip-manufacturing business. This acquisition aims to enhance Intel's expertise and customer base in the chip-foundry market, directly competing with industry leaders like Taiwan Semiconductor Manufacturing Co. The deal is expected to close in about 12 months and is a key part of Intel's broader investment cycle to modernize its factories and rebuild manufacturing capabilities.",
+      "banner_image": null,
+      "source": "Data Center Knowledge",
+      "category_within_source": "General",
+      "source_domain": "Data Center Knowledge",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.903926"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831630"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.724071"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636783"
+        }
+      ],
+      "overall_sentiment_score": 0.084114,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.207220",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ADI",
+          "relevance_score": "0.622827",
+          "ticker_sentiment_score": "0.132876",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.608471",
+          "ticker_sentiment_score": "0.102650",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.624867",
+          "ticker_sentiment_score": "0.102301",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.615853",
+          "ticker_sentiment_score": "0.139922",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What’s Changed: 2022 Gartner Magic Quadrant for Enterprise Information Archiving",
+      "url": "https://solutionsreview.com/data-management/whats-changed-2022-gartner-magic-quadrant-for-enterprise-information-archiving/",
+      "time_published": "20220218T171607",
+      "authors": [
+        "Tim King"
+      ],
+      "summary": "The article analyzes the 2022 Gartner Magic Quadrant for Enterprise Information Archiving, highlighting the evolving market driven by digital communication and application data. It discusses changes in vendor inclusion criteria, significant movements of key players like Global Relay and Veritas Technologies into the Leaders quadrant, and the strengths of various providers across the Leaders, Visionaries, and Niche Players categories, including Microsoft, Smarsh, Proofpoint, Mimecast, Micro Focus, ZL, Archive360, Solix Technologies, Barracuda, and Jatheon.",
+      "banner_image": null,
+      "source": "Solutions Review",
+      "category_within_source": "General",
+      "source_domain": "Solutions Review",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.910501"
+        }
+      ],
+      "overall_sentiment_score": 0.342666,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.334309",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.823291",
+          "ticker_sentiment_score": "0.337934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "STX",
+          "relevance_score": "0.602027",
+          "ticker_sentiment_score": "0.315171",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.615873",
+          "ticker_sentiment_score": "0.310457",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine: Disk-wiping Attacks Precede Russian Invasion",
+      "url": "https://www.security.com/threat-intelligence/ukraine-wiper-malware-russia",
+      "time_published": "20220224T141811",
+      "authors": [
+        "Threat Hunter Team"
+      ],
+      "summary": "Symantec detected a new disk-wiping malware, Trojan.Killdisk, used in attacks against Ukrainian organizations and in Lithuania before Russia's invasion on February 24, 2022. The attacks targeted financial, defense, aviation, and IT sectors, with evidence suggesting preparations began in November 2021. In some instances, ransomware was deployed simultaneously as a decoy to mask the wiper attacks.",
+      "banner_image": "https://www.security.com/_next/image?url=https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium%2Fpublic%2F2022-02%2FWiper.jpg.webp%3Fh%3Dae1dc364%26itok%3DmbfgKQDj%201x%2C%20https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium_2x%2Fpublic%2F2022-02%2FWiper.jpg.webp%3Fh%3Dae1dc364%26itok%3DKQh61-9N%202x&w=1080&q=75",
+      "source": "SECURITY.COM",
+      "category_within_source": "General",
+      "source_domain": "SECURITY.COM",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.004342,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.332869",
+          "ticker_sentiment_score": "0.024441",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Capital Group Dividend Value ETF ETF Price, Holdings, & News (NYSEARCA:CGDV)",
+      "url": "https://www.marketbeat.com/stocks/NYSEARCA/CGDV/",
+      "time_published": "20220225T060919",
+      "authors": [],
+      "summary": "The Capital Group Dividend Value ETF (CGDV) is an actively managed exchange-traded fund that primarily invests in dividend-paying, large and mid-cap US companies, aiming to produce income exceeding the average yield on US stocks. Launched on Feb 22, 2022, CGDV has assets under management of $35.92 billion and a current dividend yield of 1.14%. The ETF has seen a 12.3% increase in its stock price this year and its top holdings include NVIDIA, Microsoft, and Broadcom.",
+      "banner_image": "https://www.marketbeat.com/img/logos/thumbnail/capital-group-dividend-value-etf-logo.png?s=thumb&v=20220729092125",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939736"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737954"
+        }
+      ],
+      "overall_sentiment_score": 0.341599,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CGDV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424657",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.644014",
+          "ticker_sentiment_score": "0.314603",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.600831",
+          "ticker_sentiment_score": "0.348998",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.626155",
+          "ticker_sentiment_score": "0.303386",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.623683",
+          "ticker_sentiment_score": "0.340533",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Boosting Chipmaking With $5.4B Tower Buy",
+      "url": "https://www.ocbj.com/news/weekly-news/intel-boosting-chipmaking-54b-tower-buy/",
+      "time_published": "20220228T185707",
+      "authors": [
+        "staff-author"
+      ],
+      "summary": "Intel Corp. is set to acquire Tower Semiconductor Ltd. for $5.4 billion to expand its foundry business and meet chip demand. The acquisition aims to leverage Tower's expertise in manufacturing analog chips for various industries and scale Intel's foundry services globally. The deal, pending regulatory approval, is expected to enhance Intel's capacity in the growing foundry market.",
+      "banner_image": null,
+      "source": "Orange County Business Journal",
+      "category_within_source": "General",
+      "source_domain": "Orange County Business Journal",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.939987"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830199"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739939"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.635942"
+        }
+      ],
+      "overall_sentiment_score": 0.315379,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSEM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.436432",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.906813",
+          "ticker_sentiment_score": "0.325956",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.636335",
+          "ticker_sentiment_score": "0.128955",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The role of phase-change memory in automotive OTA firmware upgrades",
+      "url": "https://www.embedded.com/the-role-of-phase-change-memory-in-automotive-ota-firmware-upgrades/",
+      "time_published": "20220305T140548",
+      "authors": [
+        "Sachin Gupta"
+      ],
+      "summary": "This article discusses the crucial role of phase-change memory (PCM) in enabling efficient and reliable over-the-air (OTA) firmware upgrades in automotive zone- and domain-based ECU architectures. It explains how PCM addresses challenges like memory cost, update speed, and downtime compared to traditional NOR flash by utilizing a unique dual-cell structure for single-ended mode upgrades, effectively doubling memory capacity during the process. The article highlights PCM's advantages, including faster write operations, no erase requirement, and low power consumption, making it ideal for the next generation of automotive ECUs.",
+      "banner_image": "https://www.embedded.com/wp-content/uploads/sites/2/2022/03/Part-2-Figure-1a.png",
+      "source": "www.embedded.com",
+      "category_within_source": "General",
+      "source_domain": "www.embedded.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901096"
+        }
+      ],
+      "overall_sentiment_score": 0.170097,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STM",
+          "relevance_score": "0.921449",
+          "ticker_sentiment_score": "0.303472",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.600383",
+          "ticker_sentiment_score": "0.241934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.649000",
+          "ticker_sentiment_score": "0.128151",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADI",
+          "relevance_score": "0.609646",
+          "ticker_sentiment_score": "0.114902",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.640914",
+          "ticker_sentiment_score": "0.100032",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GLOBALFOUNDRIES ANNOUNCES NEXT GENERATION IN SILICON PHOTONICS SOLUTIONS AND COLLABORATES WITH INDUSTRY LEADERS TO ADVANCE A NEW ERA OF MORE IN THE DATA CENTER",
+      "url": "https://www.prnewswire.com/news-releases/globalfoundries-announces-next-generation-in-silicon-photonics-solutions-and-collaborates-with-industry-leaders-to-advance-a-new-era-of-more-in-the-data-center-301496360.html",
+      "time_published": "20220307T083000",
+      "authors": [],
+      "summary": "GlobalFoundries (GF) has announced GF Fotonix™, its next-generation silicon photonics platform, aimed at addressing the explosive growth of data and reducing power consumption in data centers. GF is collaborating with industry leaders including Broadcom, Cisco Systems, Inc., Marvell, and NVIDIA, along with photonic innovators like Ayar Labs and PsiQuantum, to deliver innovative and feature-rich solutions. This monolithic platform, combining advanced photonics features and RF-CMOS on a single silicon wafer, is designed to enable faster, more energy-efficient data transmission and supports various high-growth markets.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.909216"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.728103"
+        }
+      ],
+      "overall_sentiment_score": 0.343852,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.470168",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.626564",
+          "ticker_sentiment_score": "0.324982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.646459",
+          "ticker_sentiment_score": "0.307069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.642195",
+          "ticker_sentiment_score": "0.316211",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.557684",
+          "ticker_sentiment_score": "0.269962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FIT Introduces QSFP-DD800 Connector / DAC Solutions at OFC 2022",
+      "url": "https://www.businesswire.com/news/home/20220309005903/en/FIT-Introduces-QSFP-DD800-Connector-DAC-Solutions-at-OFC-2022",
+      "time_published": "20220309T132306",
+      "authors": [],
+      "summary": "Foxconn Interconnect Technology (FIT) announced that it is jointly exhibiting its QSFP-DD800 interconnection solution with Broadcom and MultiLane at the Optical Networking and Communication Conference & Exhibition (OFC) in San Diego. The solution aims to address the growing demand for higher bandwidth in communication technology (5G/6G) by enabling 800G transmission speeds, crucial for upgrading switch data rates and supporting cloud applications. FIT's QSFP-DD800 also incorporates optimization and immersion cooling technologies to promote lower energy and carbon consumption, assisting partners in achieving carbon neutrality.",
+      "banner_image": "https://mms.businesswire.com/media/20220309005903/en/1385309/4/FIT_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.333603,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.945182",
+          "ticker_sentiment_score": "0.320719",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CAFC Affirms ITC Denial of Broadcom’s Request for Ban on Renesas Products Under Section 337",
+      "url": "https://ipwatchdog.com/2022/03/09/cafc-affirms-itc-denial-broadcoms-request-ban-renesas-products/",
+      "time_published": "20220309T135400",
+      "authors": [
+        "Sadaf Deedar"
+      ],
+      "summary": "The U.S. Court of Appeals for the Federal Circuit (CAFC) affirmed the ITC's decision to deny Broadcom's request for a ban on Renesas products. The ITC had denied the ban because Broadcom failed to satisfy the domestic industry requirement under Section 337, as it couldn't demonstrate an actual product protected by its patents. Additionally, the CAFC upheld the Patent Trial and Appeal Board's findings that certain claims of Broadcom's patents were obvious.",
+      "banner_image": "https://ipwatchdog.com/wp-content/uploads/2022/03/Depositphotos_229492118_XL-1024x683.jpg",
+      "source": "IPWatchdog.com",
+      "category_within_source": "General",
+      "source_domain": "IPWatchdog.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.809375"
+        }
+      ],
+      "overall_sentiment_score": -0.341199,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.310113",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Here’s How ICE Illegally Obtained Bulk Financial Records from Western Union",
+      "url": "https://www.eff.org/deeplinks/2022/03/heres-how-ice-illegally-obtained-bulk-financial-records-western-union",
+      "time_published": "20220310T141251",
+      "authors": [
+        "Matthew Guariglia"
+      ],
+      "summary": "Senator Ron Wyden has revealed that Homeland Security Investigations (HSI), a unit within ICE, illegally obtained millions of financial records from Western Union and Maxitransfers Corporation using administrative subpoenas. These subpoenas compelled the companies to provide records of money transfers over $500 to or from certain U.S. states and Mexico, which were then stored in a database accessible to hundreds of law enforcement agencies. This bulk surveillance is deemed illegal due to the misuse of administrative subpoenas, which are statutorily required to seek records \"relevant\" to specific investigations.",
+      "banner_image": "https://www.eff.org/files/banner_library/border-laredo-2.jpg",
+      "source": "Electronic Frontier Foundation",
+      "category_within_source": "General",
+      "source_domain": "Electronic Frontier Foundation",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.924199"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.817979"
+        }
+      ],
+      "overall_sentiment_score": -0.226887,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.437609",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "ICE",
+          "relevance_score": "0.723392",
+          "ticker_sentiment_score": "-0.408044",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.618472",
+          "ticker_sentiment_score": "-0.149745",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.630888",
+          "ticker_sentiment_score": "-0.129285",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.621229",
+          "ticker_sentiment_score": "-0.119829",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Webroot sues CrowdStrike, Sophos, others over alleged patent infringement",
+      "url": "https://www.thestack.technology/webroot-sues-competitors-for-patent-infringement/",
+      "time_published": "20220315T180604",
+      "authors": [
+        "Eliot Beer"
+      ],
+      "summary": "Webroot and its parent company OpenText are suing Trend Micro, Sophos, Kaspersky, and CrowdStrike for alleged infringement of several malware detection patents, some dating back to 2005. The lawsuits, filed in the Western District of Texas, claim these defendants infringe upon Webroot's intellectual property related to endpoint security products and platforms. Competitors and observers criticized the move, with CrowdStrike calling it typical of a \"patent troll\" and others viewing it as \"patent bullying.\"",
+      "banner_image": null,
+      "source": "The Stack",
+      "category_within_source": "General",
+      "source_domain": "The Stack",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.806499"
+        }
+      ],
+      "overall_sentiment_score": 0.0153,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTEX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.036567",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWD",
+          "relevance_score": "0.927035",
+          "ticker_sentiment_score": "0.019720",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.705109",
+          "ticker_sentiment_score": "0.009716",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.620895",
+          "ticker_sentiment_score": "0.021486",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.617387",
+          "ticker_sentiment_score": "0.041456",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Israel to build high-power laser interceptor",
+      "url": "https://www.tv7israelnews.com/israel-to-build-high-power-laser-interceptor/",
+      "time_published": "20220318T163703",
+      "authors": [
+        "Erin Viner"
+      ],
+      "summary": "Israeli Defense Minister Benny Gantz has approved a multi-million shekel budget for the development and production of the “Iron Beam” high-power laser system. This system is designed to intercept rockets, mortars, and unmanned aerial vehicles (UAVs), representing a significant technological breakthrough and enhancement to Israel's security capabilities. The project involves the IMOD Directorate of Defense Research and Development (DDR&D), Rafael Advanced Defense Systems Ltd., and Elbit Systems Ltd.",
+      "banner_image": null,
+      "source": "TV7 Israel News",
+      "category_within_source": "General",
+      "source_domain": "TV7 Israel News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.801085"
+        }
+      ],
+      "overall_sentiment_score": 0.367675,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415267",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.607511",
+          "ticker_sentiment_score": "0.319988",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Global Navigation Satellite System Market is Projected to Hit USD 320.73 Billion in 2021-2028 | GNSS Industry Exhibit a CAGR of 9.02%",
+      "url": "https://www.globenewswire.com/news-release/2022/03/22/2407821/0/en/Global-Navigation-Satellite-System-Market-is-Projected-to-Hit-USD-320-73-Billion-in-2021-2028-GNSS-Industry-Exhibit-a-CAGR-of-9-02.html",
+      "time_published": "20220322T103100",
+      "authors": [],
+      "summary": "The global navigation satellite system (GNSS) market is projected to grow from USD 175.19 billion in 2021 to USD 320.73 billion in 2028, exhibiting a CAGR of 9.02%. This growth is driven by numerous applications across various sectors and the increasing acceptance of autonomous vehicles. The COVID-19 pandemic has had an affirmative effect on the GNSS market due to boosted supply and demand.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849383"
+        }
+      ],
+      "overall_sentiment_score": 0.62861,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRMB",
+          "relevance_score": "0.936886",
+          "ticker_sentiment_score": "0.738985",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.727522",
+          "ticker_sentiment_score": "0.699882",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.689528",
+          "ticker_sentiment_score": "0.603423",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LHX",
+          "relevance_score": "0.648889",
+          "ticker_sentiment_score": "0.594914",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.581048",
+          "ticker_sentiment_score": "0.535722",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Verblecon: Sophisticated New Loader Used in Low-level Attacks",
+      "url": "https://www.security.com/threat-intelligence/verblecon-sophisticated-malware-cryptocurrency-mining-discord",
+      "time_published": "20220329T132306",
+      "authors": [
+        "Threat Hunter Team"
+      ],
+      "summary": "Symantec analysts discovered a new, complex malware loader named Trojan.Verblecon in January 2022, primarily used for installing cryptocurrency miners and potentially stealing Discord tokens. Despite its sophisticated capabilities, the current attacks are low-reward, suggesting the attackers may not fully grasp the malware's potential. If leveraged by more experienced actors, Verblecon could be used for more serious threats like ransomware or espionage campaigns.",
+      "banner_image": "https://www.security.com/_next/image?url=https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium%2Fpublic%2F2022-03%2FMain%2520Image.jpg.webp%3Fh%3D790be497%26itok%3Dn1UVFv5T%201x%2C%20https%3A%2F%2Fwww.security.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblogs_hero_teaser_medium_2x%2Fpublic%2F2022-03%2FMain%2520Image.jpg.webp%3Fh%3D790be497%26itok%3DdLif76Tw%202x&w=1080&q=75",
+      "source": "SECURITY.COM",
+      "category_within_source": "General",
+      "source_domain": "SECURITY.COM",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.815810"
+        }
+      ],
+      "overall_sentiment_score": 0.117023,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.942773",
+          "ticker_sentiment_score": "0.113780",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Global Semiconductor Market to Boost in Coming Years –",
+      "url": "https://www.globenewswire.com/news-release/2022/03/29/2412128/0/en/Global-Semiconductor-Market-to-Boost-in-Coming-Years-Projected-to-Reach-Worth-USD-820-1-Billion-by-2028-BlueWeave.html",
+      "time_published": "20220329T135355",
+      "authors": [],
+      "summary": "The global semiconductor market was valued at USD 550.2 billion in 2021 and is projected to reach USD 820.1 billion by 2028, growing at a CAGR of 5.3%. This growth is primarily driven by the increasing demand for consumer electronic devices and the adoption of advanced technologies like AI and IoT, with the Asia-Pacific region dominating the market. Despite challenges from changing trade policies and high manufacturing costs, the market continues to expand due to surging demand for memory devices and the accelerating pace of digitization.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/c262fb14-6b29-4678-b531-a35a53352642",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.904534"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.737161"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605051"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622702"
+        }
+      ],
+      "overall_sentiment_score": 0.287635,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXPI",
+          "relevance_score": "0.845111",
+          "ticker_sentiment_score": "0.254037",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.707599",
+          "ticker_sentiment_score": "0.280060",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.713863",
+          "ticker_sentiment_score": "0.274049",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.730770",
+          "ticker_sentiment_score": "0.277729",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.742579",
+          "ticker_sentiment_score": "0.265354",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "New secure elements authenticate Qi 1.3 wireless charging",
+      "url": "https://www.embedded.com/new-secure-elements-authenticate-qi-1-3-wireless-charging/",
+      "time_published": "20220330T134910",
+      "authors": [],
+      "summary": "Microchip Technology has introduced new secure elements, TrustFLEX ECC608 and Trust Anchor TA100, to authenticate devices using Qi 1.3 wireless charging. These solutions, combined with Microchip's secure key provisioning services, aim to provide an all-in-one secure storage subsystem for consumer and automotive applications, meeting the WPC Qi 1.3 specification's mandate for cryptographic verification of power transmitters. This enables safer and faster wireless charging by authenticating the charger's source and quality.",
+      "banner_image": "https://www.embedded.com/embedded/wp-content/uploads/sites/2/2022/03/Microchip-Qi-13-secure-authentication.jpg?w=300",
+      "source": "Embedded.com",
+      "category_within_source": "General",
+      "source_domain": "Embedded.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.948681"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.715362"
+        }
+      ],
+      "overall_sentiment_score": 0.183501,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCHPP",
+          "relevance_score": "0.321000",
+          "ticker_sentiment_score": "0.036569",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MCHP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494542",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.631138",
+          "ticker_sentiment_score": "0.142208",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

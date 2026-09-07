@@ -1,0 +1,122 @@
+{
+  "AAPL|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "AAPL",
+    "count": 209,
+    "file": "AAPL_2022-01-01_2022-03-31.json"
+  },
+  "AMD|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "AMD",
+    "count": 110,
+    "file": "AMD_2022-01-01_2022-03-31.json"
+  },
+  "AMZN|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "AMZN",
+    "count": 306,
+    "file": "AMZN_2022-01-01_2022-03-31.json"
+  },
+  "AVGO|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "AVGO",
+    "count": 33,
+    "file": "AVGO_2022-01-01_2022-03-31.json"
+  },
+  "GOOGL|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "GOOGL",
+    "count": 158,
+    "file": "GOOGL_2022-01-01_2022-03-31.json"
+  },
+  "META|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "META",
+    "count": 100,
+    "file": "META_2022-01-01_2022-03-31.json"
+  },
+  "MSFT|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "MSFT",
+    "count": 310,
+    "file": "MSFT_2022-01-01_2022-03-31.json"
+  },
+  "NVDA|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "NVDA",
+    "count": 155,
+    "file": "NVDA_2022-01-01_2022-03-31.json"
+  },
+  "ORCL|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "ORCL",
+    "count": 54,
+    "file": "ORCL_2022-01-01_2022-03-31.json"
+  },
+  "TSLA|2022-01-01|2022-03-31": {
+    "status": "complete",
+    "ticker": "TSLA",
+    "count": 164,
+    "file": "TSLA_2022-01-01_2022-03-31.json"
+  },
+  "AAPL|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "AAPL",
+    "count": 182,
+    "file": "AAPL_2022-04-01_2022-06-30.json"
+  },
+  "AMD|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "AMD",
+    "count": 102,
+    "file": "AMD_2022-04-01_2022-06-30.json"
+  },
+  "AMZN|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "AMZN",
+    "count": 370,
+    "file": "AMZN_2022-04-01_2022-06-30.json"
+  },
+  "AVGO|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "AVGO",
+    "count": 49,
+    "file": "AVGO_2022-04-01_2022-06-30.json"
+  },
+  "GOOGL|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "GOOGL",
+    "count": 142,
+    "file": "GOOGL_2022-04-01_2022-06-30.json"
+  },
+  "META|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "META",
+    "count": 106,
+    "file": "META_2022-04-01_2022-06-30.json"
+  },
+  "MSFT|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "MSFT",
+    "count": 331,
+    "file": "MSFT_2022-04-01_2022-06-30.json"
+  },
+  "NVDA|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "NVDA",
+    "count": 120,
+    "file": "NVDA_2022-04-01_2022-06-30.json"
+  },
+  "ORCL|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "ORCL",
+    "count": 76,
+    "file": "ORCL_2022-04-01_2022-06-30.json"
+  },
+  "TSLA|2022-04-01|2022-06-30": {
+    "status": "complete",
+    "ticker": "TSLA",
+    "count": 221,
+    "file": "TSLA_2022-04-01_2022-06-30.json"
+  }
+}

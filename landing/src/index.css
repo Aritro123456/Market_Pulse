@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{font-family:'TT Norms Pro';src:url('/fonts/tt-norms-pro-regular.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'TT Norms Pro';src:url('/fonts/tt-norms-pro-semibold.woff2') format('woff2');font-weight:600;font-display:swap}
+html,body{font-family:'TT Norms Pro',Arial,sans-serif;background:#F5F5F5;scroll-behavior:smooth}
+*{font-family:inherit}
+::selection{background:#d9d0ee}
+a:focus-visible,summary:focus-visible{outline:3px solid #6550a3;outline-offset:6px}
+.marquee-track,.backers-track{display:flex;width:max-content;animation:marquee 22s linear infinite}
+.backers-track{animation-name:backers-marquee;animation-duration:30s}
+@keyframes marquee{to{transform:translateX(-50%)}}
+@keyframes backers-marquee{to{transform:translateX(-50%)}}
+.hero-card{height:calc(100vh - 96px);background:linear-gradient(120deg,#dce8c9,#ded0f1 60%,#c0bad7)}
+.commerce-card{background:linear-gradient(145deg,#ddd6ed,#d4ddec 50%,#b4cbd6)}
+@media(max-width:767px){.hero-copy{padding:64px 24px 24px}.hero-copy h1{font-size:52px}.hero-marquee{margin-top:auto}.hero-card video{object-position:65% center}.hero-card:after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#f1f1e6c9,transparent)}.commerce-card{min-height:580px}}
+@media(max-height:740px){.hero-copy{padding-top:48px}.hero-marquee{margin-top:auto}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.marquee-track,.backers-track{animation:none}video{display:none}}
